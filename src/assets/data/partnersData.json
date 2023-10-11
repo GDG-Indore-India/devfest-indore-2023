@@ -1,0 +1,43 @@
+[
+	{
+  	 "name":"GDG Cloud Indore",
+      "desc":"Google Developers Group(GDG) Cloud Indore meetup event includes talks on a wide range of technical topics where you can learn new skills through meetups, hands-on workshops, online challenges and hackathon. The community prides itself on being an inclusive environment where everyone and anyone interested in tech - from beginner developers to experienced professionals - all are welcome to join.",
+      "image":"gdg-cloud-indore.png",
+      "socialMedia":{
+      	"instagram":"https://instagram.com/gdgcloudindore/",
+        "linkedin":"https://www.linkedin.com/company/gdgcloudindore/mycompany/",
+        "twitter":"https://twitter.com/gdgcloudindore",
+        "github":""
+      },
+      "links": false,
+      "website":"https://gdg.community.dev/gdg-cloud-indore/"
+  },
+  {
+    "name":"WTM Indore",
+     "desc":"The Women Techmakers Ambassador program supports women in technology who are looking to create impact and give back to their communities. As an Ambassador, you’ll engage with your community by participating in one or more leadership activities on a quarterly basis. Ambassadors receive support from Google and the larger Ambassador community.",
+     "image":"wtm-indore.png",
+     "socialMedia":{
+       "instagram":"https://www.instagram.com/wtm_indore/",
+       "linkedin":"https://www.linkedin.com/company/wtmindore/",
+       "twitter":"https://twitter.com/IndoreWtm",
+       "github":"",
+       "website":""
+     },
+     "links": false,
+     "website": "https://developers.google.com/womentechmakers/members"
+ },
+ {
+  "name":"GDSC Indore",
+   "desc":"",
+   "image":"gdsc-indore-logo.png",
+   "socialMedia":{
+     "instagram":"",
+     "linkedin":"",
+     "twitter":"",
+     "github":"",
+     "website":""
+   },
+   "links": true,
+   "gdsc_iist": "https://gdsc.community.dev/indore-institute-of-science-technology-indore/"
+}
+]

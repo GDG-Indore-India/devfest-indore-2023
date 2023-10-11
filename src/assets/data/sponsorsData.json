@@ -1,0 +1,86 @@
+[
+	{
+  	 "name":"Acropolis",
+      "desc":"Acropolis Group is a premier institution in the field of professional education based at Indore with 6,000+ Students actively studying in the fields of Engineering, Management, Computers Application, Pharmacy, Science, Commerce, Arts, and Diploma. Established in the year 2005, we are amongst the Top 3 Engineering Institute in the city.",
+      "image":"acropolis.jpg",
+      "socialMedia":{
+      	"instagram":"https://instagram.com/acropolis_official/",
+        "linkedin":"https://www.linkedin.com/school/acropolis-institute-of-technology-and-research-manglia-chouraha-indore/about/",
+        "twitter":"https://twitter.com/AcropolisIndia",
+        "github":"",
+        "youtube": ""
+      },
+      "links": false,
+      "website":"http://aitr.ac.in/"
+  },
+  {
+    "name":"Softude",
+   "desc":"Softude, previously known as Systematix Infotech, has completed an extensive rebranding effort in response to accelerated company growth and renewal of its corporate vision. Incorporated in 2005, Softude is a global IT consulting and services company with expertise in architecting digital transformation solutions and providing software product engineering services. We are committed to creating innovative and interactive digital experiences that connect people to the brand. ",
+   "image":"softude.png",
+   "socialMedia":{
+       "instagram":"https://instagram.com/softude_/",
+     "linkedin":"https://www.linkedin.com/company/softude/",
+     "twitter":"https://twitter.com/Softude_",
+     "github":"",
+     "youtube": ""
+   },
+   "links": false,
+   "website":""
+},
+{
+    "name":"Luxare",
+   "desc":"Luxare brings an innovative suite of software solutions for jewelry manufacturers, wholesalers, retailers, and vendors, which are efficient, customizable, and easy to implement and integrate into your business.",
+   "image":"luxare.png",    
+   "socialMedia":{
+       "instagram":"https://www.instagram.com/diaspark/",
+     "linkedin":"https://www.linkedin.com/company/diaspark-inc",
+     "twitter":"https://twitter.com/diasparkinc",
+     "github":"",
+     "youtube": ""
+   },
+   "links": false,
+   "website":""
+},
+{
+    "name":"Protonshub",
+   "desc":"Protonshub is on a mission to eliminate manual intervention in business processes and hence we have been working with singular focus to introduce automation in business through cloud, Devops, QA and testing services to ensure quick resolution and efficient decision making.",
+   "image":"protonshub.png",    
+   "socialMedia":{
+       "instagram":"https://www.instagram.com/protonshub_technologies/",
+     "linkedin":"https://www.linkedin.com/company/protonshub-technologies",
+     "twitter":"https://twitter.com/protonshub",
+     "github":"",
+     "youtube": ""
+   },
+   "links": false,
+   "website":"https://www.protonshub.com/"
+},
+{
+    "name":"Webllisto",
+   "desc":"Webllisto is a prominent IT Consulting and Engineering firm offering clients the finest Web and Software development services for their business. Our exceptional Web services are dedicated to Enterprises, ISVs, Startups, and digital agencies.",
+   "image":"webllisto.png",    
+   "socialMedia":{
+       "instagram":"https://www.instagram.com/webllisto/",
+     "linkedin":"https://www.linkedin.com/company/webllisto/",
+     "twitter":"https://twitter.com/webllisto",
+     "github":"",
+     "youtube": ""
+   },
+   "links": false,
+   "website":"https://webllisto.com/"
+},
+{
+  "name":"IIST",
+ "desc":"",
+ "image":"IIST-Logo.png",    
+ "socialMedia":{
+     "instagram":"https://instagram.com/indoreinstitute1",
+   "linkedin":"",
+   "twitter":"",
+   "github":"",
+   "youtube": ""
+ },
+ "links": false,
+ "website":""
+}
+]

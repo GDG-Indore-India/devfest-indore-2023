@@ -1,0 +1,102 @@
+[
+    {
+        "id": "101",
+        "name": "Protonshub",
+        "company": {
+          "designation": "",
+          "name": ""
+        },
+        "image": "protonshub.png",
+        "bio": "Protonshub is on a mission to eliminate manual intervention in business processes and hence we have been working with singular focus to introduce automation in business through cloud, Devops, QA and testing services to ensure quick resolution and efficient decision making.",
+        "social": {
+          "instagram":"https://www.instagram.com/protonshub_technologies/",
+         "linkedin":"https://www.linkedin.com/company/protonshub-technologies",
+         "twitter":"https://twitter.com/protonshub",
+         "github":"",
+         "youtube": ""
+        },
+        "domain": "AI / ML",
+        "website":"https://www.protonshub.com/",
+        "sessionId": []
+      },
+      {
+        "id": "102",
+        "name": "Webllisto",
+        "company": {
+          "designation": "",
+          "name": ""
+        },
+        "image": "webllisto.png",
+        "bio": "Webllisto is a prominent IT Consulting and Engineering firm offering clients the finest Web and Software development services for their business. Our exceptional Web services are dedicated to Enterprises, ISVs, Startups, and digital agencies.",
+        "social": {
+          "instagram":"https://www.instagram.com/webllisto/",
+          "linkedin":"https://www.linkedin.com/company/webllisto/",
+          "twitter":"https://twitter.com/webllisto",
+          "github":"",
+          "youtube": ""
+        },
+        "domain": "AI / ML",
+        "website":"https://webllisto.com/",
+        "sessionId": []
+      },
+      {
+        "id": "103",
+        "name": "Softude",
+        "company": {
+          "designation": "",
+          "name": ""
+        },
+        "image": "softude.png",
+        "bio": "Softude, previously known as Systematix Infotech, has completed an extensive rebranding effort in response to accelerated company growth and renewal of its corporate vision. Incorporated in 2005, Softude is a global IT consulting and services company with expertise in architecting digital transformation solutions and providing software product engineering services. We are committed to creating innovative and interactive digital experiences that connect people to the brand. ",
+        "social": {
+          "instagram":"https://instagram.com/softude_/",
+         "linkedin":"https://www.linkedin.com/company/softude/",
+         "twitter":"https://twitter.com/Softude_",
+         "github":"",
+         "youtube": ""
+        },
+        "domain": "AI / ML",
+        "website":"https://webllisto.com/",
+        "sessionId": []
+      },
+      {
+        "id": "105",
+        "name": "Diaspark",
+        "company": {
+          "designation": "",
+          "name": ""
+        },
+        "image": "diaspark-logo.png",
+        "bio": "We are an end-to-end IT, Digital Transformation and Consulting services provider to mid-sized and global fortune 500 businesses across the globe. With over two decades of experience of working with global businesses, we enable organizations to realize maximized business values by building innovative technology solutions.",
+        "social": {
+          "instagram":"https://www.instagram.com/diaspark/",
+          "linkedin":"https://www.linkedin.com/company/diaspark-inc",
+          "twitter":"https://twitter.com/diasparkinc",
+          "github":"",
+          "youtube": ""
+        },
+        "domain": "AI / ML",
+        "website":"",
+        "sessionId": []
+      },
+      {
+        "id": "106",
+        "name": "Metafic",
+        "company": {
+          "designation": "",
+          "name": ""
+        },
+        "image": "metafic.png",
+        "bio": "Metafic has been delivering work that powers game-changing companies and global influencers. Having already worked with companies and organizations like Facebook, National Supercomputing Centre (NSCC) Singapore, Builder.ai, Udacity, Madison Media, Godrej, and more, we have delivered groundbreaking products on mobile, web, and XR.",
+        "social": {
+          "instagram":"https://www.instagram.com/metafic.co/",
+          "linkedin":"https://www.linkedin.com/company/metafic/",
+          "twitter":"https://twitter.com/metafic_co",
+          "github":"",
+          "youtube": ""
+        },
+        "domain": "AI / ML",
+        "website":"https://metafic.co/",
+        "sessionId": []
+      }
+]

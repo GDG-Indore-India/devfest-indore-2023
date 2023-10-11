@@ -1,0 +1,558 @@
+[
+    {
+      "cid": "1",
+      "name": "Agrahyah Technologies Pvt Ltd.",
+      "logo": "Agrahyah.png",
+      "description": "Agrahyah Technologies has a strategic duo play in Voice Technology and Audio Content. Our products include ConPro.ai, an AI enabled conversational commerce engine, and aawaz.com; the largest podcast network in Indian languages. We are a preferred partner for Google and Amazon for developing voice tech solutions on Google Assistant, and Alexa. Agrahyah has many firsts. We are India's first Voice Agency We built India's first Connected Cars on Voice We made Alexa speak in Shah Rukh Khan's Voice",
+      "links": {
+        "website": "https://www.agrahyah.com",
+        "linkedin": "https://www.linkedin.com/company/agrahyah-technologies",
+        "facebook": "",
+        "twitter": "https://twitter.com/agrahyah",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "2",
+      "name": "Bajaj Finserv Health Limited",
+      "logo": "Bajaj_Finserv.png",
+      "description": "Bajaj Finserv Health is an all-in-one healthcare app where you can get a wide range of healthcare services such as accessing personalised healthcare plans, finding clinics near you, booking appointments, storing your health records and much more.",
+      "links": {
+        "website": "https://www.bajajfinservhealth.in/",
+        "linkedin": "https://in.linkedin.com/company/bajaj-finserv-health",
+        "facebook": "",
+        "twitter": "https://twitter.com/Bajaj_Finserv",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "3",
+      "name": "Danalitic India Pvt. Ltd.",
+      "logo": "danalitic.png",
+      "description": "We Create The Most Realistic AI Enabled Humanise Interactions For Deeper Engagement if you've ever thought of combining the human brain with suuperb technologies for your business needs them you better make decisions with Danalitic the best AI Venture Tech Platform provides you with automated decision making, prediction, personalization & recommendation in real time, which is a built on Genomic Science, Psychology and Neuroscience Capabilities, Voice + WebSdk + Mobile is all that we do when you trust us for making your entity a fruitful and woth your investment in Data Analytics.",
+      "links": {
+        "website": "https://www.danalitic.com",
+        "linkedin": "https://www.linkedin.com/company/danalitic/?originalSubdomain=in",
+        "facebook": "https://www.facebook.com/danalitic/",
+        "twitter": "https://twitter.com/danalitici",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "4",
+      "name": "Datahash DMCC",
+      "logo": "datahash.png",
+      "description": "Datahash is an arm to put into motion the expansion of one of India's largest data & marketing analytics company Tatvic Analytics",
+      "links": {
+        "website": "https://www.datahash.com",
+        "linkedin": "https://www.linkedin.com/company/datahash/about/",
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "5",
+      "name": "Keeptruckin",
+      "logo": "KeepTruckIn.png",
+      "description": "KeepTruckin is on a mission to connect the world’s trucks. With the leading ELD and fleet management platform, we are bringing the trucking industry online and fundamentally changing the way freight is moved on our roads.",
+      "links": {
+        "website": "https://keeptruckin.com/",
+        "linkedin": "https://www.linkedin.com/company/keep-truckin/",
+        "facebook": "https://www.facebook.com/keeptruckin",
+        "twitter": "https://twitter.com/KeepTruckinInc",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "6",
+      "name": "Open Financial Technologies",
+      "logo": "bank-open.png",
+      "description": "We’re a neobanking platform that is fast changing the way business banking rolls. Helping businesses hustle their way through business finances is what we live by.",
+      "links": {
+        "website": "http://www.open.money",
+        "linkedin": "https://www.linkedin.com/company/bankwithopen/",
+        "facebook": "https://www.facebook.com/BankWithOpen/",
+        "twitter": "https://twitter.com/BankWithOpen/",
+        "instagram": "https://www.instagram.com/BankWithOpen/",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "7",
+      "name": "Prospecta Technologies India Pvt. Ltd.",
+      "logo": "Prospecta Technologies_Logo.jpg",
+      "description": "Prospecta is a global organization in consulting, technology and outsourcing solutions. We enable clients in a number of countries to operate efficiently and outperform the competition and stay ahead. We help enterprises transform their business and thrive in an ever changing world through strategic consulting and breakthrough software solutions & products in enterprise computing, mobility, sustainability, cloud computing and business analytics. Prospecta, derived from Spanish means to look forward. We look forward to serve our esteemed clients keep up with ever changing competition, we look forward to provide challenging opportunities to our employees and we look forward to serve the community by adapting clean & green policies.",
+      "links": {
+        "website": "https://www.prospectatech.com",
+        "linkedin": "https://www.linkedin.com/company/prospectatech/ ",
+        "facebook": "https://www.facebook.com/prospectatech",
+        "twitter": "https://twitter.com/ProspectaT",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "8",
+      "name": "Quantiphi Analytics Solutions Pvt. Ltd.",
+      "logo": "Quantiphi-logo-new.png",
+      "description": "Founded in 2013, Quantiphi is an award-winning AI-first digital engineering company driven by the desire to solve transformational problems at the heart of business. We are passionate about our customers and obsessed with problem-solving to make products smarter, customer experiences frictionless, processes autonomous and businesses safer.",
+      "links": {
+        "website": "https://quantiphi.com/",
+        "linkedin": "https://www.linkedin.com/company/quantiphi/",
+        "facebook": "https://www.facebook.com/quantiphifb/",
+        "twitter": "https://twitter.com/quantiphi",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "9",
+      "name": "Google Cloud",
+      "logo": "google-cloud.png",
+      "description": "Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, Google Drive, and YouTube. ",
+      "links": {
+        "website": "https://careers.google.com/",
+        "linkedin": "",
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "10",
+      "name": "Avance Techlabs LLP",
+      "logo": "AvanceTechLabs.png",
+      "description": "Avance TechLabs is surat based IT company that provides a wide range of IT services globally, with experience of several years and extensive workforce of employees.",
+      "links": {
+        "website": "https://www.avancetechlabs.com/",
+        "linkedin": "",
+        "facebook": "https://www.facebook.com/avancetechlabs",
+        "twitter": "",
+        "instagram": "https://www.instagram.com/avancetechlabs/",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "11",
+      "name": "VMWare",
+      "logo": "VMWARE-logo.png",
+      "description": "VMware offers a breadth of digital solutions that powers apps, services, and experiences which enable organizations to deliver the best customer service and empower employees. VMware streamlines the journey for organizations to become digital businesses that deliver better experiences to their customers and empower employees to do their best work. Our software spans App Modernization, Cloud, Networking & Security and Digital Workspace.",
+      "links": {
+        "website": "https://www.vmware.com/in.html",
+        "linkedin": "https://www.linkedin.com/company/vmware/",
+        "facebook": "https://www.facebook.com/vmwareindia/",
+        "twitter": "https://twitter.com/VMwareIN",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "12",
+      "name": "Symbl.ai",
+      "logo": "synbol.png",
+      "description": "We are an early-stage venture-backed startup that is using AI to democratize conversational tech to make collaboration effortless. We created a new category of voice tech infrastructure – “Conversational Intelligence as a Service”. Symbl’s conversational intelligence API unlocks proprietary machine learning algorithms that integrate with a brand’s communication systems to identify and highlight priorities, actions, and insights born from verbal workforce collaboration in real-time",
+      "links": {
+        "website": "http://symbl.ai",
+        "linkedin": "https://www.linkedin.com/company/symbldotai",
+        "facebook": "https://www.facebook.com/symbldotai/",
+        "twitter": "https://twitter.com/symbldotai",
+        "instagram": "https://www.instagram.com/symbldotai/",
+        "github": "https://github.com/symblai"
+      },
+      "visible": true
+    },
+    {
+      "cid": "13",
+      "name": "Turing",
+      "logo": "turing.png",
+      "description": "Turing.com allows U.S. and Silicon Valley companies to hire senior pre-vetted remote developers who have robust technical & communication skills and work in their timezone. 200+ firms, including those backed by Google Ventures, Andreessen, Founders Fund, Kleiner, and Bloomberg, have employed Turing developers. Turing’s hiring process is intended to ensure a high quality/cost ratio and select the top 1% of remote software engineers across the globe. As part of our rigorous vetting process, Turing reviews 3 essential areas: technical ability, English skill, and remote working capabilities. Companies can, with Turing, hire developers of Silicon Valley caliber at affordable prices in just a few days. They can screen and hire vetted software developers across 100+ skills like React, Node, Python, Golang, Angular, Swift, Java, and many more. Turing’s proprietary software enables firms to easily manage their remote developers with automatic time tracking & daily stand-ups. Turing company has raised over $50M from global investors such as WestBridge Capital, Foundation Capital, Founders Fund (investors in Facebook, Tesla, Asana, etc) as well as Facebook’s first CTO (Adam D’Angelo), executives from Google, Facebook, Amazon, and Twitter. Turing is led by serial A.I. entrepreneurs Jonathan Siddharth and Vijay Krishnan, whose last A.I. firm leveraged remote talent and had a successful acquisition.",
+      "links": {
+        "website": "https://turing.com/s/qvrbYm",
+        "linkedin": "https://www.linkedin.com/company/turingcom/",
+        "facebook": "https://www.facebook.com/turingcom",
+        "twitter": "https://twitter.com/turingcom",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "14",
+      "name": "Niveus Solutions",
+      "logo": "niveus.png",
+      "description": "Niveus Solutions Pvt. Ltd. is a boot-strapped cloud engineering services organization founded by Suyog Shetty, Rashmi George, Roshan Bava, and Mohsin Khan in Karnataka, India. The roots of Niveus were sown in 2013 when the 4 founders, who come with rich experience working with companies such as Infosys, Wipro, Cognizant, and Sapient, realized they shared a common dream of building a world-class cloud engineering services company. The immense talent pool available in nearby education hubs Udupi, Manipal, and Mangalore, from where some of the country’s and the world’s brightest minds hail, convinced the Founders that their dream could turn into a reality. Niveus progressed rapidly over the years with the company making a strategic decision in 2019 to exclusively partner with Google Cloud India and scaling up to be its ‘Premier’ partner in less than 2 years and winning the ‘Breakthrough Partner of the Year – Asia Pacific’ award for 2020. The company now operates in multiple cities including Bengaluru, Delhi, Mumbai, and Singapore.",
+      "links": {
+        "website": "https://niveussolutions.com/",
+        "linkedin": "https://www.linkedin.com/company/niveus-solutions-pvt-ltd-/",
+        "facebook": "https://www.facebook.com/NiveusSolutions",
+        "twitter": "https://twitter.com/niveussolutions",
+        "instagram": "https://www.instagram.com/niveussol/",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "15",
+      "name": "Hashnode",
+      "logo": "Hashnode.png",
+      "description": "Hashnode is a free content creation platform that enables developers to create a full-fledged & optimized blog mapped to their custom domain for free. Using Hashnode gives you a huge advantage: Google and other search engines send traffic directly to your domain, and Hashnode community members discover your articles on their feed. Start a blog. Share knowledge, attain creator independence, and grow your career.",
+      "links": {
+        "website": "https://hashnode.com/",
+        "linkedin": "https://www.linkedin.com/company/hashnode/",
+        "facebook": "https://www.facebook.com/hashnode",
+        "twitter": "https://twitter.com/hashnode",
+        "instagram": "https://www.instagram.com/hashnode/",
+        "github": "https://github.com/hashnode"
+      },
+      "visible": true
+    },
+    {
+      "cid": "16",
+      "name": "Sweken IT Solutions PVT LTD",
+      "logo": "sweken-logo.png",
+      "description": "Happy to say, we are leading company in Visakahaptnam, Andhra Prasesh, India. Started our journey in 2014, established good relationship with local and international clients over the period. we are successful in completing many projects in various domains like stock marketing research applications, E-commerce, Airline booking upgrading systems , IoT Automation projects for Home and Industries, Cloud migrations, Mobile Aps development, Professional websites, College/Universities Management, DevOps and SAAS applications. We have good team strength and passionate at work and have fun doing innovations. ",
+      "links": {
+        "website": "https://www.sweken.com/",
+        "linkedin": "",
+        "facebook": "https://www.facebook.com/Sweken-It-Solution-Pvt-Ltd-688451497927412/",
+        "twitter": "https://twitter.com/sweken1",
+        "instagram": "https://www.instagram.com/swekenitsolutions/",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "17",
+      "name": "DXFactor Solutions Pvt Ltd",
+      "logo": "DXFactor.png",
+      "description": "It's Now or Never for Digital Transformation.  Our aim is to enable companies of all sizes to invent, enhance, and transform to this 'new normal'. DXFactor is lending our Digital Transformation expertise to rapidly address the roadblocks with a complimentary DXBlueprint using DXFactor Platform.",
+      "links": {
+        "website": "https://dxfactor.com/",
+        "linkedin": "https://www.linkedin.com/company/dxfactor/",
+        "facebook": "https://www.facebook.com/DXFactorUS/",
+        "twitter": "https://twitter.com/dxfactor_us",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "18",
+      "name": "SolGuruz",
+      "logo": "SoloGuruz_Logo.jpg",
+      "description": "SolGuruz was founded by a group of passionate people with the vision to design and develop revolutionary and innovative software solutions. Our founders and team members have 10+ years of industry experience and have held senior positions in a wide variety of companies – from growing Startups to Fortune 500 companies. We have taken our combined experiences and developed a unique approach that supports our principles of deep expertise, integrity, dependability, and transparency. We use best development practices and the latest technologies to develop visually appealing, scalable, robust, and secure software. If you are looking for web and mobile application development, SolGuruz is your one stop solution.",
+      "links": {
+        "website": "https://solguruz.com/",
+        "linkedin": "https://www.linkedin.com/company/solguruz/",
+        "facebook": "https://www.facebook.com/SolGuruzHQ",
+        "twitter": "https://twitter.com/SolGuruz",
+        "instagram": "https://www.instagram.com/solguruz",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "19",
+      "name": "Xoriant",
+      "logo": "xoriant.jpg",
+      "description": "From its inception, Xoriant has been a technology leader and execution partner throughout the Build, Run and Transform lifecycle for companies that create technology products, as well as for enterprises that use those products to implement business solutions. Our customers range from startups to Fortune 100 and encompass BFSI, High Tech, Healthcare, Pharma, Industrial Manufacturing, Telecommunications, and Automotive sectors. Over three decades, Xoriant and its engineers have employed a rigorous and disciplined approach, resulting in two significant improvements for accelerated product delivery: We have abstracted and captured the most successful methodologies, framework components, accelerators, and technologies for solving important client challenges. Next, in support of these innovations, we have codified and standardized the engineering methodologies, implementation best practices, measurement methods, and early warning mechanisms, while leaving room for continuous enhancements. This is the “X·FACTOR” – the secret sauce of Xoriant – that ensures robustness, extensibility, and continuity for all the technology we deliver.",
+      "links": {
+        "website": "https://www.xoriant.com",
+        "linkedin": "https://www.linkedin.com/company/xoriant/",
+        "facebook": "https://www.facebook.com/Xoriant",
+        "twitter": "https://twitter.com/xoriant",
+        "instagram": "https://www.instagram.com/xoriant_life/",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "20",
+      "name": "WebMob Technologies",
+      "logo": "WebMob.png",
+      "description": "WebMobTech Solutions Pvt. Ltd is a reliable and proven tech partner developing custom Mobile & Web App solutions and provides end-to-end IT services to Startups, mid-sized organizations, and enterprises.",
+      "links": {
+        "website": "https://webmobtech.com",
+        "linkedin": "https://www.linkedin.com/company/webmob-technologies/",
+        "facebook": "https://www.facebook.com/webmobtechnologies",
+        "twitter": "https://twitter.com/webmobtech",
+        "instagram": "https://www.instagram.com/webmobtech/",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "21",
+      "name": "Srijan Technologies PVT LTD",
+      "logo": "Srijan.jpg",
+      "description": "Srijan (sri-j-uh-n) is a Sanskrit word that means ‘creation’. And this is what we do for our clients—create elegant, effective solutions for their business problems. Founded in 2002 as an open source web content management company, today we offer bespoke digital experience services powered by in-house accelerators, to a wide range of industries - from enterprises to non-profits. We follow a consultative approach, asking the right questions and going beyond project specs to understand deep-seated challenges. We follow the ‘design way’ of life, applying beautiful logic and creative thinking to build the right technology solutions for your needs.",
+      "links": {
+        "website": "https://www.srijan.net",
+        "linkedin": "https://www.linkedin.com/company/srijan-technologies-pvt--ltd-/",
+        "facebook": "https://www.facebook.com/SrijanOne/",
+        "twitter": "https://twitter.com/srijan",
+        "instagram": "https://www.instagram.com/srijanone/",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "22",
+      "name": "Viitor Cloud",
+      "logo": "Viitor Cloud-logo.svg",
+      "description": "Established in 2009, ViitorCloud is an IT Solutions Company headquartered in India. ViitorCloud provides niche digital solutions across the globe. We are a group of enthusiastic professionals coming from Leading Consulting Companies and Solution Providers who have supported various Clients in their Digital & Operational Excellence journey adopting new operating models, new processes, and new digital technologies.  ViitorCloud works extensively in emerging technologies.",
+      "links": {
+        "website": "https://viitorcloud.com",
+        "linkedin": "https://www.linkedin.com/company/viitorcloud/",
+        "facebook": "https://www.facebook.com/ViitorCloud/",
+        "twitter": "https://twitter.com/viitorcloud",
+        "instagram": "https://www.instagram.com/viitorcloud/",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "23",
+      "name": "Infosys Limited",
+      "logo": "infosys-logo.jpg",
+      "description": "Infosys is a global leader in next-generation digital services and consulting. We enable clients in more than 50 countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem.",
+      "links": {
+        "website": "https://www.infosys.com/",
+        "linkedin": "https://www.linkedin.com/company/infosys/",
+        "facebook": "https://www.facebook.com/Infosys",
+        "twitter": "https://twitter.com/Infosys",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "24",
+      "name": "AfterShoot Inc",
+      "logo": "AfterShoot.jpg",
+      "description": "As photographers and creatives ourselves, we believe that we should be able to spend our time on things that matter the most! Be it enjoying some time off with our loved ones or working on growing our business. That said, our users are the primary driving force behind AfterShoot and we won’t be where we are if it wasn’t for the continuous feedback and supported that we received from you at each and every step! We thank all of you for your love and support!",
+      "links": {
+        "website": "https://aftershoot.com",
+        "linkedin": "",
+        "facebook": "https://www.facebook.com/aftershootco",
+        "twitter": "https://twitter.com/aftershootco",
+        "instagram": "https://www.instagram.com/aftershootco/",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "25",
+      "name": "Neeha IT Services",
+      "logo": "Neeha IT - logo.jpg",
+      "description": "Neeha IT Sevices is a Software Products and Services Company which provides high value information technology services and solutions to companies ranging in size from the Fortune 500 to small startups. Neeha IT Sevices supplies a broad range of IT applications' solutions and services including; e-Business solutions, Enterprise Resource Planning (ERP) implementation and Post Implementation Support, Application development, Application Maintenance, Software customizations and Remote Database Administration services.",
+      "links": {
+        "website": "https://www.neehaitservices.com/",
+        "linkedin": "https://www.linkedin.com/company/neeha-it-services-india-private-limited/",
+        "facebook": "https://www.facebook.com/neehaitservices/",
+        "twitter": "",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "26",
+      "name": "Simform Solutions",
+      "logo": "Simform.jpg",
+      "description": "We’re a tech company with a mission to help successful companies extend their tech capacity. Founded in 2010, we have helped organizations ranging from Startups that went public, to Fortune 500 companies, and WHO featured NGOs. Simform helps companies become innovation leaders by delivering software teams on demand. Our teams help you decide the right architecture and processes to follow and oversee the successful delivery of your software projects.",
+      "links": {
+        "website": "https://www.simform.com/",
+        "linkedin": "https://www.linkedin.com/company/simform/",
+        "facebook": "https://www.facebook.com/simform/",
+        "twitter": "https://twitter.com/simform/",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "27",
+      "name": "Metafic",
+      "logo": "Metafic.jpg",
+      "description": "Metafic has been delivering work that powers game-changing companies and global influencers. Having already worked with companies like Facebook, Builder.ai, Udacity, Madison Media, Godrej and more, we have delivered ground breaking products on mobile, web and XR. Today, we're a proud team of 35 from 3 continents, product experts, designers, engineers, and product managers who treat client projects as if they were our own. If you are our existing customer, thank you. Thank you for letting us be who we are, and thank you for your trust in us.",
+      "links": {
+        "website": "https://metafic.co",
+        "linkedin": "https://www.linkedin.com/company/metafic/",
+        "facebook": "",
+        "twitter": "https://twitter.com/metafic_co",
+        "instagram": "https://www.instagram.com/metafic.co/",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "28",
+      "name": "iView Labs",
+      "logo": "iView Logo512.jpg",
+      "description": "We do new things. Our innovations are ahead of the technology curve with a strong focus towards making a difference in the world today. Our products are geared towards the rate and nature of technological change in all fields. We predict the future by inventing it. We make new stuff. Our experienced approach keeps us ahead of the technology curve to make products for a brand new world. We predict the future by inventing it. We work with our clients, consult and develop solutions solely to ease their digital needs. Our team of seasoned strategists identify simple solutions to complex problems and extend the scope of your company’s vision. We want to maximize your business benefits through custom made digital initiatives and solutions.",
+      "links": {
+        "website": "https://www.iviewlabs.com/",
+        "linkedin": "https://www.linkedin.com/company/iviewlabs/",
+        "facebook": "https://www.facebook.com/iviewlabs",
+        "twitter": "https://twitter.com/iviewlabs",
+        "instagram": "https://www.instagram.com/iviewlabs/",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "29",
+      "name": "Jupiter",
+      "logo": "Jupiter.png",
+      "description": "At Jupiter, we are building a new age personalized mobile-first, AI-based digital bank. We are a fast-paced tech startup that relentlessly innovates each day to make banking more accessible and transparent for our users.",
+      "links": {
+        "website": "https://jupiter.money/",
+        "linkedin": "https://www.linkedin.com/company/jupiter-money",
+        "facebook": "",
+        "twitter": "https://twitter.com/TheJupiterApp",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "30",
+      "name": "Cofiato Pvt.Ltd.",
+      "logo": "Cofiato.jpg",
+      "description": "Cofiato works towards providing robust, elegant, and enduring solutions to varied and intricate problems. We take pride in developing applications for various systems including web, android, iOS, Windows, IoT, using cutting-edge technologies such as ReactJS, React Native, NodeJS, Python. ",
+      "links": {
+        "website": "https://cofiato.com",
+        "linkedin": "https://www.linkedin.com/company/cofiato/about/",
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "31",
+      "name": "Birdvision consulting pvt ltd.",
+      "logo": "Bird Vision.png",
+      "description": "Birdvision Consulting is a  team of enthusiastic and inquisitive professionals who use technology as a platform to improve efficiency and productivity of enterprise processes.  It is currently engaged in providing integrated products and services to enhance the efficiency of the sales and distribution process. Its suite of products include BVC Connect, BVC Engage, BVC Rewards & BVC Analytics and  a combination of incentive based models, mobility solutions, engagement mechanics & analytics tools to provide Information & Motivation.",
+      "links": {
+        "website": "https://birdvisiontech.com/",
+        "linkedin": "https://www.linkedin.com/company/birdvision-consulting-pvt-ltd-/about/",
+        "facebook": "https://www.facebook.com/BirdvisionConsulting",
+        "twitter": "https://twitter.com/Birdvision",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "32",
+      "name": "ARInspect Software Pvt Ltd",
+      "logo": "AR_inspect_logo.png",
+      "description": "ARInspect’s core mission is a simple one; Protect the environment, health, and safety of the communities we live in! We built the ARInspect Platform using cutting edge technologies like Machine Learning, Image Recognition, process automation, mobility, and many more. ARInspect offers the world’s first automated compliance platform. Providing actionable data insights and next-generation technology applications, resulting in safer communities across our world. Since launching, ARInspect has helped many federal, state, and local government agencies with compliance activities ranging from conducting environmental inspections to using RFID and mobile technology to recover from natural disasters such as hurricane Maria. Our healthcare clients are using the Platform along with various IOT devices to ensure the health and safety of their patients and employees while ensuring that they remain COVID-19 compliant. ARInspect Platform has been discovered to increase efficiency by 50% and increase number of compliance activities such as screenings, inspections and investigations by 25%. Our platform keeps communities safer and businesses thriving through data insights and next-generation technologies made easy and efficient, once and for all.",
+      "links": {
+        "website": "https://ARInspect.com",
+        "linkedin": "https://www.linkedin.com/company/arinspect/",
+        "twitter": "https://twitter.com/ARInspect",
+        "facebook": "https://www.facebook.com/ARInspect",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "33",
+      "name": "Cloud4C Services Pvt Ltd",
+      "logo": "Cloud4C_logo_blue_.png",
+      "description": "Cloud4C, a Visionary in 2021 Gartner Magic Quadrant for Public Cloud IT Transformation Services is World’s Leading Automation-driven, Application Focused Cloud Managed Services Provider (MSP). As a global leader in multi-cloud migration and managed services, we support native and hybrid cloud environments with multi availability zones, offering four-way disaster recovery architecture with zero data loss guarantee, military-grade security under single SLA. Whatever cloud solution an enterprise is looking for, we can deploy it in their business – and transform the way they work. Cloud4C’s managed services and processes adhere to standards over and above ITIL and COBIT using our home-grown Self-Healing Operations Platform (SHOP), an automation platform driving industry-leading services delivered through multiple products the best NPS scores for the organization. We have a presence across 25 countries across the Americas, Europe, Middle East, Africa, and APAC and is serving 4000+ global enterprises. This includes 60 Fortune 500 companies and 80+ enterprises with over $1Bn revenue. Cloud4C is a pioneer in offering advanced IT solution with a Collaborative Integration delivery Model - A perfect collaborative alliance of people, systems, business structures, and practices customized to optimize results, increase value delivered to you, reduce waste, and maximize efficiency through all phases of plan, design, development, and management. As certified Azure, GCP, AWS, and Oracle Cloud partners, Cloud4C promises seamless, cost-effective digital transformation on public/private/hybrid/multi-cloud set-ups coupled with 24/7/365 support from 2000+ certified experts. We are also a Global Premium Supplier for SAP HANA Enterprise Cloud Hosting and SAP-certified in SAP HANA Operations Services, Cloud Services & Hosting Services, DevOps, and Application Management Services.",
+      "links": {
+        "website": "https://www.cloud4c.com/",
+        "linkedin": "https://www.linkedin.com/company/cloud4c/",
+        "twitter": "https://twitter.com/cloud4cservices",
+        "facebook": "https://www.facebook.com/Cloud4C/",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "34",
+      "name": "Brio Technologies Pvt Ltd",
+      "logo": "BRIO-large_03.jpg",
+      "description": "Brio is a cloud consulting company focused on IT automation and bringing about digital transformation for businesses. With over a decade’s expertise, we believe in leveraging technology and innovation to build trust and foster long-lasting relationships with our customers. Our cloud solutions enable our customers realize the benefits of both hybrid and multi public cloud. They also contribute towards improving collaboration and teamwork by enabling your employees to work from anywhere and anytime. Our agility in adapting with the evolving IT trends lets us deliver advanced, cost effective solutions. We ensure an effortless transition from legacy applications to cloud. With Brio, get set to strengthen your IT backbone and fuel business innovation. Allow us to help you infuse competitive advantage to your business offerings. Stay on top with cloud solutions from Brio.",
+      "links": {
+        "website": "https://brio.co.in",
+        "linkedin": "https://www.linkedin.com/company/brio-technologies-private-limited/",
+        "twitter": "https://twitter.com/briotech",
+        "facebook": "https://www.facebook.com/briohyd",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "35",
+      "name": "Capermint Technologies",
+      "logo": "Capermint-logo-2021.jpg",
+      "description": "Capermint Technologies is ISO 9001:2015 Certified and #1 leading Mobile Game Development & App Development company. With our head office in Montréal, Quebec, Canada, we serve the growing portfolio of our clients from all over the world. Capermint creates world-class content, high-quality graphics, superior services, and result-oriented solutions on time and within your budget.",
+      "links": {
+        "website": "https://www.capermint.com/",
+        "linkedin": "https://www.linkedin.com/company/caperminttech/",
+        "twitter": "https://twitter.com/CapermintTech",
+        "facebook": "https://www.facebook.com/CapermintTechnologies",
+        "instagram": "https://www.instagram.com/caperminttech/",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "36",
+      "name": "Tatvic Analytics Private Limited",
+      "logo": "Tatvic-logo-fullres.png",
+      "description": "Tatvic Analytics is a leading Digital Analytics consulting company with core competencies in Website & Mobile App Analytics and Conversion Rate Optimization. Established since 2008, Tatvic Analytics has worked globally, with a specific spotlight in India. In addition to our headquarter in India, we also have sister companies in Canada and UAE operating under the names of Pivot Drive Inc and Datahash respectively. The companies individually and collectively built a solid reputation of excellence by consistently providing innovative data analytics and marketing solutions. We partner with enterprises to enable efficient data based decision making in their businesses. With a team of experts guiding and consulting our clients on Google Analytics 360 Suite and Standard, we also constantly strive to achieve breakthrough solutions and analysis modules for addressing complexities that businesses face in the data analytics universe.",
+      "links": {
+        "website": "https://tatvic.com",
+        "linkedin": "https://www.linkedin.com/company/tatvic/",
+        "twitter": "https://twitter.com/tatvic",
+        "facebook": "https://www.facebook.com/Tatvic.Inc/",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    },
+    {
+      "cid": "37",
+      "name": "Bacancy Technology",
+      "logo": "bacancy-logo-black - Copy.png",
+      "description": "Excelling innovation on the front, Bacancy Technology is consistently delivering excellence to empower your business with next-generation digital transformation. Over the past decade, Agile at scale we are rendering comprehensive support to deliver digitally-enabled intelligent solutions and customer satisfaction.Bacancy Technology has successfully proved it's worth delivering thousands of successful products, and we have been privileged enough to work with fortune 500 clients like Mercedes-Benz, Red Bull, Disney, Warner Bros., 3M, Volkswagen and many more. From Ahmedabad to New York, we have our prominent presence in more than 30+ countries around the world. We have successfully helped all the shape and size of organizations in making their digital transformation real, connecting the dots, applying the culture, practices, processes, and technologies. Your Trusted Software Development Partner: Bacancy Technology has grown from a few young and growth-minded small teams in India to a leading Agile software development company around the world with more than 650+ skilled software developers, coders, certified scrum masters, and solution architects. Our team is backed by top-tier specialists and can help you accelerate your digital transformation with result-oriented solutions ensuring high returns on your investment.",
+      "links": {
+        "website": "https://www.bacancytechnology.com/",
+        "linkedin": "https://www.linkedin.com/company/bacancy-technology/",
+        "twitter": "https://twitter.com/BacancyTech",
+        "facebook": "https://www.facebook.com/BacancyTechnologyLimited",
+        "instagram": "",
+        "github": ""
+      },
+      "visible": true
+    }
+    
+  ]

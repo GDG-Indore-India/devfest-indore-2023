@@ -1,0 +1,16 @@
+[
+    {
+        "name":"SheKunj",
+       "desc":"Shekunj promotes personal growth for women to achieve their full potential and aims to empower all the women out there - be they 16 or 60 years old - through education and guidance. We are a platform working as a charioteer, by providing opportunities to every woman out there who desires to learn, grow and excel in different fields. We help them to uncover their strengths, step into power, and achieve their goals with perfection.",
+       "image":"shekunj.png",    
+       "socialMedia":{
+           "instagram":"https://www.instagram.com/shekunj_edu/",
+         "linkedin":"https://www.linkedin.com/showcase/shekunjedu",
+         "twitter":"https://twitter.com/SheKunj",
+         "github":"",
+         "youtube": ""
+       },
+       "links": false,
+       "website":"https://www.shekunj.com/"
+    }
+]

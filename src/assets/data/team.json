@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Aayush Agrawal",
+    "community": {
+      "name": "GDG Cloud Indore",
+      "designation": "Co-organizer"
+    },
+    "image": "aayush.jpg",
+    "bio": "",
+    "social": {
+      "twitter": "https://twitter.com/AgentAayush",
+      "linkedin": "https://www.linkedin.com/in/aayushagrawal101/",
+      "website": "",
+      "github": ""
+    }
+  },
+  {
+    "name": "Akash Gangrade",
+    "community": {
+      "name": "GDG Cloud Indore",
+      "designation": "Organizer"
+    },
+    "image": "akash.jpeg",
+    "bio": "Senior Software Engineer At Jeeves USA",
+    "social": {
+      "twitter": "https://twitter.com/akashgangrade23",
+      "linkedin": "https://www.linkedin.com/in/akash-gangrade-8428b8106/",
+      "website": "",
+      "github": ""
+    }
+  },
+  {
+    "name": "Savvy Jain",
+    "community": {
+      "name": "GDG Indore",
+      "designation": "WTM Ambassador & GDG Indore Co-organizer"
+    },
+    "image": "savvy-image.jpg",
+    "bio": " Savvy loves data and everything around it. She used to be a data scientist and has experience working in various domains. She is currently CEO and Founder of Cofiato, which is a Hardware Intelligence firm. Her second love is community evangelism. She's associated with many technical and networking communities like GDG, GCDC, WTM, Linkedin Local, etc. She is also Women in Data Science Regional Ambassador. She likes innovation, creativity, and coffee.",
+    "social": {
+      "twitter": "https://www.twitter.com/savvyjain",
+      "linkedin": "https://www.linkedin.com/in/savvyjain",
+      "website": "",
+      "github": ""
+    }
+  },
+  {
+    "name": "Darshan Kusumakar",
+    "community": {
+      "name": "GDG Indore",
+      "designation": "Core Team Member"
+    },
+    "image": "darshan.png",
+    "bio": "Tech enthusiast, Open source contributor, GDG Core Team Member & full-time Dot Net Developer at Workpulse",
+    "social": {
+      "twitter": "https://twitter.com/xyresic_darshan?t=zbVlbv2XtNjlMziddoasrw&s=09",
+      "linkedin": "https://www.linkedin.com/in/xyresic-darshan",
+      "website": "",
+      "github": "https://github.com/xyresicdarshan"
+    }
+  },
+  {
+    "name": "Manas Bhandari",
+    "community": {
+      "name": "GDG Indore",
+      "designation": "Core Team Member"
+    },
+    "image": "manas.jpg",
+    "bio": "Community enthusiasts having interest in data science and web development.",
+    "social": {
+      "twitter": "https://twitter.com/xyresic_darshan?t=zbVlbv2XtNjlMziddoasrw&s=09",
+      "linkedin": "https://www.linkedin.com/in/manas0609/",
+      "website": "",
+      "github": "https://github.com/manasbhandari"
+    }
+  },
+  {
+    "name": "Amit Khare",
+    "community": {
+      "name": "GDG Indore",
+      "designation": "Core Team Member"
+    },
+    "image": "amit.jpg",
+    "bio": "Big data & Data Science enthusiast, Co-Organizer & in social media team in GDG Indore, Experienced Technical Coordinator with a demonstrated history of working in the education management industry. Skilled in Management and Leadership. Strong information technology professional with a B.Tech focused in Computer Science Engineering",
+    "social": {
+      "twitter": "https://twitter.com/Khare_saahab",
+      "linkedin": "https://www.linkedin.com/in/amitkhare887",
+      "website": "",
+      "github": ""
+    }
+  },
+  {
+    "name": "Sarika Purohit",
+    "community": {
+      "name": "GDG Cloud Indore & GDG Indore",
+      "designation": "Core Team Member || GDSC IIST Lead"
+    },
+    "image": "sarika.jpg",
+    "bio": "A Believer, Self Motivated, Practical & Enthusiastic Folk with keen behaviour to learn new things, And A Good Team Player as well as Had Good Ability To Lead the Team..!!",
+    "social": {
+      "twitter": "https://twitter.com/SarikaPurohit5",
+      "linkedin": "https://www.linkedin.com/in/sarika-purohit",
+      "website": "",
+      "github": "https://github.com/sarika-purohit"
+    }
+  },
+  {
+    "name": "Akshat Patel",
+    "community": {
+      "name": "GDG Indore",
+      "designation": "Core Team Member GDG Indore || GDSC Lead'21"
+    },
+    "image": "akshat.png",
+    "bio": "I am Akshat Patel, Former GDSC Lead and Core Member of GDG Indore. I love to connect with new people and explore new things. I also love to travel to different places. As a developer, I am making some creative things and I love to share my knowledge with the community.",
+    "social": {
+      "twitter": "https://twitter.com/akshat5129",
+      "linkedin": "https://www.linkedin.com/in/akshat5129",
+      "website": "https://akshatpatel.me/",
+      "github": "https://github.com/Akshat5129"
+    }
+  },
+  {
+    "name": "Tanushka Mangal",
+    "community": {
+      "name": "GDG Indore",
+      "designation": "Core Team Member || Graphic Designer"
+    },
+    "image": "tanushka.jpg",
+    "bio": "Final year B. Tech focused in Computer Science and Engineering student. Passionate about programming and developing web apps. Learner, explorer of technology.",
+    "social": {
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/in/tanushka-mangal",
+      "website": "",
+      "github": "https://github.com/tanushhkaa"
+    }
+  },
+  {
+    "name": "Prakhar Vijaywargiya",
+    "community": {
+      "name": "GDG Indore",
+      "designation": "Volunteer"
+    },
+    "image": "",
+    "bio": "I'm a Front-end developer and currently in my final year of BTech",
+    "social": {
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/in/prakhar-vijaywargiya-b130251a2",
+      "website": "",
+      "github": ""
+    }
+  },
+  {
+    "name": "Priyal Jain",
+    "community": {
+      "name": "GDG Cloud Indore",
+      "designation": "WTM Ambassador || GDG Cloud Co-organizer"
+    },
+    "image": "priyal.jpg",
+    "bio": "I am UI developer and keen to learn new things, explore about new technologies and challenges. Also, love to contribute in open source communities. Enthusiast tech lover, community lover, dreamer and achiever.",
+    "social": {
+      "twitter": "https://twitter.com/priyaljain919/",
+      "linkedin": "https://www.linkedin.com/in/priyaljain919/",
+      "website": "https://priyaljain.web.app/",
+      "github": "https://github.com/priyaljain919"
+    }
+  },
+  {
+    "name": "Adeen Shukla",
+    "community": {
+      "name": "GDG Indore",
+      "designation": "GDG Indore Co-organizer"
+    },
+    "image": "adeen.png",
+    "bio": "Community Organizer | Web and Mobile Applications developer",
+    "social": {
+      "twitter": "https://twitter.com/AdeenShukla",
+      "linkedin": "https://linkedin.com/in/adeen-s",
+      "website": "https://adeen.me",
+      "github": "https://github.com/adeen-s"
+    }
+  },
+  {
+    "name": "Nivesh Gaikwad",
+    "community": {
+      "name": "GDSC-SDSF, DAVV",
+      "designation": "Core Team Member || Management Lead"
+    },
+    "image": "nivesh.jpg",
+    "bio": "An effective and fast learner who understands new technology, AI & Data Science explorer.",
+    "social": {
+      "twitter": "https://twitter.com/gaikwad_nivesh?t=WpPmR6fVlW9eJ1ze08PVNA&s=09",
+      "linkedin": "https://www.linkedin.com/in/nivesh-gaikwad-946175230",
+      "website": "",
+      "github": ""
+    }
+  },
+  {
+    "name": "Mradula Mittal",
+    "community": {
+      "name": "GDG & WTM Indore",
+      "designation": "Core Team Member || Content Writer"
+    },
+    "image": "mradula.jpeg",
+    "bio": "A tech community enthusiast with a knack for content writing || A django developer || a machine learning enthusiast.",
+    "social": {
+      "twitter": "https://twitter.com/MittalMradula",
+      "linkedin": "https://www.linkedin.com/in/mradula-mittal/",
+      "website": "",
+      "github": "https://github.com/Mradula-Mittal"
+    }
+  },
+  {
+    "name": "Shachita Jain",
+    "community": {
+      "name": "GDG Cloud Indore",
+      "designation": "WTM Ambassador & GDG Cloud Co-organizer"
+    },
+    "image": "shachita.jpg",
+    "bio": "Backend Developer, Stashfin",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/shachita/",
+      "twitter": "https://twitter.com/shachitajain",
+      "website": "",
+      "github": ""
+    }
+  },
+  {
+    "name": "Karan Mittal",
+    "community": {
+      "name": "GDG Cloud Indore",
+      "designation": "Co-organizer"
+    },
+    "image": "karan.jpg",
+    "bio": "I am a Data Scientist - Data Engineer, giving solutions and insights with Data.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/karansmittal/",
+      "twitter": "https://twitter.com/KaranSMittal",
+      "website": "",
+      "github": "https://github.com/Karan-S-Mittal"
+    }
+  },
+  {
+    "name": "Akhil Parikh",
+    "community": {
+      "name": "GDG Indore",
+      "designation": "Core Team Member"
+    },
+    "image": "akhil.jpg",
+    "bio": "Working as Associate Consultant in Wipro Ltd. Also a Google Crowdsource Influencer ",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/akhilparikh",
+      "twitter": "https://twitter.com/Akhilparikh_",
+      "website": "",
+      "github": "https://github.com/AkhilParikh"
+    }
+  },
+  {
+    "name": "Devesh Lashkari",
+    "community": {
+      "name": "GDG Indore",
+      "designation": "Co-organizer"
+    },
+    "image": "devesh.png",
+    "bio": "",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/deveshlashkari/",
+      "twitter": "https://twitter.com/devesh_lashkari",
+      "website": "https://deveshlashkari.me",
+      "github": "https://www.github.com/deveshlashkari"
+    }
+  },
+  {
+    "name": "Tushar Pal",
+    "community": {
+      "name": "GDG Indore",
+      "designation": "Organizer"
+    },
+    "image": "tushar.jpg",
+    "bio": "Co-Founder @ Protonshub Technologies ",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/tushar-p-325b5869/",
+      "twitter": "https://twitter.com/tpal94",
+      "website": "",
+      "github": "https://github.com/tpal94"
+    }
+  },
+  {
+    "name": "Udit Sen",
+    "community": {
+      "name": "GDG Cloud Indore",
+      "designation": "Co-organizer"
+    },
+    "image": "udit.jpg",
+    "bio": "SDE UI @ CommerceIQ",
+    "social": {
+      "linkedin": "https://linkedin.com/in/aedit",
+      "twitter": "https://twitter.com/aeditme",
+      "website": "http://aedit.me",
+      "github": "https://github.com/aedit"
+    }
+  },
+  {
+    "name": "Anurag Mishra",
+    "community": {
+      "name": "GDG Indore | Indore Institute of Science and Technology",
+      "designation": "Core Team Member"
+    },
+    "image": "anurag.png",
+    "bio": " SIH 2022 Grand Finalist | Google DSC Lead 2021-22 | MLSA | Hack Club Lead | Former Chairperson at GfG Chapter  | Former President at CodeChef Chapter ",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/-anuragmishra/",
+      "twitter": "https://twitter.com/anurag_ayu",
+      "website": "",
+      "github": "https://github.com/Ayu-mishra"
+    }
+  },
+  {
+    "name": "Vinayak Gavariya",
+    "community": {
+      "name": "GDSC-SDSF, DAVV",
+      "designation": "GDSC Lead"
+    },
+    "image": "vinayak.png",
+    "bio": " A community enthusiast who is exploring Data science and Web3.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/vinayakgavariya/",
+      "twitter": "https://twitter.com/gavariyavinayak",
+      "website": "",
+      "github": "https://github.com/VG-1"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "name":"Indore Talk",
+       "desc":"Indore Talk is not an idea rather a revolution, as for us the USP is the user interactivity. No longer would there be a one-directional marketing communication but a platform where the user can write and upload information as per their wish and choice. In the online world, a positive reputation can make all the difference. And in Indore, we speak with our heart out….which why a brand started out a burger joint in Gumti at 56 Dukan, is now a case study at the IIMs. Experience the true platform for electronic word of mouth publicity in the heart of India.",
+       "image":"indoretalk.png",    
+       "socialMedia":{
+           "instagram":"",
+         "linkedin":"",
+         "twitter":"https://twitter.com/IndoreTalk",
+         "github":"",
+         "youtube": "https://www.youtube.com/indoretalk"
+       },
+       "links": false,
+       "website":""
+    },
+    {
+        "name":"Sadhna News",
+        "desc":"",
+        "image":"sadhna-news.png",    
+        "socialMedia":{
+           "instagram":"https://instagram.com/sadhnanewsofficial",
+         "linkedin":"",
+         "twitter":"",
+         "github":"",
+         "youtube": ""
+       },
+       "links": false,
+       "website":""
+    }
+    ]
+    

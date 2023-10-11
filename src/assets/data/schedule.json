@@ -1,0 +1,114 @@
+[
+    {
+      "day": "1",
+      "date": "December 3",
+      "schedule": [
+        {
+          "startTime": "08:30 AM",
+          "endTime": "10:00 AM",
+          "session": 1018
+        },
+        {
+          "startTime": "10:00 AM",
+          "endTime": "10:40 AM",
+          "session": 1008
+        },
+        {
+          "startTime": "10:50 AM",
+          "endTime": "11:30 AM",
+          "session": 1009
+        },
+        {
+          "startTime": "11:40 AM",
+          "endTime": "12:20 PM",
+          "session": 1005
+        },
+        {
+          "startTime": "12:30 PM",
+          "endTime": "12:40 PM",
+          "session": 1010
+        },
+        {
+          "startTime": "12:40 PM",
+          "endTime": "01:20 PM",
+          "session": 1011
+        },
+        {
+          "startTime": "01:20 PM",
+          "endTime": "01:50 PM",
+          "session": 1007
+        },
+        {
+          "startTime": "02:00 PM",
+          "endTime": "02:40 PM",
+          "session": 1013
+        },
+        {
+          "startTime": "02:50 PM",
+          "endTime": "03:30 PM",
+          "session": 1012
+        },
+        {
+          "startTime": "03:30 PM",
+          "endTime": "04:00 PM",
+          "session": 1014
+        }
+      ]
+    },
+    {
+      "day": "2",
+      "date": "December 4",
+      "schedule": [
+        {
+          "startTime": "08:30 AM",
+          "endTime": "10:00 AM",
+          "session": 1019
+        },
+        {
+          "startTime": "10:00 AM",
+          "endTime": "10:40 AM",
+          "session": 1002
+        },
+        {
+          "startTime": "10:50 AM",
+          "endTime": "11:30 AM",
+          "session": 1004
+        },
+        {
+          "startTime": "11:40 AM",
+          "endTime": "12:20 PM",
+          "session": 1006
+        },
+        {
+          "startTime": "12:20 PM",
+          "endTime": "12:30 PM",
+          "session": 1015
+        },
+        {
+          "startTime": "12:30 PM",
+          "endTime": "01:10 PM",
+          "session": 1016
+        },
+        {
+          "startTime": "01:20 PM",
+          "endTime": "02:00 PM",
+          "session": 1014
+        },
+        {
+          "startTime": "02:10 PM",
+          "endTime": "02:50 PM",
+          "session": 1001
+        },
+        {
+          "startTime": "03:00 PM",
+          "endTime": "03:40 PM",
+          "session": 1003
+        },
+        {
+          "startTime": "03:40 PM",
+          "endTime": "04:00 PM",
+          "session": 1021
+        }
+      ]
+    }
+  ]

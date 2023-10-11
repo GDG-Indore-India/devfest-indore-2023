@@ -1,0 +1,31 @@
+[
+    {
+        "name":"Metafic",
+       "desc":"Metafic has been delivering work that powers game-changing companies and global influencers. Having already worked with companies and organizations like Facebook, National Supercomputing Centre (NSCC) Singapore, Builder.ai, Udacity, Madison Media, Godrej, and more, we have delivered groundbreaking products on mobile, web, and XR.",
+       "image":"metafic.png",    
+       "socialMedia":{
+           "instagram":"https://www.instagram.com/metafic.co/",
+         "linkedin":"https://www.linkedin.com/company/metafic/",
+         "twitter":"https://twitter.com/metafic_co",
+         "github":"",
+         "youtube": ""
+       },
+       "links": false,
+       "website":"https://metafic.co/"
+    },
+    {
+        "name":"The Cool Vibe",
+       "desc":"",
+       "image":"coolvibesfinal2.png",    
+       "socialMedia":{
+           "instagram":"",
+         "linkedin":"",
+         "twitter":"",
+         "github":"",
+         "youtube": ""
+       },
+       "links": false,
+       "website":"https://coolvibe.in/"
+    }
+
+]

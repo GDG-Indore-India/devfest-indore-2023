@@ -1,0 +1,179 @@
+[
+  {
+    "id": "101",
+    "name": "Bhavik Makwana",
+    "company": {
+      "designation": "Sodtware Engineer",
+      "name": "Multipl.xyz | GDE for Flutter, Dart"
+    },
+    "image": "bhavik-makwana.jpg",
+    "bio": "Bhavik is working at multipl.xyz as a software engineer, a GDE for Flutter and Dart, Google certified associate android developer and an Open-source contributor. He is one of the early Flutter adopters and loves to share knowledge through blog posts, public speaking, and open source contributions.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ibhavikmakwana/",
+      "twitter": "https://twitter.com/ibhavikmakwana/"
+    },
+    "sessionId": [1001],
+    "domain": "Mobile"
+  },
+  {
+    "id": "102",
+    "name": "Dhananjay Kumar",
+    "company": {
+      "designation": "Founder",
+      "name": "geek97 | Creator of ng-India"
+    },
+    "image": "dhananjay-kumar.png",
+    "bio": "Dhananjay Kumar is the founder of geek97 and creator of India's Largest Angular Conference, ng-India. He is a published author, 12 times winner of Microsoft Most Valuable Professional, and a Google Developer Expert in Angular.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/dhananjaykumar07/",
+      "twitter": "https://twitter.com/debug_mode/"
+    },
+    "sessionId": [1002],
+    "domain": "AI / ML"
+  },
+  {
+    "id": "103",
+    "name": "Pawan Kumar",
+    "company": {
+      "designation": "Head of Engineering, Developer Advocate, GDE",
+      "name": "Frontier, Polygon"
+    },
+    "image": "pawan-kumar.jpg",
+    "bio": "Currently working at Frontier as Head of Engineering and Developer Advocate at Polygon. Google Developer Expert for Flutter & Firebase. An active open-source contributor with over 7 years of experience working with startups as a founder, employee, consultant, and advisor. I also run a tech YouTube channel known as Codepur. Also a regular speaker and contributed to many events and workshops.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/imthepk/",
+      "twitter": "https://twitter.com/imthepk/"
+    },
+    "sessionId": [1003],
+    "domain": "Mobile"
+  },
+  {
+    "id": "104",
+    "name": "Sayak Paul",
+    "company": {
+      "designation": "Developer Advocate Engineer, GDE",
+      "name": "Hugging Face"
+    },
+    "image": "sayak-paul.jpg",
+    "bio": "Sayak Paul is a Developer Advocate at Hugging Face focusing on democratizing understandable ML tooling. Previously at Carted, an e-commerce startup, he designed the ML infrastructure from data acquisition to model deployment. Off the work, he likes to be a Netflix Nerd.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/sayak-paul/",
+      "twitter": "https://twitter.com/RisingSayak/"
+    },
+    "sessionId": [1004],
+    "domain": "AI / ML"
+  },
+  {
+    "id": "105",
+    "name": "Sneh Pandya",
+    "company": {
+      "designation": "Senior Product Manager at Blingg Labs",
+      "name": "Blingg Labs"
+    },
+    "image": "sneh-pandya.png",
+    "bio": "Senior Product Manager, Book Author, Community Leader, Mentor and Podcaster.Sneh is also a Developer Community Leader at Google Developers Group Baroda and a co-founder of the NinjaTalks podcast, which brings together experiences from the world's leaders, changemakers, and innovators to make knowledge accessible to all.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/snehpandya18/",
+      "twitter": "https://twitter.com/snehpandya18/"
+    },
+    "sessionId": [1005],
+    "domain": "Entrepreneurship, Leadership & Product Management"
+  },
+  {
+    "id": "106",
+    "name": "Vivek Yadav",
+    "company": {
+      "designation": "Mobile Team Lead",
+      "name": "ZestMoney"
+    },
+    "image": "vivek-yadav.png",
+    "bio": "Hi, I am Vivek Yadav. I am Google Developer Expert for Flutter and Dart. I am Mobile Team Lead at ZestMoney. I have more than 5 years of experience with mobile development and related tech. I am a community organizer of Flutter India, Flutter Mumbai, and the PROCoach community.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/vivek-yadav-665823129/",
+      "twitter": "https://twitter.com/viveky259259/"
+    },
+    "sessionId": [1006],
+    "domain": "Mobile"
+  },
+  {
+    "id": "107",
+    "name": "Ayush Shekhar",
+    "company": {
+      "designation": "Engineering Manager - Mobile",
+      "name": "FrontRow"
+    },
+    "image": "ayush-shekhar.png",
+    "bio": "Ayush is an early adopter of Flutter, a mobile team lead, a community contributor, and a writer. He can go on and on about startups, products, and the amazing impact that stories and good storytellers have on people.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ayushshekhar/",
+      "twitter": "https://twitter.com/ayushshekhar17/"
+    },
+    "sessionId": [1007],
+    "domain": "Mobile"
+  },
+  {
+    "id": "108",
+    "name": "Bhavna Thacker",
+    "company": {
+      "designation": "GDE | Sr.Android Engineer",
+      "name": "FroMEGA - the privacy company"
+    },
+    "image": "bhavna-thacker.png",
+    "bio": "Bhavna is a Google Developer Expert for Android and Senior Software Engineer at MEGA.She is also a WTM member and Final Pass Editor @raywenderlich. She likes to share her learnings via YouTube channel - LearnAndroid. When she is not at work, you can find her in the kitchen listening to music and experimenting new dishes.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/bhavna-thacker-64956985/",
+      "twitter": "https://twitter.com/bhavnathacker14/"
+    },
+    "sessionId": [1008],
+    "domain": "Mobile"
+  },
+  {
+    "id": "109",
+    "name": "Ayushi Gupta",
+    "company": {
+      "designation": "Senior Android Engineer",
+      "name": "Zalando"
+    },
+    "image": "ayushi-gupta.jpg",
+    "bio": "I am currently working as Senior Android Engineer with Zalando in Berlin (Germany).You can find me coding a whole new world to solve any snag in this ever-changing fast-paced life. I am Women Tech Ambassador for Android and Firebase and spoke in various conferences like Droidcon Italy, Singapore and India.Excited to learn and meet enthusiastic folks out there.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ayushi-gupta-a37368125/",
+      "twitter": "https://twitter.com/DroidyAyu/"
+    },
+    "sessionId": [1012],
+    "domain": "Mobile"
+  },
+  {
+    "id": "110",
+    "name": "Kushagra Nagar",
+    "company": {
+      "designation": "Senior Game Developer",
+      "name": "NO BORDERS Corporation"
+    },
+    "image": "kushagra-nagar.jpeg",
+    "bio": "Ever since I first used a computer, I fell in love with it and how a thing made of metal and silicon can perform such complex tasks. From there my journey started as I wrote my first script at the age of 10, moving on to making mods and hacks for games, challenging myself to only use Linux for a year, making custom ROMs for Android devices, using Arduino to make robots and IoT devices, making my own cryptography software using Java and MySQL, coding my first game in Unity, making chatbot for Whatsapp using Python and creating my own micro-businesses. I am a person who likes challenges and loves to tackle the problems and find solutions.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/kushagranagar25/",
+      "twitter": ""
+    },
+    "sessionId": [1009],
+    "domain": "Mobile"
+  },
+  {
+    "id": "111",
+    "name": "Mradul Kanugo",
+    "company": {
+      "designation": "AI-ML Lead",
+      "name": "Softude"
+    },
+    "image": "mradul-kanugo.jpg",
+    "bio": "Mradul has 6+ years of expeirence in the Software Industry. He is currently leading the AI-ML team at Softude (By Systematix Infotech) India",
+    "social": {
+      "linkedin": "",
+      "instagram": "https://www.instagram.com/mradulkanugo/",
+      "twitter": ""
+    },
+    "sessionId": [1013],
+    "domain": "AI / ML"
+  }
+]
