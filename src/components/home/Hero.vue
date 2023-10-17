@@ -1,10 +1,10 @@
 <template>
   <v-container fluid style="">
-    <v-row >
-      <v-col md="7" class="order-2 order-md-1">
+    <v-row style="padding-top: 4em">
+      <v-col md="12" class="order-2 order-md-1 background-overlay">
         <div style="border-radius: 12px;min-height:360px;background:transparent" class="pa-8">
           <p class="gdg-heading mb-0" style="font-weight: 600; font-size: 48px;">
-            Central India's Biggest <br> Tech Event Devfest <br> Indore 2023
+            Central India's Biggest Tech Event <br/>Devfest  Indore 2023
           </p>
           <!-- <p class="gdg-heading mt-n2" style="font-weight: 600">Indore 2022</p> -->
           <p style="font-size: 18px" class="google-font text-secoundry">
@@ -15,7 +15,7 @@
           <p class="google-font mb-0">
             <v-icon>mdi-calendar-month</v-icon> November 26th, 2023 <span class="mx-2"> </span> <v-icon>mdi-account</v-icon> In-person
           </p>
-          <p class="google-font d-flex mt-2">
+          <p class="google-font d-flex mt-2 justify-center">
           <span><v-icon>mdi-map-marker</v-icon></span>
           <span>Indore</span>
           </p>
@@ -58,7 +58,6 @@
             rounded
             depressed
             href="https://gdg.community.dev/gdg-indore"
-            outlined
             target="_blank"
             
             class="mb-2"
@@ -76,14 +75,14 @@
 
                 </div> -->
       </v-col>
-      <v-col md="5" class="order-1 order-md-2" >
+      <!-- <v-col md="5" class="order-1 order-md-2" >
         <div style="border: 0px solid black; border-radius: 12px" >
           <v-img
-            :src="require('@/assets/img/home-bg.png')"
+            :src="require('@/assets/img/gdg-indore-devfest.png')"
             style="border: 1px solid #e0e0e0; border-radius: 12px;width:120%;min-height:360px"
           ></v-img>
         </div>
-      </v-col>
+      </v-col> -->
     </v-row>
     <!-- 
     <v-row align="center" justify="center" class="py-2 py-md-5">
@@ -191,6 +190,20 @@ export default {
 </script>
 
 <style>
+.background-overlay {
+  /* background-image: url('../../assets/img/about.jpg'); */
+  background:linear-gradient(0deg, rgb(0 0 0 / 32%), rgb(0 0 0 / 77%)), url(../../assets/img/about.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000;
+    border-radius: 20px;
+    color: #fff;
+    opacity: 0.8;
+    text-align: center;
+    min-height: 640px;
+    padding-top: 7em;
+    box-shadow: 0px 3px 75px #d0cbcb;
+}
 @media only screen and (max-width: 660px) {
   .gdg-heading {
     font-size: 32px !important;

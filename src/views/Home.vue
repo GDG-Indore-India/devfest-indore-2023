@@ -1,6 +1,6 @@
 <template>
   <v-main class="my-0 py-0">
-    <v-container fluid style="background-color: rgb(230 223 247 / 32%);">
+    <v-container fluid style="background-color: rgb(236 235 237 / 32%)">
        <!-- <v-row>
           <v-col md="12" cols="12" class="text-center">
                 <v-img :src="require('@/assets/img/df22-website-header.gif')" contain style="width:100%"></v-img>
