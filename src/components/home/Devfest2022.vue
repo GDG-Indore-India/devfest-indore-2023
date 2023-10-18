@@ -1,15 +1,15 @@
 <template>
   <v-container fluid class="mx-md-1 mx-0">
     <v-row>
-      <!-- <v-col md="12" cols="12" class="text-center">
-        <div style="background: white; border-radius: 15px" class="pa-md-10 pa-5 grey lighten-4 ">
+      <v-col md="12" cols="12" class="text-center">
+        <div style="background: white !important; border-radius: 15px" class="pa-md-10 pa-5 grey lighten-4 ">
           <p class="google-font" style="font-size: 28px;font-weight: 600;">Call for Speakers</p>
           <p class="google-font mb-4" style="width: 80%; margin: 0 auto; font-size: 18px;">
             We are looking for passionate speakers who can give a talk at our event. Please do fill the form if you are interested. Our team will get in touch with you after reviewing your entry. 
           </p>
-          <v-btn color="primary" depressed href="https://sessionize.com/devfestindore22" target="_blank" rounded>Submit Now</v-btn>
+          <v-btn color="primary" depressed href="https://bit.ly/devfest-cfp-speakers23" target="_blank" rounded>Submit Now</v-btn>
         </div>
-      </v-col> -->
+      </v-col>
       <!-- CALL FOR EXHIBITORS -->
        <!-- <v-col md="12" cols="12" class="text-center">
         <div style="background: white; border-radius: 15px" class="pa-md-10 pa-5 grey lighten-4 ">

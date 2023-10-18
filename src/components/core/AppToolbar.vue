@@ -5,7 +5,7 @@
     app
     fixed
     class="elevation-0"
-    style="box-shadow: 0 2px 6px 0 rgba(0,0,0,.12), inset  0 -1px 0 0 #dadce0;-webkit-backdrop-filter: blur(15px);
+    style="height:100px;box-shadow: 0 2px 6px 0 rgba(0,0,0,.12), inset  0 -1px 0 0 #dadce0;-webkit-backdrop-filter: blur(15px);
   backdrop-filter: blur(8px);opacity:0.93"
     hide-on-scroll
   >
@@ -25,7 +25,7 @@
           alt="WTM Logo"
           class="shrink mr-2"
           contain
-          :src="require('@/assets/img/gdg-indore-logo.png')"
+          :src="require('@/assets/img/gdg-indore-logo.svg')"
           width="250px"
         /> 
       </router-link> 
@@ -148,13 +148,14 @@ export default {
   .v-toolbar .v-toolbar__content {
     padding-left: 3%;
     padding-right: 3%;
+    height: 105px !important;
   }
 
   .v-toolbar {
-    width: 60%;
+    /* width: 60%;
     margin: 9px auto;
     border: 1px solid !important;
-    border-radius: 20px !important;
+    border-radius: 20px !important; */
   }
 }
 </style>
