@@ -1,13 +1,37 @@
 <template>
   <v-container fluid class="mx-md-1 mx-0">
     <v-row>
-      <v-col md="12" cols="12" class="text-center">
-        <div style="background: white !important; border-radius: 15px" class="pa-md-10 pa-5 grey lighten-4 ">
+      <v-col md="6" cols="12" class="text-center">
+        <div class="pa-md-10 pa-5 list-details-card">
           <p class="google-font" style="font-size: 28px;font-weight: 600;">Call for Speakers</p>
+          <div>
+            <img src="../../assets/img/call-for-speakers.png" alt="speakers image">
+          </div>
           <p class="google-font mb-4" style="width: 80%; margin: 0 auto; font-size: 18px;">
             We are looking for passionate speakers who can give a talk at our event. Please do fill the form if you are interested. Our team will get in touch with you after reviewing your entry. 
           </p>
           <v-btn color="primary" depressed href="https://bit.ly/devfest-cfp-speakers23" target="_blank" rounded>Submit Now</v-btn>
+        </div>
+      </v-col>
+      <!-- call for sponsors -->
+      <v-col md="6" cols="12" class="text-center">
+        <div class="pa-md-10 pa-5 list-details-card">
+          <p class="google-font" style="font-size: 28px;font-weight: 600;">Call for Sponsors</p>
+          <div>
+            <img src="../../assets/img/call-for-sponsors.png" alt="sponsors image">
+          </div>
+          <p class="google-font mb-4" style="width: 80%; margin: 0 auto; font-size: 18px;">
+            Want massive visibility and impact in the tech community? Let's collaborate with us to ensure the outstanding success of Devfest Indore 2023. 📈
+            <br/>
+          </p>
+          <!-- <p style="width: 80%; margin: 0 auto; font-size: 18px;" class="text-left"><b> Exclusive perks await:</b></p>
+          <ul style="width: 80%; margin: 0 auto; font-size: 18px;" class="text-left">
+            <li>Premium brand exposure.</li>
+            <li>Speaking opportunities.</li>
+            <li>Networking with tech leaders.</li>
+            <li>Promotional shoutouts.</li>
+          </ul> -->
+          <v-btn color="primary" depressed href="https://bit.ly/devfest-sponsors23" target="_blank" rounded>Submit Now</v-btn>
         </div>
       </v-col>
       <!-- CALL FOR EXHIBITORS -->
@@ -52,4 +76,10 @@ export default {};
 </script>
 
 <style>
+.list-details-card {
+  background: rgb(245, 248, 252) !important;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 6px 0px, rgb(218, 220, 224) 0px -1px 0px 0px inset !important;
+    height: 100%;
+}
 </style>

@@ -39,7 +39,7 @@
           <v-divider></v-divider>
           <!-- <PartnerList class="my-15"/> -->
           <!-- <v-divider></v-divider> -->
-          <FAQList  class="my-15"/>
+          <!-- <FAQList  class="my-15"/> -->
           <v-divider></v-divider>
           <SocialInfo class="my-15" />
         </v-col>
@@ -52,7 +52,6 @@
 import Hero from '../components/home/Hero.vue'
 import SocialInfo from '../components/home/SocialInfo.vue';
 import titleMixin from '@/mixins/titleMixin';
-import FAQList from '../components/common/FAQList.vue';
 import Devfest2022 from '../components/home/Devfest2022.vue';
 
 
@@ -62,7 +61,6 @@ export default {
   components: {
     Hero,
     SocialInfo,
-    FAQList,
     Devfest2022
   },
   data(){
