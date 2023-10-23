@@ -55,7 +55,7 @@
         <div class="row align-center justify-center">
           <div class="col-md-12 col-lg-12 col-xl-12 col">
             <p class="py-0 google-font mb-0">
-              <span class="mr-md-1" style="font-size: 85%;">Keep an eye onto our website <b>#DevfestIndore2022</b>. And register from</span>
+              <span class="mr-md-1" style="font-size: 85%;">Keep an eye onto our website <b>#DevfestIndore2023</b>. And register from</span>
               <a id="eventbrite-widget-modal-trigger-451603737937" target="_blank" class="ml-1" style="color: white; font-size: 85%;text-decoration: underline;">here.</a>
               </p>
             </div>

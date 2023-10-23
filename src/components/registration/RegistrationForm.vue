@@ -144,7 +144,7 @@
             <p class="mt-3">
               I agree to let IWD India Organisers use the information
               collected in this form to be used for my participation in "IWD
-              India 2022 Event" and receive further communications from the
+              India 2023 Event" and receive further communications from the
               organising team.
             </p>
             <p>

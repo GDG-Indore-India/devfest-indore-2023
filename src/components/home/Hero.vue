@@ -6,7 +6,7 @@
           <p class="gdg-heading mb-0" style="font-weight: 600; font-size: 48px;">
             The Largest Tech Event of Indore <br/>Devfest  Indore 2023
           </p>
-          <!-- <p class="gdg-heading mt-n2" style="font-weight: 600">Indore 2022</p> -->
+          <!-- <p class="gdg-heading mt-n2" style="font-weight: 600">Indore 2023</p> -->
           <p style="font-size: 18px" class="google-font text-secoundry">
             DevFest is an annual decentralized tech conference hosted by Google Developer Groups across the globe. 
             2023 will be the 11th year 🎉 of DevFest which marks the beginning of the second decade of the GDG community. 
@@ -69,9 +69,9 @@
           </div>
            <!-- <div class="mt-2 pl-8">
                     <p>Share with social platforms to spread about <b>#DevFestIndore2023:</b></p>
-                    <v-btn rounded depressed color="#202124" dark style="border: 1px solid #202124;border-radius:50%;min-width: auto;" href="https://twitter.com/intent/tweet?url=&text=Yipee!!%20I%20just%20registered%20for%20India's%20biggest%20tech%20event%20Devfest%20Indore%202022%20hosted%20by%20%40GDG_INDORE%0A%0AExcited%20about%20attending%20the%20event%20on%20December%204th,%202022!%20Find%20more%20info%20at%20devfest.gdgindore.in%0A%0A%23DevfestIndore%20%23DevfestIndore2022%20%23GDGIndore%20%40gdgcloudindore%20%40IndoreWtm%20%20" target="_blank" rel=”noreferrer” class="pa-2 mr-2"> <v-icon color="#fff">mdi-twitter</v-icon></v-btn>
+                    <v-btn rounded depressed color="#202124" dark style="border: 1px solid #202124;border-radius:50%;min-width: auto;" href="https://twitter.com/intent/tweet?url=&text=Yipee!!%20I%20just%20registered%20for%20India's%20biggest%20tech%20event%20Devfest%20Indore%202023%20hosted%20by%20%40GDG_INDORE%0A%0AExcited%20about%20attending%20the%20event%20on%20December%204th,%202023!%20Find%20more%20info%20at%20devfest.gdgindore.in%0A%0A%23DevfestIndore%20%23DevfestIndore2023%20%23GDGIndore%20%40gdgcloudindore%20%40IndoreWtm%20%20" target="_blank" rel=”noreferrer” class="pa-2 mr-2"> <v-icon color="#fff">mdi-twitter</v-icon></v-btn>
                     <v-btn rounded depressed color="#20 2124" dark style="border: 1px solid #202124;border-radius:50%;min-width: auto;" href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fdevfest.gdgindore.in" target="_blank" rel=”noreferrer” class="pa-2 mr-2"> <v-icon color="#fff">mdi-linkedin</v-icon></v-btn>
-                    <v-btn rounded depressed color="#202124" dark style="border: 1px solid #202124;border-radius:50%;min-width: auto;" href="whatsapp://send?text=https://twitter.com/intent/tweet?text=Yipee!!%20I%20just%20registered%20for%20India's%20biggest%20tech%20event%20Devfest%20Indore%202022%20hosted%20by%20GDG%20Indore.%0A%0AExcited%20about%20attending%20the%20event%20on%20December%204th,%202022!%20Find%20more%20info%20at%20devfest.gdgindore.in/badge%0A%0A%23DevfestIndore%20%23DevfestIndore2022" target="_blank" rel=”noreferrer” class="pa-2 mr-2"> <v-icon color="#fff">mdi-whatsapp</v-icon></v-btn>
+                    <v-btn rounded depressed color="#202124" dark style="border: 1px solid #202124;border-radius:50%;min-width: auto;" href="whatsapp://send?text=https://twitter.com/intent/tweet?text=Yipee!!%20I%20just%20registered%20for%20India's%20biggest%20tech%20event%20Devfest%20Indore%202023%20hosted%20by%20GDG%20Indore.%0A%0AExcited%20about%20attending%20the%20event%20on%20December%204th,%202023!%20Find%20more%20info%20at%20devfest.gdgindore.in/badge%0A%0A%23DevfestIndore%20%23DevfestIndore2023" target="_blank" rel=”noreferrer” class="pa-2 mr-2"> <v-icon color="#fff">mdi-whatsapp</v-icon></v-btn>
 
                 </div> -->
       </v-col>
@@ -90,9 +90,9 @@
         <p class="gdg-heading mb-0" style="font-weight: 600">
           International Women's Day
         </p>
-        <p class="gdg-heading mt-n2" style="font-weight: 600">India 2022</p>
+        <p class="gdg-heading mt-n2" style="font-weight: 600">India 2023</p>
         <p style="font-size: 18px" class="google-font text-secoundry">
-          IWD India 2022 Summit is a celebration for all women in technology.
+          IWD India 2023 Summit is a celebration for all women in technology.
           Women and allies from all across the country come together to empower,
           inspire and learn from each other. This year we are focused on
           recognizing our theme Progress Not Perfection.
@@ -111,7 +111,7 @@
                 When
               </span>
               <p class="google-font mt-5" style="font-size: 16px">
-                <span class="mr-5">April 2 & 3, <br />2022</span>
+                <span class="mr-5">April 2 & 3, <br />2023</span>
               </p>
             </v-col>
             <v-col md="2">

@@ -71,7 +71,7 @@ export default {
     ],
   }),
   created() {
-    document.title = "Code of Conduct | Devfest Indore 2022";
+    document.title = "Code of Conduct | Devfest Indore 2023";
   },
 };
 </script>
