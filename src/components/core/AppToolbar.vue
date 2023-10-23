@@ -91,8 +91,8 @@ export default {
       if (navigator.share) {
         navigator
           .share({
-            title: "Women Techmakers International Women's Day India Summit 2021",
-            url: "https://iwdindia.in/",
+            title: "GDG Indore Devfest 2023",
+            url: "https://devfest.gdgindore.in/",
           })
           .then(() => {
             console.log("Thanks for sharing");

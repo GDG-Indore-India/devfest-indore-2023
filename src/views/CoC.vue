@@ -8,7 +8,7 @@
               <v-col md="11" lg="11">
                 <p class="mb-0 gdg-heading">Code of Conduct</p>
                 <p class="my-0 mb-8 google-font">
-                  All participants of Devfest Indore 2022 event, online
+                  All participants of Devfest Indore 2023 event, online
                   attendees, event staff, and speakers, must abide by the
                   following policy:
                 </p>

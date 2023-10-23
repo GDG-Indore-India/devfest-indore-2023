@@ -3,7 +3,7 @@
     <v-list-item>
       <v-list-item-content>
         <v-list-item-title class="google-font py-1" style="font-size: 130%">
-          Devfest 2022 Indore
+          Devfest 2023 Indore
         </v-list-item-title>
         <v-list-item-subtitle>
             By GDG Indore

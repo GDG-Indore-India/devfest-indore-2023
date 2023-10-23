@@ -16,7 +16,7 @@ module.exports = {
     'vuetify'
   ],
   pwa: {
-    name: "GDG Indore - Devfest 2022",
+    name: "GDG Indore - Devfest 2023",
     workboxPluginMode: "InjectManifest",
     themeColor: "black",
     msTileColor: "black",

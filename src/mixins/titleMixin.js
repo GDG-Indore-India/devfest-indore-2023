@@ -5,6 +5,6 @@ export default {
     }
   },
   created () {
-    document.title = this.title + ' | Devfest Indore 2022'
+    document.title = this.title + ' | Devfest Indore 2023'
   }
 }

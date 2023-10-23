@@ -4,7 +4,7 @@
       <v-col md="12" class="order-2 order-md-1 background-overlay">
         <div style="border-radius: 12px;min-height:360px;background:transparent" class="pa-8">
           <p class="gdg-heading mb-0" style="font-weight: 600; font-size: 48px;">
-            Central India's Biggest Tech Event <br/>Devfest  Indore 2023
+            The Largest Tech Event of Indore <br/>Devfest  Indore 2023
           </p>
           <!-- <p class="gdg-heading mt-n2" style="font-weight: 600">Indore 2022</p> -->
           <p style="font-size: 18px" class="google-font text-secoundry">
