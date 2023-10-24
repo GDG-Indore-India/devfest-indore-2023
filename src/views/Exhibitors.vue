@@ -173,7 +173,7 @@ export default {
     this.AttendeeData = this.sortByName(AttendeeData);
   },
   created(){
-    document.title = "Exhibitors | Devefest Indore 2022"
+    document.title = "Exhibitors | Devefest Indore 2023"
   }
 }
 </script>

@@ -32,7 +32,7 @@
 export default {
   name: "CoCComponent",
   created() {
-    document.title = "Highlights | Devfest Indore 2022";
+    document.title = "Highlights | Devfest Indore 2023";
   },
 };
 </script>

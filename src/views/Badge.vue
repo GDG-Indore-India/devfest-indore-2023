@@ -7,12 +7,12 @@
             <v-row justify="center" align="center">
               <!-- For Mobile -->
               <v-col cols="12" class="d-block d-sm-block d-md-none px-0">
-                <p class="gdg-heading">Devfest Indore 2022 Badge</p>
+                <p class="gdg-heading">Devfest Indore 2023 Badge</p>
                 <p class="google-font">
                   Now that you are here, how about personalising your Devfest Indore
-                  2022 profile? Upload an image and generate a personalised
-                  badge with the Devfest Indore 2022 frame. Also share your image using
-                  #DevfestIndore2022 on different social platforms.
+                  2023 profile? Upload an image and generate a personalised
+                  badge with the Devfest Indore 2023 frame. Also share your image using
+                  #DevfestIndore2023 on different social platforms.
                 </p>
               </v-col>
 
@@ -24,12 +24,12 @@
               >
                 <!-- For Desktop -->
                 <div class="d-none d-sm-none d-md-block mb-10">
-                  <p class="gdg-heading">Devfest Indore 2022 Badge</p>
+                  <p class="gdg-heading">Devfest Indore 2023 Badge</p>
                   <p class="google-font" style="font-size: 18px">
                     Now that you are here, how about personalising your Devfest Indore
-                    2022 profile? Upload an image and generate a personalised
-                    badge with the Devfest Indore 2022 frame. Also share your image
-                    using #DevfestIndore2022 on different social platforms.
+                    2023 profile? Upload an image and generate a personalised
+                    badge with the Devfest Indore 2023 frame. Also share your image
+                    using #DevfestIndore2023 on different social platforms.
                   </p>
                 </div>
 
@@ -91,9 +91,9 @@
                 </div>
                   <div class="mt-5">
                     <p>Share with social platforms:</p>
-                    <v-btn rounded depressed color="#202124" dark style="border: 1px solid #202124;border-radius:50%;min-width: auto;" href="https://twitter.com/intent/tweet?url=&text=Yipee!!%20I%20just%20created%20my%20badge%20for%20India's%20biggest%20tech%20event%20Devfest%20Indore%202022%20hosted%20by%20%40GDG_INDORE%0A%0AExcited%20about%20attending%20the%20event%20on%20December%204th,%202022!%20Find%20more%20info%20at%20devfest.gdgindore.in%0A%0A%23DevfestIndore%20%23DevfestIndore2022%20%23GDGIndore%20%40gdgcloudindore%20%40IndoreWtm%20%20" target="_blank" rel=”noreferrer” class="pa-2 mr-2"> <v-icon color="#fff">mdi-twitter</v-icon></v-btn>
+                    <v-btn rounded depressed color="#202124" dark style="border: 1px solid #202124;border-radius:50%;min-width: auto;" href="https://twitter.com/intent/tweet?url=&text=Yipee!!%20I%20just%20created%20my%20badge%20for%20India's%20biggest%20tech%20event%20Devfest%20Indore%202023%20hosted%20by%20%40GDG_INDORE%0A%0AExcited%20about%20attending%20the%20event%20on%20December%204th,%202023!%20Find%20more%20info%20at%20devfest.gdgindore.in%0A%0A%23DevfestIndore%20%23DevfestIndore2023%20%23GDGIndore%20%40gdgcloudindore%20%40IndoreWtm%20%20" target="_blank" rel=”noreferrer” class="pa-2 mr-2"> <v-icon color="#fff">mdi-twitter</v-icon></v-btn>
                     <v-btn rounded depressed color="#202124" dark style="border: 1px solid #202124;border-radius:50%;min-width: auto;" href="https://www.linkedin.com/sharing/share-offsite/?url=http%3A%2F%2Fdevfest.gdgindore.in" target="_blank" rel=”noreferrer” class="pa-2 mr-2"> <v-icon color="#fff">mdi-linkedin</v-icon></v-btn>
-                    <v-btn rounded depressed color="#202124" dark style="border: 1px solid #202124;border-radius:50%;min-width: auto;" href="whatsapp://send?text=https://twitter.com/intent/tweet?text=Yipee!!%20I%20just%20created%20my%20badge%20for%20India's%20biggest%20tech%20event%20Devfest%20Indore%202022%20hosted%20by%20GDG%20Indore.%0A%0AExcited%20about%20attending%20the%20event%20on%20December%204th,%202022!%20Find%20more%20info%20at%20devfest.gdgindore.in/badge%0A%0A%23DevfestIndore%20%23DevfestIndore2022" target="_blank" rel=”noreferrer” class="pa-2 mr-2"> <v-icon color="#fff">mdi-whatsapp</v-icon></v-btn>
+                    <v-btn rounded depressed color="#202124" dark style="border: 1px solid #202124;border-radius:50%;min-width: auto;" href="whatsapp://send?text=https://twitter.com/intent/tweet?text=Yipee!!%20I%20just%20created%20my%20badge%20for%20India's%20biggest%20tech%20event%20Devfest%20Indore%202023%20hosted%20by%20GDG%20Indore.%0A%0AExcited%20about%20attending%20the%20event%20on%20December%204th,%202023!%20Find%20more%20info%20at%20devfest.gdgindore.in/badge%0A%0A%23DevfestIndore%20%23DevfestIndore2023" target="_blank" rel=”noreferrer” class="pa-2 mr-2"> <v-icon color="#fff">mdi-whatsapp</v-icon></v-btn>
 
                 </div>
                 <p class="mt-8 mb-15 mb-md-0">
@@ -146,7 +146,7 @@ export default {
     banner: null,
   }),
   created() {
-    document.title = "Badges | DevFest Indore 2022";
+    document.title = "Badges | DevFest Indore 2023";
   },
   methods: {
     upload(e) {
@@ -246,7 +246,7 @@ export default {
     download() {
       const a = document.createElement("a");
       const url = this.canvas.toDataURL("image/png;base64");
-      a.download = "#DevFestIndore2022_badge.png";
+      a.download = "#DevFestIndore2023_badge.png";
       a.href = url;
       a.click();
     },

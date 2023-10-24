@@ -35,6 +35,7 @@
           <Devfest2022/>
           <!-- <Ticketing class="my-10 py-10"/> -->
           <v-divider></v-divider>
+          <WhatToExpect />
           <!-- <AboutDevfest class="my-10"/>  -->
           <v-divider></v-divider>
           <!-- <PartnerList class="my-15"/> -->
@@ -53,6 +54,7 @@ import Hero from '../components/home/Hero.vue'
 import SocialInfo from '../components/home/SocialInfo.vue';
 import titleMixin from '@/mixins/titleMixin';
 import Devfest2022 from '../components/home/Devfest2022.vue';
+import WhatToExpect from '../components/home/WhatToExpect.vue';
 
 
 export default {
@@ -61,15 +63,16 @@ export default {
   components: {
     Hero,
     SocialInfo,
-    Devfest2022
+    Devfest2022,
+    WhatToExpect
   },
   data(){
     return {
       title: 'Home'
     }
+  },
+  created(){
+    document.title = "Home | GDG Indore | Devfest 2023"
   }
-  // created(){
-  //   document.title = "Home | GDG Indore | Devfest 2022"
-  // }
 };
 </script>

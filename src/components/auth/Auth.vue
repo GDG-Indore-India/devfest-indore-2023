@@ -4,7 +4,7 @@
       <v-col>
         <h3 class="google-font">Login with your Google Account</h3>
         <p class="google-font">
-          Sign in and register to get your entry tickets of the IWD India 2022.
+          Sign in and register to get your entry tickets of the IWD India 2023.
         </p>
 
         <!-- Check Auth -->

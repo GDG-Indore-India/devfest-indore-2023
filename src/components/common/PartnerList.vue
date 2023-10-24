@@ -14,7 +14,7 @@
                 </p>
                 <p class="google-font mb-5" style="font-size:120%">
                   Partners all over the India have gathered together to make
-                  Devfest Indore 2022 a success. Show some interest towards GDG
+                  Devfest Indore 2023 a success. Show some interest towards GDG
                   Community and join us right here!
                 </p>
                 <v-btn

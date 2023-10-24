@@ -71,7 +71,7 @@ export default {
             this.$router.push("/schedule");
         } else {
             this.isFound = true;
-            document.title = this.SessionData.title + " Schedule Details | IWD India 2022";
+            document.title = this.SessionData.title + " Schedule Details | IWD India 2023";
             if(this.SessionData.speakers.length){
                 this.Speakers = SpeakersDataTemp.filter(obj => this.SessionData.speakers.find(x => x.toString() === obj.id))
                 // console.log(this.Speakers)

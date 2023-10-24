@@ -1,5 +1,5 @@
 <template>
-  <v-container fluid class="mx-md-1 mx-0">
+  <v-container fluid class="mx-md-1 mx-0 expect-card">
     <v-row>
       <v-col md="6" cols="12" class="text-center">
         <div class="pa-md-10 pa-5 list-details-card">
@@ -60,7 +60,7 @@
             The event was a phenomenal success, but the best part was that it
             brought out the sisterhood between communities. Together, we all
             rose. The team had tons of learnings and are now all set to make IWD
-            India 2022 all the more worthy of your time. Stay tuned for a
+            India 2023 all the more worthy of your time. Stay tuned for a
             bigger, better and a never before experience.
           </p>
           <v-btn color="primary" href="https://2021.iwdindia.in/" target="_blank" depressed rounded class="mr-2 mb-2">See More Info</v-btn>
@@ -81,5 +81,8 @@ export default {};
     border-radius: 15px;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 6px 0px, rgb(218, 220, 224) 0px -1px 0px 0px inset !important;
     height: 100%;
+}
+.expect-card {
+  margin: 60px 0;
 }
 </style>

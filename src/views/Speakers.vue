@@ -47,7 +47,7 @@ export default {
     });
   },
   created(){
-    document.title = "Speakers | Devfest Indore 2022"
+    document.title = "Speakers | Devfest Indore 2023"
   }
 }
 </script>

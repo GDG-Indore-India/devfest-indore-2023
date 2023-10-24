@@ -41,7 +41,7 @@
                       <b>IWD India Registration</b>
                     </p>
                     <p class="google-font my-0">
-                      Sign Up to register for #IWDIndia2022
+                      Sign Up to register for #IWDIndia2023
                     </p>
                     <br />
                     <p style="font-size: 105%; color: black" class="py-0 my-0">
@@ -107,7 +107,7 @@
                             <b>IWD India Registration</b>
                           </p>
                           <p class="google-font my-0">
-                            Sign In to register for #IWDIndia2022
+                            Sign In to register for #IWDIndia2023
                           </p>
                           <br />
                           <p

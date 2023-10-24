@@ -11,10 +11,10 @@
         <v-col md="11" lg="7">
           <p class="gdg-heading">Registration</p>
           <p style="font-size: 19px">
-           IWD India 2022 Summit is back with our flagship event with the theme this year as <span class="primary-text">#ProgressNotPerfection</span>. We have an amazing line up of sessions brought to you by amazing and passionate women. Speakers with inspiring stories, technical events, workshops and discussions with exemplary women are what is in store for you.
+           IWD India 2023 Summit is back with our flagship event with the theme this year as <span class="primary-text">#ProgressNotPerfection</span>. We have an amazing line up of sessions brought to you by amazing and passionate women. Speakers with inspiring stories, technical events, workshops and discussions with exemplary women are what is in store for you.
           </p>
           <p style="font-size: 19px">
-           Come join us on <b>April 2nd and 3rd, 2022 from 3:00pm to 7:00pm</b>. The event will be hosted live on our youtube channel. We invite all women and allies to enjoy the event from the comfort of your homes.
+           Come join us on <b>April 2nd and 3rd, 2023 from 3:00pm to 7:00pm</b>. The event will be hosted live on our youtube channel. We invite all women and allies to enjoy the event from the comfort of your homes.
           </p>
 
           <v-container fluid>
@@ -162,7 +162,7 @@ export default {
     },
   },
   created(){
-    document.title = "Registration | IWD India 2022"
+    document.title = "Registration | IWD India 2023"
   }
 };
 </script>

@@ -7,7 +7,7 @@
             The Largest Tech Event of Indore <br/>Devfest  Indore 2023
           </p>
           <!-- <p class="gdg-heading mt-n2" style="font-weight: 600">Indore 2023</p> -->
-          <p style="font-size: 18px" class="google-font text-secoundry">
+          <p style="font-size: 20px;width: 80%;margin: 10px auto 30px;" class="google-font text-secoundry">
             DevFest is an annual decentralized tech conference hosted by Google Developer Groups across the globe. 
             2023 will be the 11th year 🎉 of DevFest which marks the beginning of the second decade of the GDG community. 
 
@@ -192,7 +192,7 @@ export default {
 <style>
 .background-overlay {
   /* background-image: url('../../assets/img/about.jpg'); */
-  background:linear-gradient(0deg, rgb(0 0 0 / 32%), rgb(0 0 0 / 77%)), url(../../assets/img/about.jpg);
+  background:linear-gradient(0deg, rgb(0 0 0 / 59%), rgb(0 0 0 / 81%)), url(../../assets/img/about.jpg);
   background-repeat: no-repeat;
     background-size: cover;
     background-color: #000;
