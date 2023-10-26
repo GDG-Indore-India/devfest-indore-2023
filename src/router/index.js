@@ -45,11 +45,11 @@ const routes = [
     name: 'Team',
     component: () => import(/* webpackChunkName: "team" */ '../views/Team.vue')
   },
-  // {
-  //   path: '/partners',
-  //   name: 'Partners',
-  //   component: () => import(/* webpackChunkName: "schedule" */ '../components/common/PartnerList.vue')
-  // },
+  {
+    path: '/partners',
+    name: 'Partners',
+    component: () => import(/* webpackChunkName: "schedule" */ '../components/common/PartnerList.vue')
+  },
   // {
   //   path: '/communities',
   //   name: 'Communities',

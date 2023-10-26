@@ -1,37 +1,58 @@
 <template>
   <v-container fluid class="mx-md-1 mx-0 expect-card">
     <v-row>
-      <v-col md="6" cols="12" class="text-center">
+      <v-col md="3" cols="12" class="text-center">
         <div class="pa-md-10 pa-5 list-details-card">
-          <p class="google-font" style="font-size: 28px;font-weight: 600;">Call for Speakers</p>
+          <p class="google-font" style="font-size: 25px;font-weight: 600;">Call for Speakers</p>
           <div>
-            <img src="../../assets/img/call-for-speakers.png" alt="speakers image">
+            <img src="../../assets/img/call-for-speakers.png" class="details-card-img" alt="speakers image">
           </div>
-          <p class="google-font mb-4" style="width: 80%; margin: 0 auto; font-size: 18px;">
+          <p class="google-font mb-4 details-card-desc" style="margin: 0 auto; font-size: 16px;">
             We are looking for passionate speakers who can give a talk at our event. Please do fill the form if you are interested. Our team will get in touch with you after reviewing your entry. 
           </p>
           <v-btn color="primary" depressed href="https://bit.ly/devfest-cfp-speakers23" target="_blank" rounded>Submit Now</v-btn>
         </div>
       </v-col>
       <!-- call for sponsors -->
-      <v-col md="6" cols="12" class="text-center">
+      <v-col md="3" cols="12" class="text-center">
         <div class="pa-md-10 pa-5 list-details-card">
-          <p class="google-font" style="font-size: 28px;font-weight: 600;">Call for Sponsors</p>
+          <p class="google-font" style="font-size: 25px;font-weight: 600;">Call for Sponsors</p>
           <div>
-            <img src="../../assets/img/call-for-sponsors.png" alt="sponsors image">
+            <img src="../../assets/img/call-for-sponsors.png" class="details-card-img" alt="sponsors image">
           </div>
-          <p class="google-font mb-4" style="width: 80%; margin: 0 auto; font-size: 18px;">
+          <p class="google-font mb-4 details-card-desc" style="margin: 0 auto; font-size: 16px;">
             Want massive visibility and impact in the tech community? Let's collaborate with us to ensure the outstanding success of Devfest Indore 2023. 📈
             <br/>
           </p>
-          <!-- <p style="width: 80%; margin: 0 auto; font-size: 18px;" class="text-left"><b> Exclusive perks await:</b></p>
-          <ul style="width: 80%; margin: 0 auto; font-size: 18px;" class="text-left">
-            <li>Premium brand exposure.</li>
-            <li>Speaking opportunities.</li>
-            <li>Networking with tech leaders.</li>
-            <li>Promotional shoutouts.</li>
-          </ul> -->
           <v-btn color="primary" depressed href="https://bit.ly/devfest-sponsors23" target="_blank" rounded>Submit Now</v-btn>
+        </div>
+      </v-col>
+      <!-- call for volunteers -->
+      <v-col md="3" cols="12" class="text-center">
+        <div class="pa-md-10 pa-5 list-details-card">
+          <p class="google-font" style="font-size: 25px;font-weight: 600;">Call for Volunteers</p>
+          <div>
+            <img src="../../assets/img/volunteers.png" alt="sponsors image" class="details-card-img"/>
+          </div>
+          <p class="google-font mb-4 details-card-desc" style="margin: 0 auto; font-size: 16px;">
+            Be a <b>DevFest Indore 23</b>  Volunteer! Join us: Network with tech experts,Gain event experience,Exclusive access.
+            <br/>
+          </p>
+          <v-btn color="primary" depressed href="https://bit.ly/devfest-volunteers23" target="_blank" rounded>Submit Now</v-btn>
+        </div>
+      </v-col>
+       <!-- call for community partners -->
+       <v-col md="3" cols="12" class="text-center">
+        <div class="pa-md-10 pa-5 list-details-card">
+          <p class="google-font" style="font-size: 25px;font-weight: 600;">Call for Partners</p>
+          <div>
+            <img src="../../assets/img/community-partners.png" class="details-card-img" alt="sponsors image" />
+          </div>
+          <p class="google-font mb-4 details-card-desc" style="margin: 0 auto; font-size: 16px;">
+            As a Community Partner: Boost your community's influence,Collaborate on event promotion,Reach a diverse tech-savvy audience,Connect and share ideas,Shape the future of tech in Indore.
+            <br/>
+          </p>
+          <v-btn color="primary" depressed href="https://bit.ly/devfest-partners23" target="_blank" rounded>Submit Now</v-btn>
         </div>
       </v-col>
       <!-- CALL FOR EXHIBITORS -->
@@ -84,5 +105,24 @@ export default {};
 }
 .expect-card {
   margin: 60px 0;
+}
+.details-card-img {
+  width: 100%;
+  height: 140px;
+  object-fit: contain;
+}
+
+.details-card-desc {
+  min-height: 170px;
+}
+
+@media screen and (max-width: 770px) {
+  .details-card-img {
+    height: auto;
+  }
+
+  .details-card-desc {
+  min-height: 100%;
+}
 }
 </style>

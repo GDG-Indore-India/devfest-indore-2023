@@ -1,16 +1,16 @@
 [
 {
-    "name":"Diaspark",
-   "desc":"We are an end-to-end IT, Digital Transformation and Consulting services provider to mid-sized and global fortune 500 businesses across the globe. With over two decades of experience of working with global businesses, we enable organizations to realize maximized business values by building innovative technology solutions.",
-   "image":"diaspark-logo.png",    
+    "name":"Sayaji",
+   "desc":"Celebrate Indore's heritage at the luxurious Sayaji, featuring multiple restaurants with global cuisines & the Grand Lounge bar. Hotel Sayaji reflects the true spirit of Indore, Central India's financial capital, in the way it brings together tradition and contemporary luxury. Major tourist destinations in the city, like Vijay Nagar and Khajrana Ganesh Temple, are within 5 km of the hotel.",
+   "image":"sayaji.svg",    
    "socialMedia":{
-       "instagram":"https://www.instagram.com/diaspark/",
-     "linkedin":"https://www.linkedin.com/company/diaspark-inc",
-     "twitter":"https://twitter.com/diasparkinc",
+       "instagram":"https://www.instagram.com/sayajihotels/",
+     "linkedin":"https://www.linkedin.com/company/sayajihotelsltd",
+     "twitter":"",
      "github":"",
-     "youtube": ""
+     "youtube": "https://www.youtube.com/channel/UCT_a4dJ-eN9ijvRcJZGIP6w"
    },
    "links": false,
-   "website":""
+   "website":"https://sayajihotels.com/our-hotels/sayaji-indore/"
 }
 ]

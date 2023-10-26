@@ -47,16 +47,16 @@ export default new Vuex.Store({
           showDrawer: true
         },
       },
-      // {
-      //   text: "Partners",
-      //   to: "/partners",
-      //   icon: "mdi-account-multiple",
-      //   meta: {
-      //     showToolbar: true,
-      //     showBottomNav: true,
-      //     showDrawer: true
-      //   },
-      // },
+      {
+        text: "Partners",
+        to: "/partners",
+        icon: "mdi-account-multiple",
+        meta: {
+          showToolbar: true,
+          showBottomNav: true,
+          showDrawer: true
+        },
+      },
       // {
       //   text: "Register",
       //   to: "/registration",

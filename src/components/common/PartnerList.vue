@@ -1,13 +1,13 @@
 <template>
   <v-main class="">
     <v-container fluid>
-      <v-row justify="center" align="center">
+      <v-row justify="center" class="align-center">
         <v-col md="10" lg="12" sm="10" cols="12">
           <v-container class="mb-0 pb-0">
-            <v-row justify="center">
-              <v-col class="">
+            <v-row>
+              <v-col md="7" cols="12">
                 <p
-                  class="google-font gdg-heading mb-0 font-weight-bold"
+                  class="google-font gdg-heading mb-0 font-weight-bold mt-16"
                   style="line-height: 1.22;font-weight:600;"
                 >
                   Our Partners
@@ -20,20 +20,31 @@
                 <v-btn
                   rounded
                   depressed
-                  href="https://docs.google.com/forms/d/e/1FAIpQLScEpLDakl73VMx5L6sKFTKUgsh3lY2UieRtzBKQuJ_i32Y-GQ/viewform"
+                  href="https://bit.ly/devfest-partners23"
                   outlined
                   target="_blank"
                   class="mb-2 mr-2"
                   color="#4184F7"
                   dark
                   style="border: 1px solid #4184f7;"
-                  >Become a Partner</v-btn
+                  >Become a Community Partner</v-btn
+                >
+                <v-btn
+                  rounded
+                  depressed
+                  href="https://bit.ly/devfest-sponsors23"
+                  target="_blank"
+                  class="mb-2 mr-2"
+                  color="#4184F7"
+                  dark
+                  style="border: 1px solid #4184f7;"
+                  >Become a Sponsor Partner</v-btn
                 >
                 <p class="mt-4 google-font"><b>You can check the brochure from here:</b> </p>
                 <v-btn
                   rounded
                   depressed
-                  href="https://drive.google.com/file/d/1Chl3RzVE8gUxaKVhRmWyk7hPL4sEgLye/view?ts=636bfc84"
+                  href="https://drive.google.com/file/d/1K75Ei8vFwu0O66ZXK9u3Yx0kkigsigXN/view?usp=drivesdk"
                   target="_blank"
                   class="mb-2 mr-2 google-font"
                   color="#202124"
@@ -41,17 +52,9 @@
                   style="border: 1px solid #202124;"
                   >Sponsorship Deck</v-btn
                 >
-                <v-btn
-                  rounded
-                  depressed
-                  href="https://drive.google.com/file/d/1Q6bUJ1pFnIjQEwgxaRuiNH-xcwIrPW98/view?ts=636bfc74"
-                  target="_blank"
-                  class="mb-2"
-                  color="#34a853"
-                  dark
-                  style="border: 1px solid #34a853;"
-                  >Community Collaboration Deck</v-btn
-                >
+              </v-col> 
+              <v-col md="5" cols="12">
+                <div><img src="../../assets/img/community-partners.png" alt="partners" style="width: 100%;"/></div>
               </v-col>
             </v-row>
           </v-container>
@@ -59,10 +62,10 @@
       </v-row>
     </v-container>
     <v-container fluid>
-      <v-row justify="center" align="center">
+      <v-row class="align-center">
         <v-col md="10" lg="12" sm="10" cols="12">
           <v-container class="mb-0 pb-0 mt-10">
-            <v-row justify="center">
+            <v-row class="justify-mb-center">
               <v-col
                 md="3"
                 lg="3"
@@ -79,13 +82,13 @@
           </v-container>
         </v-col>
       </v-row>
-      <v-row>
-        <v-col md="10" lg="12" sm="10" cols="12" class="px-1">
-          <div><p class="mt-4 google-font pl-10" style="text-align: center"><b>Sponsor Partners:</b></p></div>
-        </v-col>
+      <v-row class="justify-mb-center">
         <v-col md="10" lg="12" sm="10" cols="12">
           <v-container class="mb-0 pb-0">
-            <v-row  justify="center">
+            <v-col md="10" lg="12" sm="10" cols="12" class="px-1">
+              <div><p class="mt-4 google-font"><b>Sponsor Partners:</b></p></div>
+            </v-col>
+            <v-row class="justify-mb-center">
               <v-col
                 md="3"
                 lg="3"
@@ -102,13 +105,13 @@
           </v-container>
         </v-col>
       </v-row>
-      <v-row>
-        <v-col md="10" lg="12" sm="10" cols="12" class="px-1">
-          <div><p class="mt-4 google-font pl-10"  style="text-align: center"><b>Venue Partner:</b></p></div>
-        </v-col>
+      <v-row class="justify-mb-center">
         <v-col md="10" lg="12" sm="10" cols="12">
           <v-container class="mb-0 pb-0">
-            <v-row  justify="center">
+            <v-row class="justify-mb-center">
+              <v-col md="10" lg="12" sm="10" cols="12" class="px-1">
+                <div><p class="mt-4 google-font"><b>Venue Partner:</b></p></div>
+              </v-col>
               <v-col
                 md="3"
                 lg="3"
@@ -125,7 +128,7 @@
           </v-container>
         </v-col>
       </v-row>
-      <v-row>
+      <!-- <v-row>
         <v-col md="10" lg="12" sm="10" cols="12" class="px-1">
           <div><p class="mt-4 google-font pl-10"  style="text-align: center"><b>Diversity & Inclusion Partner:</b></p></div>
         </v-col>
@@ -147,8 +150,8 @@
             </v-row>
           </v-container>
         </v-col>
-      </v-row>
-            <v-row>
+      </v-row> -->
+            <!-- <v-row>
         <v-col md="10" lg="12" sm="10" cols="12" class="px-1">
           <div><p class="mt-4 google-font pl-10"  style="text-align: center"><b>Merchandise Partner:</b></p></div>
         </v-col>
@@ -170,8 +173,8 @@
             </v-row>
           </v-container>
         </v-col>
-      </v-row>
-         <v-row>
+      </v-row> -->
+         <!-- <v-row>
         <v-col md="10" lg="12" sm="10" cols="12" class="px-1">
           <div><p class="mt-4 google-font pl-10"  style="text-align: center"><b>Media Partner:</b></p></div>
         </v-col>
@@ -193,7 +196,7 @@
             </v-row>
           </v-container>
         </v-col>
-      </v-row>
+      </v-row> -->
     </v-container>
   </v-main>
 </template>
@@ -254,6 +257,19 @@ export default {
 
 .community-card .v-image__image--cover {
   background-size: contain;
+}
+
+.partners-img {
+  height: 150px;
+  object-fit: contain;
+  width:100%;
+}
+
+@media only screen and (max-width: 770px) {
+  .justify-mb-center {
+    justify-content: center;
+    text-align: center;
+  }
 }
 </style>
 

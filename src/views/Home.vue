@@ -32,12 +32,13 @@
             </ul>
           </v-col> -->
         </v-row>
-          <Devfest2022/>
+          <WhatToExpect />
           <!-- <Ticketing class="my-10 py-10"/> -->
           <v-divider></v-divider>
-          <WhatToExpect />
+          <Devfest2022/>
           <!-- <AboutDevfest class="my-10"/>  -->
           <v-divider></v-divider>
+          <Partners />
           <!-- <PartnerList class="my-15"/> -->
           <!-- <v-divider></v-divider> -->
           <!-- <FAQList  class="my-15"/> -->
@@ -55,6 +56,7 @@ import SocialInfo from '../components/home/SocialInfo.vue';
 import titleMixin from '@/mixins/titleMixin';
 import Devfest2022 from '../components/home/Devfest2022.vue';
 import WhatToExpect from '../components/home/WhatToExpect.vue';
+import Partners from '../components/common/Partners.vue';
 
 
 export default {
@@ -64,7 +66,8 @@ export default {
     Hero,
     SocialInfo,
     Devfest2022,
-    WhatToExpect
+    WhatToExpect,
+    Partners
   },
   data(){
     return {
@@ -72,7 +75,7 @@ export default {
     }
   },
   created(){
-    document.title = "Home | GDG Indore | Devfest 2023"
+    document.title = "Home | Devfest Indore 2023"
   }
 };
 </script>

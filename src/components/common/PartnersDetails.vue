@@ -56,7 +56,7 @@
 
       <v-card-actions :class="this.$vuetify.theme.dark == true?'grey darken-3':'grey lighten-3'">
         <v-spacer></v-spacer>
-        <span v-if="!data.links"><v-btn color="primary" :href="data.website" target="_blank">Become a Partner</v-btn></span>
+        <span v-if="!data.links"><v-btn color="primary" :href="data.website" target="_blank">Visit the website</v-btn></span>
         <v-btn aria-label="close" color="primary" text @click="dialog = false" class="ml-2">Close</v-btn>
       </v-card-actions>
     </v-card>
@@ -119,11 +119,11 @@ export default {
 }
 
 .partner-image img {
-  max-height: 70px;
+  max-height: 80px;
 }
 
 .partner-card {
-  height: 110px;
+  height: 125px;
     display: flex;
     justify-content: center;
     border-radius: 8px;
