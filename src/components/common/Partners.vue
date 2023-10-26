@@ -7,7 +7,7 @@
               <v-row>
                 <v-col md="7" cols="12">
                   <p
-                    class="google-font gdg-heading mb-0 font-weight-bold mt-16"
+                    class="google-font gdg-heading mb-0 font-weight-bold"
                     style="line-height: 1.22;font-weight:600;"
                   >
                     Our Partners
@@ -136,7 +136,7 @@
     background: white;
     border: 1px solid #d4d3d3;
     border-radius: 20px;
-    margin: 0 0 80px;
+    margin: 80px 0;
     padding: 25px 15px;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 6px 0px, rgb(218, 220, 224) 0px -1px 0px 0px inset !important;
   }

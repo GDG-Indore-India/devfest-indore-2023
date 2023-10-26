@@ -129,10 +129,14 @@ export default {
     border-radius: 8px;
 }
 
-@media only screen and (max-width: 660px) {
+@media only screen and (max-width: 770px) {
 /* .partner-image {
   width: 100px !important;
 } */
+
+.partner-image img {
+  width: 100%;
+}
 }
 .v-dialog__content--active .partner-image > img {
   width: 100% !important;

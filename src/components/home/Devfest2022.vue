@@ -122,7 +122,7 @@ export default {};
   }
 
   .details-card-desc {
-  min-height: 100%;
+  min-height: auto;
 }
 }
 </style>
