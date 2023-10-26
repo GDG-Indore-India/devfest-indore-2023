@@ -1,5 +1,5 @@
 <template>
-    <v-main class="">
+    <v-main class="partners-card-wrap">
       <v-container fluid>
         <v-row justify="center" class="align-center">
           <v-col md="10" lg="12" sm="10" cols="12">
@@ -130,6 +130,15 @@
     height: 150px;
     object-fit: contain;
     width:100%;
+  }
+
+  .partners-card-wrap {
+    background: white;
+    border: 1px solid #d4d3d3;
+    border-radius: 20px;
+    margin: 0 0 80px;
+    padding: 25px 15px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 6px 0px, rgb(218, 220, 224) 0px -1px 0px 0px inset !important;
   }
   
   @media only screen and (max-width: 770px) {
