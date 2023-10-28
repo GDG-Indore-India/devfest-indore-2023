@@ -328,5 +328,20 @@
       "website": "",
       "github": ""
     }
+  },
+  {
+    "name": "Atharv Vani",
+    "community": {
+      "name": "Core Team Member | GDG Indore",
+      "designation": "Frontend Developer at Bookzy Edufy Pvt. Ltd. | Ex. Junior Developer at Webalar OPC Pvt. Ltd. | Core Member at Google Developers Group | Postman Student Expert | GSSOC '23 Mentor | SSOC '22 Mentor | Hacktoberfest '22"
+    },
+    "image": "atharav.jpeg",
+    "bio": "Passionate undergraduate computer science student with a strong programming foundation, seeking exciting roles in product and service-based companies. Committed to applying technical skills, problem-solving, and collaborating with teams to develop innovative solutions while staying updated with evolving technologies.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/atharv-vani110/",
+      "twitter": "",
+      "website": "",
+      "github": ""
+    }
   }
 ]

@@ -38,7 +38,7 @@
             Be a <b>DevFest Indore 23</b>  Volunteer! Join us: Network with tech experts,Gain event experience,Exclusive access.
             <br/>
           </p>
-          <v-btn color="primary" depressed href="https://bit.ly/devfest-volunteers23" target="_blank" rounded>Submit Now</v-btn>
+          <v-btn color="primary" depressed href="https://bit.ly/devfest-volunteers23" target="_blank" rounded disabled>Submit Now</v-btn>
         </div>
       </v-col>
        <!-- call for community partners -->
