@@ -6,7 +6,7 @@
       <v-app-bar-nav-icon aria-label="Hamburger Btn" @click="toggleDrawer"
         class="d-md-none d-lg-none"></v-app-bar-nav-icon>
 
-      <div class="d-flex align-center">
+      <div class="d-flex justify-center align-center">
         <router-link to="/" class="google-font grey--text text--darken-2" style="text-decoration: none;">
           <v-img alt="WTM Logo" class="shrink mr-2" contain :src="require('@/assets/img/gdg-indore-logo.svg')"
             width="50%" />
