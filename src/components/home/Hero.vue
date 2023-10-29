@@ -17,7 +17,7 @@
           </p>
           <p class="google-font d-flex mt-2 justify-center">
           <span><v-icon>mdi-map-marker</v-icon></span>
-          <span>Indore</span>
+          <span>Sayaji Hotel, Indore</span>
           </p>
           <!-- <v-btn
             rounded
@@ -41,7 +41,7 @@
             >Invite Only Form</v-btn
           > -->
         </div>
-          <div class="pl-8">
+          <div class="">
             <v-btn
             rounded
             depressed

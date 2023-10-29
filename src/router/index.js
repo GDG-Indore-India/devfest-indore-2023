@@ -61,6 +61,11 @@ const routes = [
     component: () => import(/* webpackChunkName: "badge" */ '../views/Badge.vue')
   },
   {
+    path: '/organizers-badge',
+    name: 'Organizers Badge',
+    component: () => import(/* webpackChunkName: "badge" */ '../views/Organizer-Badge.vue')
+  },
+  {
     path: '/code-of-conduct',
     name: 'CoC',
     component: () => import(/* webpackChunkName: "badge" */ '../views/CoC.vue')
