@@ -8,8 +8,8 @@
 
       <div class="d-flex justify-center align-center">
         <router-link to="/" class="google-font grey--text text--darken-2" style="text-decoration: none;">
-          <v-img alt="WTM Logo" class="shrink mr-2" contain :src="require('@/assets/img/gdg-indore-logo.svg')"
-            width="50%" />
+          <v-img alt="GDG Indore Logo" class="shrink mr-2" contain :src="require('@/assets/img/gdg-indore-logo.png')"
+            width="240px" />
         </router-link>
       </div>
       <!-- <v-toolbar-title class="google-font px-0" style="width: 300px">
