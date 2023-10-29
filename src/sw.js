@@ -59,12 +59,13 @@ workbox.core.setCacheNameDetails({
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-// caches.delete('cache-precache-v2-https://devfestindia.com/')
+// caches.delete('cache-precache-v2-https://devfest.gdgindore.in/')
 
 caches.keys().then(res=>{
   res.forEach(async data=>{
-    if(data=='cache-precache-v2-https://iwdindia.in/'){
-      await caches.delete('cache-precache-v2-https://iwdindia.in/');
+    console.log(data, 'data');
+    if(data=='cache-precache-v2-https://devfest.gdgindore.in/'){
+      await caches.delete('cache-precache-v2-https://devfest.gdgindore.in/');
     }
   })
 })
