@@ -23,7 +23,7 @@
         <p class="mt-3 mb-0 google-font mb-0" style="font-size: 105%; color: #000">
           {{ item.name }}
         </p>
-        <p class="mt-0 mb-0 google-font mt-0" style="font-size: 80%;color: #000">
+        <p class="mt-0 mb-0 google-font mt-0" style="font-size: 80%;color: #000;padding:0 15px;">
           {{ item.community.name }}
         </p>
         <SocialMediaDetails :socialInfo="item.social" />

@@ -261,7 +261,7 @@
       "designation": "Core Team Member"
     },
     "image": "anurag.png",
-    "bio": "Software Engineer at PayU Payments | SIH 2022 Finalist | GDG Indore | Google DSC Lead 2021-22 | Machine Learning | MLSA |",
+    "bio": "Software Engineer at PayU Payments | SIH 2022 Finalist | GDG Indore | Google DSC Lead 2021-22 | Machine Learning | MLSA ",
     "social": {
       "linkedin": "https://www.linkedin.com/in/-anuragmishra/",
       "twitter": "https://twitter.com/anurag_ayu",
@@ -332,16 +332,46 @@
   {
     "name": "Atharv Vani",
     "community": {
-      "name": "GDG Indore",
+      "name": "Core Team Member | GDG Indore",
       "designation": "Frontend Developer at Bookzy Edufy Pvt. Ltd. | Ex. Junior Developer at Webalar OPC Pvt. Ltd. | Core Member at Google Developers Group | Postman Student Expert | GSSOC '23 Mentor | SSOC '22 Mentor | Hacktoberfest '22"
     },
     "image": "atharav.jpeg",
     "bio": "Passionate undergraduate computer science student with a strong programming foundation, seeking exciting roles in product and service-based companies. Committed to applying technical skills, problem-solving, and collaborating with teams to develop innovative solutions while staying updated with evolving technologies.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/atharv-vani110/",
-      "twitter": "https://twitter.com/atharv_110",
-      "website": "https://bento.me/atharv-vani",
-      "github": "https://github.com/Atharv-110"
+      "twitter": "",
+      "website": "",
+      "github": ""
+    }
+  },
+  {
+    "name": "Asmita Bhadoria",
+    "community": {
+      "name": "Google DSC Lead'22 | NMIMS |  GDG Indore",
+      "designation": "Google DSC Lead'22 | NMIMS, Indore | Jetpack Compose Kotlin and Android Studio user and tutor"
+    },
+    "image": "asmita.jpeg",
+    "bio": "Google DSC Lead'22 | NMIMS, Indore | Jetpack Compose Kotlin and Android Studio user and tutor",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/asmita-bhadoria-59025622a/",
+      "twitter": "",
+      "website": "",
+      "github": ""
+    }
+  },
+  {
+    "name": "Drishti Lalwani",
+    "community": {
+      "name": "Google DSC Lead'23, Acropolis | GDG Indore",
+      "designation": "Google DSC Lead ' 23 | Chairperson at IEEE Computer Society Student Branch Chapter, Acropolis"
+    },
+    "image": "drishti.png",
+    "bio": "I am a third year computer science engineering student and a proactive learner, trying to develop skills in various domains.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/drishti-lalwani/",
+      "twitter": "",
+      "website": "",
+      "github": ""
     }
   }
 ]
