@@ -1,5 +1,5 @@
 <template>
-  <v-container fluid>
+  <v-container fluid class="theme-color border-details-block" style="margin-top: 0;">
     <v-row>
       <v-col md="12" cols="12" class="text-center">
         <p class="gdg-heading mb-0 google-font" style="font-weight: 600;">Book your Tickets</p>
@@ -9,7 +9,15 @@
       </v-col>
     </v-row>
     <v-row>
-      <v-col>
+      <v-col md="12" cols="12" class="text-center">
+          <p class="google-font" style="width: 70%;margin: 0 auto 30px;">
+            Get ready to book your tickets! This year, GDG Indore brings you different tracks to choose from! DevFest Indore 2023 has many tracks like AI/ML, Web, and more, to cater to the interest of every developer.
+          </p>
+          <div class="text-center">
+                    <v-btn rounded depressed target="_blank" href="https://konfhub.com/devfest-indore-23" small  dark class="v-btn v-btn--has-bg v-btn--rounded theme--light v-size--default primary">Book Your Tickets</v-btn>
+          </div>
+      </v-col>
+      <!-- <v-col>
         <v-container fluid class="ma-0 pa-0">
           <v-row justify="center" align="center">
             <v-col md="2" cols="12" v-for="(item, index) in Ticketing" :key="index" class="card-block">
@@ -18,7 +26,6 @@
                 <p class="gdg-heading mb-1 google-font grey--text text--darken-2" style="font-size:22px;color:#202124 !important;">
                 {{ item.title }}
                 </p>
-                <!-- <p class="google-font grey--text text--darken-2" style="font-size:105%">{{ item.desc }}</p> -->
                 <div class="text-center">
                     <v-btn rounded depressed to="/" small color="#202124" dark style="border: 1px solid #202124;">{{ item.desc }}</v-btn>
                 </div>
@@ -31,7 +38,7 @@
             </v-col>
           </v-row>
         </v-container>
-      </v-col>
+      </v-col> -->
     </v-row>
   </v-container>
 </template>
