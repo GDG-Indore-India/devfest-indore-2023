@@ -1,11 +1,11 @@
 <template>
-  <v-main class="my-0">
+  <v-main class="my-0 background-overlay-team">
     <v-container fluid>
       <v-row align="center" style="padding-top: 3rem;" justify="center">
         <v-col cols="12" justify="center" align="center" md="10">
           <!-- <p class="gdg-heading mb-0">Our Team.</p>
             <p class="google-font" style="width:80%;">We know that when we support each other, incredible things happen. We volunteer to encourage, elevate and support and under-represented groups in the tech industry.</p> -->
-          <div class="background-overlay-team d-flex flex-column justify-center align-center" style="width:83%;">
+          <div class="d-flex flex-column justify-center align-center" style="width:83%;">
             <h1 class="gdg-heading">Our Team</h1>
             <p class="google-font" style="width:80%; text-align: center;">We know that when we support each other, incredible things happen. We volunteer to encourage, elevate and support and under-represented groups in the tech industry.</p>
           </div>
@@ -42,18 +42,23 @@ export default {
 <style>
 .background-overlay-team {
   /* background-image: url('../../assets/img/about.jpg'); */
-  background:linear-gradient(0deg, rgb(0 0 0 / 59%), rgb(0 0 0 / 81%)), url(../assets/img/team_img_ccd.jpg);
+  background:linear-gradient(0deg, rgb(0 0 0 / 86%), rgb(0 0 0 / 81%)), url(../assets/img/team_img_ccd.jpg);
   background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: #000;
     background-position: center;
-    border-radius: 20px;
+    /* border-radius: 20px; */
     color: #fff;
     opacity: 0.8;
     text-align: center;
     min-height: 450px;
     padding-top: 0;
     box-shadow: 0px 3px 75px #d0cbcb;
+}
+
+.background-overlay-team .v-main__wrap {
+  background: transparent !important;
+  padding-bottom:4rem;
 }
 @media only screen and (max-width: 660px) {
   .gdg-heading {
