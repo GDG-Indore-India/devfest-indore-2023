@@ -64,11 +64,16 @@ const routes = [
   //   name: 'Communities',
   //   component: () => import(/* webpackChunkName: "badge" */ '../views/Communities.vue')
   // },
-  // {
-  //   path: '/badge',
-  //   name: 'Badge',
-  //   component: () => import(/* webpackChunkName: "badge" */ '../views/Badge.vue')
-  // },
+  {
+    path: '/badge',
+    name: 'Badge',
+    component: () => import(/* webpackChunkName: "badge" */ '../views/Badge.vue')
+  },
+  {
+    path: '/organizers-badge',
+    name: 'Organizers Badge',
+    component: () => import(/* webpackChunkName: "badge" */ '../views/Organizer-Badge.vue')
+  },
   {
     path: "/code-of-conduct",
     name: "CoC",

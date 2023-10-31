@@ -77,16 +77,16 @@ export default new Vuex.Store({
       //     showDrawer: true
       //   },
       // },
-      // {
-      //   text: "Badge",
-      //   to: "/badge",
-      //   icon: "mdi-sticker-emoji",
-      //   meta: {
-      //     showToolbar: true,
-      //     showBottomNav: true,
-      //     showDrawer: true
-      //   },
-      // },
+      {
+        text: "Badge",
+        to: "/badge",
+        icon: "mdi-sticker-emoji",
+        meta: {
+          showToolbar: true,
+          showBottomNav: true,
+          showDrawer: true
+        },
+      },
       {
         text: "FAQ",
         to: "/faq",

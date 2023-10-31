@@ -32,6 +32,8 @@
             </ul>
           </v-col> -->
         </v-row>
+          <Ticketing/>
+          <v-divider></v-divider>
           <WhatToExpect />
           <!-- <Ticketing class="my-10 py-10"/> -->
           <v-divider></v-divider>
@@ -57,6 +59,7 @@ import titleMixin from '@/mixins/titleMixin';
 import Devfest2022 from '../components/home/Devfest2022.vue';
 import WhatToExpect from '../components/home/WhatToExpect.vue';
 import Partners from '../components/common/Partners.vue';
+import Ticketing from '../components/home/Ticketing.vue';
 
 
 export default {
@@ -67,7 +70,8 @@ export default {
     SocialInfo,
     Devfest2022,
     WhatToExpect,
-    Partners
+    Partners,
+    Ticketing
   },
   data(){
     return {
