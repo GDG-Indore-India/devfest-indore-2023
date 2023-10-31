@@ -1,14 +1,14 @@
-import Vue from 'vue'
-import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
+import Vue from "vue";
+import VueRouter from "vue-router";
+import Home from "../views/Home.vue";
 
-Vue.use(VueRouter)
+Vue.use(VueRouter);
 
 const routes = [
   {
-    path: '/',
-    name: 'Home',
-    component: Home
+    path: "/",
+    name: "Home",
+    component: Home,
   },
   // {
   //   path: '/registration',
@@ -16,9 +16,15 @@ const routes = [
   //   component: () => import(/* webpackChunkName: "registration" */ '../views/Registration.vue')
   // },
   {
-    path: '/faq',
-    name: 'FAQ',
-    component: () => import(/* webpackChunkName: "faq" */ '../views/FAQ.vue')
+    path: "/faq",
+    name: "FAQ",
+    component: () => import(/* webpackChunkName: "faq" */ "../views/FAQ.vue"),
+  },
+  {
+    path: "/tickets-faq",
+    name: "Tickets FAQ",
+    component: () =>
+      import(/* webpackChunkName: "faq" */ "../views/TicketsFAQ.vue"),
   },
   // {
   //   path: '/schedule',
@@ -41,14 +47,17 @@ const routes = [
   //   component: () => import(/* webpackChunkName: "speaker-page" */ '../views/SpeakerPage.vue')
   // },
   {
-    path: '/team',
-    name: 'Team',
-    component: () => import(/* webpackChunkName: "team" */ '../views/Team.vue')
+    path: "/team",
+    name: "Team",
+    component: () => import(/* webpackChunkName: "team" */ "../views/Team.vue"),
   },
   {
-    path: '/partners',
-    name: 'Partners',
-    component: () => import(/* webpackChunkName: "schedule" */ '../components/common/PartnerList.vue')
+    path: "/partners",
+    name: "Partners",
+    component: () =>
+      import(
+        /* webpackChunkName: "schedule" */ "../components/common/PartnerList.vue"
+      ),
   },
   // {
   //   path: '/communities',
@@ -61,9 +70,9 @@ const routes = [
   //   component: () => import(/* webpackChunkName: "badge" */ '../views/Badge.vue')
   // },
   {
-    path: '/code-of-conduct',
-    name: 'CoC',
-    component: () => import(/* webpackChunkName: "badge" */ '../views/CoC.vue')
+    path: "/code-of-conduct",
+    name: "CoC",
+    component: () => import(/* webpackChunkName: "badge" */ "../views/CoC.vue"),
   },
   // {
   //   path: '/exhibitors',
@@ -75,15 +84,15 @@ const routes = [
   //   name: 'Highlights',
   //   component: () => import(/* webpackChunkName: "badge" */ '../views/highlight.vue')
   // }
-]
+];
 
 const router = new VueRouter({
-  mode: 'history',
+  mode: "history",
   base: process.env.BASE_URL,
   scrollBehavior() {
     return { x: 0, y: 0 };
   },
-  routes
-})
+  routes,
+});
 
-export default router
+export default router;
