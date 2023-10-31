@@ -13,7 +13,16 @@
 }
 
 .primary-text {
-    color: #4884f3;
+    color: #4285f3;
+}
+.green-text {
+    color: #34A853;
+}
+.red-text {
+    color: #EA4335;
+}
+.yellow-text {
+    color: #F9AB00;
 }
 
 .banner {
