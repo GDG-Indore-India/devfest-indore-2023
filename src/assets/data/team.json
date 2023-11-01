@@ -373,5 +373,20 @@
       "website": "",
       "github": ""
     }
+  },
+  {
+    "name": "Pallavi Yadav",
+    "community": {
+      "name": "GDG Indore",
+      "designation": ""
+    },
+    "image": "pallavi.jpg",
+    "bio": "",
+    "social": {
+      "linkedin": "aa",
+      "twitter": "",
+      "website": "",
+      "github": ""
+    }
   }
 ]
