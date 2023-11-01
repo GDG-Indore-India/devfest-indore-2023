@@ -192,7 +192,7 @@ export default {
 <style>
 .background-overlay {
   /* background-image: url('../../assets/img/about.jpg'); */
-  background:linear-gradient(0deg, rgb(0 0 0 / 86%), rgb(0 0 0 / 84%)),url(../../assets/img/about.jpg);
+  background:linear-gradient(0deg, rgb(0 0 0 / 77%), rgb(0 0 0 / 84%)), url(../../assets/img/devfest-2023-team.png);
   background-repeat: no-repeat;
     background-size: cover;
     background-color: #000;
