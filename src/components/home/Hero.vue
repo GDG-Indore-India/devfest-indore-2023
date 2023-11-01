@@ -1,22 +1,22 @@
 <template>
-  <v-container fluid style="">
-    <v-row style="padding-top: 4em">
-      <v-col md="12" class="order-2 order-md-1 background-overlay">
+  <v-container fluid style="" class="background-overlay">
+    <v-row style="padding-top: 2em">
+      <v-col md="12" class="order-2 order-md-1">
         <div style="border-radius: 12px;min-height:360px;background:transparent" class="pa-8">
           <p class="gdg-heading mb-0" style="font-weight: 600; font-size: 48px;">
-            The Largest Tech Event of Indore <br/>Devfest  Indore 2023
+            The Largest Tech Event of Indore <br/>Devfest Indore 2023
           </p>
           <!-- <p class="gdg-heading mt-n2" style="font-weight: 600">Indore 2023</p> -->
-          <p style="font-size: 20px;width: 80%;margin: 10px auto 30px;" class="google-font text-secoundry">
+          <p style="font-size: 20px;width: 80%;margin: 10px auto 30px;" class="google-font heading-text text-secoundry">
             DevFest is an annual decentralized tech conference hosted by Google Developer Groups across the globe. 
             2023 will be the 11th year 🎉 of DevFest which marks the beginning of the second decade of the GDG community. 
 
           </p>
           <p class="google-font mb-0">
-            <v-icon>mdi-calendar-month</v-icon> November 26th, 2023 <span class="mx-2"> </span> <v-icon>mdi-account</v-icon> In-person
+            <v-icon dark class="pr-1">mdi-calendar-month</v-icon> November 26th, 2023 <span class="mx-2"> </span> <v-icon dark class="pr-1">mdi-account</v-icon> In-person
           </p>
           <p class="google-font d-flex mt-2 justify-center">
-          <span><v-icon>mdi-map-marker</v-icon></span>
+          <span><v-icon dark class="pr-1">mdi-map-marker</v-icon></span>
           <span>Sayaji Hotel, Indore</span>
           </p>
           <!-- <v-btn
@@ -192,21 +192,25 @@ export default {
 <style>
 .background-overlay {
   /* background-image: url('../../assets/img/about.jpg'); */
-  background:linear-gradient(0deg, rgb(0 0 0 / 59%), rgb(0 0 0 / 81%)), url(../../assets/img/about.jpg);
+  background:linear-gradient(0deg, rgb(0 0 0 / 86%), rgb(0 0 0 / 84%)),url(../../assets/img/about.jpg);
   background-repeat: no-repeat;
     background-size: cover;
     background-color: #000;
-    border-radius: 20px;
+    border-radius: 0;
     color: #fff;
     opacity: 0.8;
     text-align: center;
     min-height: 640px;
-    padding-top: 7em;
+    padding-top: 6em;
     box-shadow: 0px 3px 75px #d0cbcb;
 }
 @media only screen and (max-width: 660px) {
   .gdg-heading {
     font-size: 32px !important;
+  }
+
+  .heading-text {
+    width: 100% !important;
   }
 }
 </style>

@@ -2,7 +2,7 @@
   <v-container fluid class="expect-details-card">
     <v-row>
       <v-col md="12" cols="12" class="text-center">
-        <p class="gdg-heading mb-0 google-font expect-heading-text" style="font-weight: 600;padding-top: 16px;">What You Can Expect this year at DevFest Indore 2023</p>
+        <p class="gdg-heading mb-0 google-font expect-heading-text" style="font-weight: 600;padding-top: 16px;">What You Can Expect this year at <span class="text-primary">DevFest Indore 2023</span></p>
         <p class="google-font" style="font-size: 18px;">
           Here is what to expect from Devfest Indore 2023 this year 
         </p>
