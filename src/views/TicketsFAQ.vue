@@ -1,9 +1,6 @@
 <template>
   <v-main class="pt-m">
-    <v-container
-      fluid
-      class="bg-faq-image"
-    >
+    <v-container fluid class="bg-faq-image">
       <v-row justify="center" align="center">
         <v-col cols="12" md="10" class="pt-15">
           <p class="gdg-heading mb-0 primary-text">
@@ -70,7 +67,7 @@
 </template>
 
 <script>
-import data from "@/assets/data/tickets-faq.json";
+import data from "@/assets/data/tickets-faq.js";
 export default {
   data: () => ({
     faqsData: data,
