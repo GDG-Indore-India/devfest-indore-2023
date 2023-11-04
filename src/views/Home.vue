@@ -33,7 +33,9 @@
             </ul>
           </v-col> -->
         </v-row>
-          <Ticketing/>
+        <Timer />
+        <v-divider></v-divider>
+        <Ticketing/>
           <v-divider></v-divider>
           <WhatToExpect />
           <!-- <Ticketing class="my-10 py-10"/> -->
@@ -61,6 +63,7 @@ import Devfest2022 from '../components/home/Devfest2022.vue';
 import WhatToExpect from '../components/home/WhatToExpect.vue';
 import Partners from '../components/common/Partners.vue';
 import Ticketing from '../components/home/Ticketing.vue';
+import Timer from '../components/home/Timer.vue';
 
 
 export default {
@@ -72,8 +75,9 @@ export default {
     Devfest2022,
     WhatToExpect,
     Partners,
-    Ticketing
-  },
+    Ticketing,
+    Timer
+},
   data(){
     return {
       title: 'Home'

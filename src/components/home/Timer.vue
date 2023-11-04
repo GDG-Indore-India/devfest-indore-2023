@@ -128,6 +128,7 @@ export default {
 .count-title {
   font-size: 1.2em;
   margin-bottom: 10px;
+  color: #333;
 }
 
 .figure {
@@ -174,7 +175,6 @@ span {
   left: 0;
   right: 0;
   margin: auto;
-  color: #fff !important;
   transform: rotateX(0deg);
 }
 
