@@ -32,6 +32,54 @@
   </v-container>
 </template>
 
+<script>
+export default {
+  name: 'CountdownTimer',
+  data() {
+    return {
+      targetDate: new Date('2023-11-26T10:00:00').getTime(),
+      timer: null,
+      timeRemaining: null,
+      flipped: false,
+    };
+  },
+  created() {
+    this.startCountdown();
+  },
+  beforeDestroy() {
+    clearInterval(this.timer);
+  },
+  computed: {
+    formattedHours() {
+      return this.formatValue(Math.floor((this.timeRemaining % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)));
+    },
+    formattedMinutes() {
+      return this.formatValue(Math.floor((this.timeRemaining % (1000 * 60 * 60)) / (1000 * 60)));
+    },
+    formattedSeconds() {
+      return this.formatValue(Math.floor((this.timeRemaining % (1000 * 60)) / 1000));
+    },
+  },
+  methods: {
+    formatValue(value) {
+      return value.toString().padStart(2, '0');
+    },
+    startCountdown() {
+      this.timer = setInterval(() => {
+        const now = new Date().getTime();
+        this.timeRemaining = this.targetDate - now;
+
+        if (this.timeRemaining < 0) {
+          clearInterval(this.timer);
+          this.timeRemaining = 0;
+        } else {
+          this.flipped = !this.flipped;
+        }
+      }, 1000);
+    },
+  },
+};
+</script>
 
 <style scoped>
 .countdown {
