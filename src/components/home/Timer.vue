@@ -3,6 +3,15 @@
     <v-row justify="center">
       <v-col cols="12" sm="8" md="6">
         <div class="countdown">
+          <!-- Days Section -->
+          <div class="bloc-time days">
+            <span class="count-title">Days</span>
+            <div class="format">
+              <div class="figure days days-1">{{ formattedDays[0] }}</div>
+              <div class="figure days days-2">{{ formattedDays[1] }}</div>
+            </div>
+          </div>
+          <div class="font-weight-medium text-h4 mt-4">:</div>
           <!-- Hours section -->
           <div class="bloc-time hours">
             <span class="count-title">Hours</span>
@@ -56,7 +65,10 @@ export default {
     clearInterval(this.timer);
   },
   computed: {
-    // Computed properties for formatted hours, minutes, and seconds
+    // Computed properties for formatted days, hours, minutes, and seconds
+    formattedDays() {
+      return this.formatValue(Math.floor(this.timeRemaining / (1000 * 60 * 60 * 24)));
+    },
     formattedHours() {
       return this.formatValue(Math.floor((this.timeRemaining % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)));
     },
