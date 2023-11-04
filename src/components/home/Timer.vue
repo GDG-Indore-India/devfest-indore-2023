@@ -3,6 +3,7 @@
     <v-row justify="center">
       <v-col cols="12" sm="8" md="6">
         <div class="countdown">
+          <!-- Hours section -->
           <div class="bloc-time hours">
             <span class="count-title">Hours</span>
             <div class="format">
@@ -11,6 +12,7 @@
             </div>
           </div>
           <div class="font-weight-medium text-h4 mt-4">:</div>
+          <!-- Minutes section -->
           <div class="bloc-time min">
             <span class="count-title">Minutes</span>
             <div class="format">
@@ -19,6 +21,7 @@
             </div>
           </div>
           <div class="font-weight-medium text-h4 mt-4">:</div>
+          <!-- Seconds section -->
           <div class="bloc-time sec">
             <span class="count-title">Seconds</span>
             <div class="format">
@@ -37,19 +40,23 @@ export default {
   name: 'CountdownTimer',
   data() {
     return {
-      targetDate: new Date('2023-11-26T10:00:00').getTime(),
-      timer: null,
-      timeRemaining: null,
-      flipped: false,
+      // Target date for the countdown timer
+      targetDate: new Date('2023-11-26T10:00:00').getTime(), // 26th November 2023, 10:00:00 AM Date of Event
+      timer: null, // Timer for updating the countdown
+      timeRemaining: null, // Remaining time in seconds
+      flipped: false, // Used to apply a flipping effect
     };
   },
   created() {
+    // Start the countdown when the component is created
     this.startCountdown();
   },
   beforeDestroy() {
+    // Clear the timer when the component is destroyed to prevent memory leaks
     clearInterval(this.timer);
   },
   computed: {
+    // Computed properties for formatted hours, minutes, and seconds
     formattedHours() {
       return this.formatValue(Math.floor((this.timeRemaining % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)));
     },
@@ -61,9 +68,11 @@ export default {
     },
   },
   methods: {
+    // Helper method to format a value as a two-digit string
     formatValue(value) {
       return value.toString().padStart(2, '0');
     },
+    // Start the countdown timer
     startCountdown() {
       this.timer = setInterval(() => {
         const now = new Date().getTime();
@@ -73,7 +82,7 @@ export default {
           clearInterval(this.timer);
           this.timeRemaining = 0;
         } else {
-          this.flipped = !this.flipped;
+          this.flipped = !this.flipped; // Toggle the flipped state for the flipping effect
         }
       }, 1000);
     },
