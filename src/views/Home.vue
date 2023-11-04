@@ -7,7 +7,7 @@
           </v-col>
       </v-row> -->
       <v-row align="center" justify="center">
-        <v-col cols="12" md="10" class="my-0 py-0 mt-10">
+        <v-col cols="12" md="10" class="my-0 py-0 mt-[15px]">
           <Hero class="my-md-10 my-5"/>
           <v-row align="center" justify="center" class="mt-0 pt-0">
             <!-- <v-col cols="12" md="5" lg="5" sm="10" class="">

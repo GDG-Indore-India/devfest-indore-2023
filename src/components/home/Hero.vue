@@ -2,7 +2,7 @@
   <v-container fluid style="">
     <v-row style="padding-top: 4em">
       <v-col md="12" class="order-2 order-md-1 background-overlay">
-        <div style="border-radius: 12px;min-height:360px;background:transparent" class="pa-8">
+        <div style="border-radius: 12px;min-height:360px;background:transparent" class="">
           <p class="gdg-heading mb-0" style="font-weight: 600; font-size: 48px;">
             The Largest Tech Event of Indore <br/>Devfest  Indore 2023
           </p>
@@ -41,6 +41,7 @@
             >Invite Only Form</v-btn
           > -->
         </div>
+        <Timer />
           <div class="">
             <v-btn
             rounded
@@ -184,8 +185,10 @@
 </template>
 
 <script>
-export default {
+import Timer from './Timer.vue';
 
+export default {
+    components: { Timer }
 };
 </script>
 
