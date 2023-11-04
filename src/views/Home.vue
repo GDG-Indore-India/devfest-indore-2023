@@ -1,5 +1,6 @@
 <template>
   <v-main class="my-0 py-0">
+    <Hero />
     <v-container fluid style="background-color: rgb(236 235 237 / 32%)">
        <!-- <v-row>
           <v-col md="12" cols="12" class="text-center">
@@ -7,8 +8,8 @@
           </v-col>
       </v-row> -->
       <v-row align="center" justify="center">
-        <v-col cols="12" md="10" class="my-0 py-0 mt-[15px]">
-          <Hero class="my-md-10 my-5"/>
+        <v-col cols="12" md="10" class="my-0 py-0 mt-10">
+          <!-- <Hero class="my-md-10 my-5"/> -->
           <v-row align="center" justify="center" class="mt-0 pt-0">
             <!-- <v-col cols="12" md="5" lg="5" sm="10" class="">
               <YouTube />

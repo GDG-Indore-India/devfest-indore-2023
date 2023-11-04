@@ -10,7 +10,7 @@
                     class="google-font gdg-heading mb-0 font-weight-bold"
                     style="line-height: 1.22;font-weight:600;"
                   >
-                    Our Partners
+                    Our <span class="text-primary">Partners</span>
                   </p>
                   <p class="google-font mb-5" style="font-size:120%">
                     Partners all over the India have gathered together to make
@@ -64,7 +64,7 @@
       <v-container fluid>
         <v-row class="align-center">
           <v-col md="10" lg="12" sm="10" cols="12">
-            <v-container class="mb-0 pb-0 mt-10">
+            <v-container class="mb-0 pb-10 pt-0">
               <v-row class="justify-mb-center">
                 <v-col
                   md="3"

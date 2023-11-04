@@ -3,7 +3,7 @@
     <v-row>
       <v-col md="3" cols="12" class="text-center">
         <div class="pa-md-10 pa-5 list-details-card">
-          <p class="google-font" style="font-size: 25px;font-weight: 600;">Call for Speakers</p>
+          <p class="google-font" style="font-size: 25px;font-weight: 600;">Call for <span class="text-primary">Speakers</span></p>
           <div>
             <img src="../../assets/img/call-for-speakers.png" class="details-card-img" alt="speakers image">
           </div>
@@ -16,7 +16,7 @@
       <!-- call for sponsors -->
       <v-col md="3" cols="12" class="text-center">
         <div class="pa-md-10 pa-5 list-details-card">
-          <p class="google-font" style="font-size: 25px;font-weight: 600;">Call for Sponsors</p>
+          <p class="google-font" style="font-size: 25px;font-weight: 600;">Call for <span class="text-primary">Sponsors</span></p>
           <div>
             <img src="../../assets/img/call-for-sponsors.png" class="details-card-img" alt="sponsors image">
           </div>
@@ -30,7 +30,7 @@
       <!-- call for volunteers -->
       <v-col md="3" cols="12" class="text-center">
         <div class="pa-md-10 pa-5 list-details-card">
-          <p class="google-font" style="font-size: 25px;font-weight: 600;">Call for Volunteers</p>
+          <p class="google-font" style="font-size: 25px;font-weight: 600;">Call for <span class="text-primary">Volunteers</span></p>
           <div>
             <img src="../../assets/img/volunteers.png" alt="sponsors image" class="details-card-img"/>
           </div>
@@ -44,7 +44,7 @@
        <!-- call for community partners -->
        <v-col md="3" cols="12" class="text-center">
         <div class="pa-md-10 pa-5 list-details-card">
-          <p class="google-font" style="font-size: 25px;font-weight: 600;">Call for Partners</p>
+        <p class="google-font" style="font-size: 25px;font-weight: 600;">Call for <span class="text-primary">Partners</span></p>
           <div>
             <img src="../../assets/img/community-partners.png" class="details-card-img" alt="sponsors image" />
           </div>

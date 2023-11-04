@@ -1,16 +1,8 @@
 <template>
   <v-main class="pt-m">
-    <v-container
-      fluid
-      :style="{
-        backgroundImage:
-          'url(' + require('@/assets/img/hero-side-img.svg') + ')',
-      }"
-      style="background-position: top right; background-size: 38%"
-      class="bg-faq-image"
-    >
+    <v-container fluid class="bg-faq-image">
       <v-row justify="center" align="center">
-        <v-col cols="12" md="10">
+        <v-col cols="12" md="10" class="pt-15">
           <p class="gdg-heading mb-0 primary-text">
             Have questions about our various tickets?
           </p>
@@ -75,7 +67,7 @@
 </template>
 
 <script>
-import data from "@/assets/data/tickets-faq.json";
+import data from "@/assets/data/tickets-faq.js";
 export default {
   data: () => ({
     faqsData: data,
