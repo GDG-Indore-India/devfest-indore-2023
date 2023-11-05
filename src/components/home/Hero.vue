@@ -41,7 +41,6 @@
             >Invite Only Form</v-btn
           > -->
         </div>
-        <Timer />
           <div class="">
             <v-btn
             rounded
@@ -183,14 +182,6 @@
      -->
   </v-container>
 </template>
-
-<script>
-import Timer from './Timer.vue';
-
-export default {
-    components: { Timer }
-};
-</script>
 
 <style>
 .background-overlay {
