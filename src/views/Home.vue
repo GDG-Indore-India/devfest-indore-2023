@@ -33,6 +33,9 @@
             </ul>
           </v-col> -->
         </v-row>
+        <v-row>
+          <Timer />
+        </v-row>
           <Ticketing/>
           <v-divider></v-divider>
           <WhatToExpect />
@@ -61,6 +64,7 @@ import Devfest2022 from '../components/home/Devfest2022.vue';
 import WhatToExpect from '../components/home/WhatToExpect.vue';
 import Partners from '../components/common/Partners.vue';
 import Ticketing from '../components/home/Ticketing.vue';
+import Timer from '../components/home/Timer.vue';
 
 
 export default {
@@ -72,8 +76,9 @@ export default {
     Devfest2022,
     WhatToExpect,
     Partners,
-    Ticketing
-  },
+    Ticketing,
+    Timer
+},
   data(){
     return {
       title: 'Home'
