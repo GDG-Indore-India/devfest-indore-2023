@@ -6,24 +6,18 @@
           :videoUrl="firstVideoUrl"
           :thumbnailUrl="firstThumbnailUrl"
           :videoTitle="firstVideoTitle"
-          :EventDate="EventDate"
-          :EventTime="EventTime"
           :videoDescription="firstVideoDescription"
         />
         <YtCard
           :videoUrl="secondVideoUrl"
           :thumbnailUrl="secondThumbnailUrl"
           :videoTitle="secondVideoTitle"
-          :EventDate="secondEventDate"
-          :EventTime="secondEventTime"
           :videoDescription="secondVideoDescription"
         />
         <YtCard
           :videoUrl="thirdVideoUrl"
           :thumbnailUrl="thirdThumbnailUrl"
           :videoTitle="thirdVideoTitle"
-          :EventDate="thirdEventDate"
-          :EventTime="thirdEventTime"
           :videoDescription="thirdVideoDescription"
         />
         </v-row>
@@ -41,28 +35,22 @@ export default {
     data() {
         return {
             // First Card 
-            firstVideoUrl: "https://www.youtube.com/watch?v=9XaS93WMRQQ",
+            firstVideoUrl: "https://youtu.be/GO32M5G5mm4?si=b3Zqy26lrRMGm87R",
             firstThumbnailUrl: "https://img.youtube.com/vi/GO32M5G5mm4/maxresdefault.jpg",
             firstVideoTitle: "Devfest Indore 2022",
             firstVideoDescription: "An annual decentralized tech conference hosted by Google Developer Group Indore organized for local developers to connect, learn and innovate together.",
-            EventDate: "October 2022",
-            EventTime: "10:00 AM - 5:00 PM ( IST )",
 
             // Second Card
-            secondVideoUrl: "https://www.youtube.com/watch?v=9XaS93WMRQQ",
-            secondThumbnailUrl: "https://img.youtube.com/vi/GO32M5G5mm4/maxresdefault.jpg",
-            secondVideoTitle: "Devfest Indore 2022 | Day 2",
+            secondVideoUrl: "https://youtu.be/MyCjsFWwNm8?si=Gj0J-w5bl9I7NVgJ",
+            secondThumbnailUrl: "https://img.youtube.com/vi/MyCjsFWwNm8/maxresdefault.jpg",
+            secondVideoTitle: "Devfest Indore 2019",
             secondVideoDescription: "An annual decentralized tech conference hosted by Google Developer Group Indore organized for local developers to connect, learn and innovate together.",
-            secondEventDate: "October 2022",
-            secondEventTime: "10:00 AM - 5:00 PM ( IST )",
 
             // Third Card
-            thirdVideoUrl: "https://www.youtube.com/watch?v=9XaS93WMRQQ",
-            thirdThumbnailUrl: "https://img.youtube.com/vi/GO32M5G5mm4/maxresdefault.jpg",
-            thirdVideoTitle: "Devfest Indore 2022 | Day 3",
+            thirdVideoUrl: "https://youtu.be/s9IO5SAazzw?si=bz55fqi6iZi7Kb51",
+            thirdThumbnailUrl: "https://img.youtube.com/vi/CKvi3sT3gU8/maxresdefault.jpg",
+            thirdVideoTitle: "Devfest Indore 2018",
             thirdVideoDescription: "An annual decentralized tech conference hosted by Google Developer Group Indore organized for local developers to connect, learn and innovate together.",
-            thirdEventDate: "October 2022",
-            thirdEventTime: "10:00 AM - 5:00 PM ( IST )",
         }
     }
 }

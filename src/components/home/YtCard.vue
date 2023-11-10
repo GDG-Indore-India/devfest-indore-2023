@@ -4,8 +4,6 @@
     <v-card-content >
       <v-row>
         <v-col class="custom-content">
-          <div class="event-date">{{ EventDate }}</div>
-          <div class="event-time">{{ EventTime }}</div>
           <div class="custom-title">{{ videoTitle }}</div>
           <div class="custom-description">{{ videoDescription }}</div>
         </v-col>
@@ -29,8 +27,6 @@ export default {
     thumbnailUrl: String,
     videoTitle: String,
     videoDescription: String,
-    EventDate: String,
-    EventTime: String,
   },
 };
 </script>
@@ -40,37 +36,22 @@ export default {
   max-width: 30%;;
   padding: 16px;
   border-radius: 16px;
-  height: 28rem;
+  height: 25rem;
   margin: 1rem 0;
   background-color: white;
-}
-
-.custom-content {
-  margin: 0 0.5rem;
 }
 
 .custom-thumbnail {
   height: 40%;
   object-fit: cover;
   border-radius: 12px;
-}
-
-.event-date {
-  font-size: 14px;
-  color: #666;
-  padding: 1rem 0 0 0;
-  font-weight: 500;
-}
-.event-time {
-  font-size: 14px;
-  color: #666;
-  padding: 4px 0 8px 0;
+  margin-bottom: 3rem;
 }
 
 .custom-title {
   font-size: 18px;
   font-weight: 800;
-  padding: 0 0px 4px 0;
+  padding: 0 0px 10px 0;
 }
 
 .custom-description {
