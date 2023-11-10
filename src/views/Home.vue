@@ -81,7 +81,7 @@ export default {
 },
   data(){
     return {
-      title: 'Home'
+      title: 'Home',
     }
   },
   created(){
