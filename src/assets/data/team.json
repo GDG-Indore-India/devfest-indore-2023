@@ -388,5 +388,20 @@
       "website": "",
       "github": ""
     }
-  }
-]
+  },
+	{
+		"name": "Mustafa Azad",
+		"community": {
+			"name": "GDG Indore | Full-Stack Developer",
+			"designation": ""
+		},
+		"image": "mustafa.png",
+		"bio": "Full-Stack Web Developer | Open Source Contributor",
+		"social": {
+			"twitter": "https://twitter.com/mustafaazad03",
+			"linkedin": "https://www.linkedin.com/in/mustafaazad03/",
+			"website": "https://www.mustafaazad.tech/",
+			"github": "https://github.com/mustafaazad03"
+		}
+	}
+  ]
