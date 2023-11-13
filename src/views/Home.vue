@@ -45,6 +45,8 @@
           <!-- <AboutDevfest class="my-10"/>  -->
           <v-divider></v-divider>
           <Partners />
+          <v-divider></v-divider>
+          <YtCards/>
           <!-- <PartnerList class="my-15"/> -->
           <!-- <v-divider></v-divider> -->
           <!-- <FAQList  class="my-15"/> -->
@@ -65,6 +67,7 @@ import WhatToExpect from '../components/home/WhatToExpect.vue';
 import Partners from '../components/common/Partners.vue';
 import Ticketing from '../components/home/Ticketing.vue';
 import Timer from '../components/home/Timer.vue';
+import YtCards from '../components/home/YtCards.vue';
 
 
 export default {
@@ -77,7 +80,8 @@ export default {
     WhatToExpect,
     Partners,
     Ticketing,
-    Timer
+    Timer,
+    YtCards
 },
   data(){
     return {
