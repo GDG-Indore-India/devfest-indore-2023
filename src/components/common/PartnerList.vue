@@ -17,7 +17,7 @@
                   Devfest Indore 2023 a success. Show some interest towards GDG
                   Community and join us right here!
                 </p>
-                <v-btn
+                <!-- <v-btn
                   rounded
                   depressed
                   href="https://bit.ly/devfest-partners23"
@@ -28,7 +28,7 @@
                   dark
                   style="border: 1px solid #4184f7;"
                   >Become a Community Partner</v-btn
-                >
+                > -->
                 <v-btn
                   rounded
                   depressed
@@ -86,7 +86,7 @@
         <v-col md="10" lg="12" sm="10" cols="12">
           <v-container class="mb-0 pb-0">
             <v-col md="10" lg="12" sm="10" cols="12" class="px-1">
-              <div><p class="mt-4 google-font"><b>Sponsor Partners:</b></p></div>
+              <div><p class="mt-4 google-font"><b>Community Partners:</b></p></div>
             </v-col>
             <v-row class="justify-mb-center">
               <v-col
@@ -100,6 +100,31 @@
                 :key="index"
               >
                 <Partners :data="item" :partnerDetails="sponsorsData" />
+              </v-col>
+            </v-row>
+          </v-container>
+        </v-col>
+      </v-row>
+      <v-row>
+        <v-col md="10" lg="12" sm="10" cols="12" class="px-1">
+        </v-col>
+        <v-col md="10" lg="12" sm="10" cols="12">
+          <v-container class="mb-0 pb-0">
+            <v-row>
+              <v-col md="10" lg="12" sm="10" cols="12" class="px-1">
+                <div><p class="mt-4 google-font"><b>Diversity & Inclusion Partner:</b></p></div>
+              </v-col>
+              <v-col
+                md="3"
+                lg="3"
+                xl="2"
+                sm="4"
+                cols="12"
+                class="px-1"
+                v-for="(item, index) in diversityData"
+                :key="index"
+              >
+                <Partners :data="item" :partnerDetails="diversityData" />
               </v-col>
             </v-row>
           </v-container>
@@ -128,29 +153,7 @@
           </v-container>
         </v-col>
       </v-row>
-      <!-- <v-row>
-        <v-col md="10" lg="12" sm="10" cols="12" class="px-1">
-          <div><p class="mt-4 google-font pl-10"  style="text-align: center"><b>Diversity & Inclusion Partner:</b></p></div>
-        </v-col>
-        <v-col md="10" lg="12" sm="10" cols="12">
-          <v-container class="mb-0 pb-0">
-            <v-row  justify="center">
-              <v-col
-                md="3"
-                lg="3"
-                xl="2"
-                sm="4"
-                cols="12"
-                class="px-1"
-                v-for="(item, index) in diversityData"
-                :key="index"
-              >
-                <Partners :data="item" :partnerDetails="diversityData" />
-              </v-col>
-            </v-row>
-          </v-container>
-        </v-col>
-      </v-row> -->
+
             <!-- <v-row>
         <v-col md="10" lg="12" sm="10" cols="12" class="px-1">
           <div><p class="mt-4 google-font pl-10"  style="text-align: center"><b>Merchandise Partner:</b></p></div>
