@@ -33,10 +33,11 @@ export default {
 
 <style scoped>
 .custom-card {
-  max-width: 30%;;
+  max-width: 100%;;
+  width: 100%;
   padding: 16px;
   border-radius: 16px;
-  height: 25rem;
+  height: fit-content;
   margin: 1rem 0;
   background-color: white;
 }
@@ -88,4 +89,5 @@ export default {
   height: 30px;
   margin-right: 8px;
 }
+
 </style>
