@@ -3,18 +3,21 @@
         <h2>Explore Previous Devfest Livestreams</h2>
         <v-row class="main">
         <YtCard
+        class="card"
           :videoUrl="firstVideoUrl"
           :thumbnailUrl="firstThumbnailUrl"
           :videoTitle="firstVideoTitle"
           :videoDescription="firstVideoDescription"
         />
         <YtCard
+        class="card"
           :videoUrl="secondVideoUrl"
           :thumbnailUrl="secondThumbnailUrl"
           :videoTitle="secondVideoTitle"
           :videoDescription="secondVideoDescription"
         />
         <YtCard
+        class="card"
           :videoUrl="thirdVideoUrl"
           :thumbnailUrl="thirdThumbnailUrl"
           :videoTitle="thirdVideoTitle"
@@ -62,9 +65,36 @@ export default {
 }
 
 .main {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: 1rem 0;
+    display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        grid-gap: 1rem;
+        margin: 0 auto;
+}
+
+@media screen and (max-width: 960px) {
+    .main {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-gap: 1rem;
+        margin: 0 auto;
+    }
+    .card {
+        margin: 1rem 0;
+    }
+    
+}
+
+@media screen and (max-width: 600px) {
+    .section {
+        margin: 1rem 0;
+        width: 100vw;
+    }
+
+    .main {
+        display: grid;
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+        grid-gap: 1rem;
+        margin: 0 auto;
+    }
 }
 </style>
