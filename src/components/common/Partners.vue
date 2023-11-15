@@ -17,7 +17,7 @@
                     Devfest Indore 2023 a success. Show some interest towards GDG
                     Community and join us right here! For more Info  <router-link to="/partners" style="text-decoration:none">visit here</router-link>.
                   </p>
-                  <v-btn
+                  <!-- <v-btn
                     rounded
                     depressed
                     href="https://bit.ly/devfest-partners23"
@@ -28,7 +28,7 @@
                     dark
                     style="border: 1px solid #4184f7;"
                     >Become a Community Partner</v-btn
-                  >
+                  > -->
                   <v-btn
                     rounded
                     depressed

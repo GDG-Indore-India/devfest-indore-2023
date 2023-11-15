@@ -3,7 +3,7 @@
     <template v-slot:activator="{ on }">
       <div
         v-on="on"
-        style="cursor: pointer;"
+        style="cursor: pointer;" v-bind:style="data.image === 'flutter-conf.png' ? 'background: #000' : ''"
         class="text-center py-5 ma-1 partner-card fill-height"
         :class="$vuetify.theme.dark == true ? 'darkModeCard' : 'whiteThemeCard'"
       >
@@ -33,7 +33,7 @@
                 {{ data.company.name }}
               </p> -->
               <!-- {{data.social}} -->
-              <socialMediaDetails class="pl-0 ml-0" :socaillinks="data.socialMedia" />
+              <PartnersSocialInfo class="pl-0 ml-0" :socaillinks="data.socialMedia" />
             </v-col>
             <v-col md="8" cols="12">
               <p class="google-font" style="font-size:110%">{{ data.desc }}</p>
@@ -42,9 +42,22 @@
                 <b>Sessions:</b>
               </p> -->
               <div v-if="data.links">
-              <p>GDSC Indore Website Links to Join their chapter:</p>
+              <p>GDSC Indore Chapters:</p>
               <ul>
-                <li><span><b>Indore Institute of Science & Technology:</b></span><span class="pl-2"><a :href="data.gdsc_iist" style="text-decoration:underline;font-weight:600;" target="_blank">Beome a Member</a></span></li>
+                <li><span><b>GDSC Medi-caps University</b></span></li>
+                <li><span><b>GDSC SDSF</b></span></li>
+                <li><span><b>GDSC IET-DAVV</b></span></li>
+                <li><span><b>GDSC IIPS</b></span></li>
+                <li><span><b>GDSC AITR</b></span></li>
+                <li><span><b>GDSC Kanpur Institute of Technology</b></span></li>
+                <li><span><b>GDSC RCPIT</b></span></li>
+                <li><span><b>GDSC IPSA</b></span></li>
+                <li><span><b>GDSC NMIMS Indore</b></span></li>
+                <li><span><b>GDSC Ujjain Engineering College</b></span></li>
+                <li><span><b>GDSC CDGI, Indore</b></span></li>
+                <li><span><b>GDSC SATI, Vidisha</b></span></li>
+                <li><span><b>GDSC LNCT, Bhopal</b></span></li>
+                <li><span><b>GDSC SGSITS, Indore</b></span></li>
               </ul>
               </div>
             </v-col>
@@ -64,10 +77,10 @@
 </template>
 
 <script>
-import socialMediaDetails from "@/components/common/EventSocialMedia";
+import PartnersSocialInfo from "@/components/common/PartnersSocialInfo";
 export default {
   components: {
-    socialMediaDetails
+    PartnersSocialInfo
   },
   inject: ["theme"],
   props: ["data", "partnerDetails"],
