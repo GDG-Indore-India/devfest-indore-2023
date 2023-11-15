@@ -73,10 +73,7 @@ export default {
 
 @media screen and (max-width: 960px) {
     .main {
-        display: grid;
         grid-template-columns: repeat(2, minmax(0, 1fr));
-        grid-gap: 1rem;
-        margin: 0 auto;
     }
     .card {
         margin: 1rem 0;
@@ -91,10 +88,7 @@ export default {
     }
 
     .main {
-        display: grid;
         grid-template-columns: repeat(1, minmax(0, 1fr));
-        grid-gap: 1rem;
-        margin: 0 auto;
     }
 }
 </style>
