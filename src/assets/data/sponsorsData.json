@@ -12,5 +12,159 @@
       },
       "links": false,
       "website":"https://www.jetbrains.com/"
-  }
+  },
+  {
+    "name":"Rebase by Recro ",
+     "desc":"An invite only community for developers especially from tier II and tier III cities of India to provide them with opportunities to upskilling, learn from mentors and get job opportunities to grow in career.",
+     "image":"recro.png",
+     "socialMedia":{
+       "instagram":"",
+       "linkedin":"https://www.linkedin.com/showcase/rebase-by-recro/",
+       "twitter":"",
+       "github":"",
+       "youtube": ""
+     },
+     "links": false,
+     "website":"https://recro.io/community/rebase-by-recro"
+ },
+ {
+  "name":"BSides Indore ",
+   "desc":"BSides Indore (a Non-Profit Group) is more than simply a security group; it's a community of like-minded individuals who are passionate about information security. Our mission is to foster an environment in which knowledge and ideas can be freely communicated, diversity is embraced, and collaboration is encouraged and valued.",
+   "image":"bsides-indore.png",
+   "socialMedia":{
+     "instagram":"",
+     "linkedin":"https://www.linkedin.com/company/bsidesindore/",
+     "twitter":"",
+     "github":"",
+     "youtube": ""
+   },
+   "links": false,
+   "website":"https://bsidesindore.in/"
+},
+{
+  "name":"Flutter Conf India",
+   "desc":"Flutter Conf India is India's Largest Content-Centric Flutter Conference. As the name suggests, our main motto is delivering the best content possible. Our conference focuses on intermediate to advanced level of talks about Flutter.",
+   "image":"flutter-conf.png",
+   "socialMedia":{
+     "instagram":"https://www.instagram.com/flutterconfin",
+     "linkedin":"https://www.linkedin.com/company/flutterconfin",
+     "twitter":"https://twitter.com/flutterconfin",
+     "github":"",
+     "youtube": ""
+   },
+   "links": false,
+   "website":"https://flutterconf.in"
+},
+{
+  "name":"KonfHub Community ",
+   "desc":"KonfHub's dev community is one of the biggest in India. ",
+   "image":"Konfhub.png",
+   "socialMedia":{
+     "instagram":"",
+     "linkedin":"",
+     "twitter":"",
+     "github":"",
+     "youtube": ""
+   },
+   "links": false,
+   "website":"konfhub.com/communities "
+},
+{
+  "name":"Clueless  ",
+   "desc":"Clueless is a student-driven development community built with the vision to make everyone fall in love with Open-source. We aim to create amazing open-source tools and repositories in every domain of software development. ",
+   "image":"ClueLess.png",
+   "socialMedia":{
+     "instagram":"https://www.instagram.com/by_clueless/",
+     "linkedin":"https://www.linkedin.com/company/clueless-tech",
+     "twitter":"https://twitter.com/by_clueless",
+     "github":"",
+     "youtube": ""
+   },
+   "links": false,
+   "website":"https://www.clueless.live/"
+},
+{
+  "name":"Headstart",
+   "desc":"Headstart is a volunteer led organization supporting startups and entrepreneurship across India. Since its inception in 2007, Headstart has played an important role in shaping India's startup ecosystem. We strive to enable the enablers of the startup ecosystem in helping the startups and entrepreneurs of India shine! Today Headstarters are fulfilling our founding vision of 'changing the world with entrepreneurship' contributing towards startup policy, venture capital, incubation, startup education and beyond. We have a bold vision for India, and as empowered citizens we do whatever little we can do, to further it.",
+   "image":"headstart.png",
+   "socialMedia":{
+     "instagram":"https://www.instagram.com/headstartindore/",
+     "linkedin":"https://www.linkedin.com/company/headstartindore/about/",
+     "twitter":"https://twitter.com/IndoreHeadstart",
+     "github":"",
+     "youtube": ""
+   },
+   "links": false,
+   "website":"https://www.headstart.in"
+},
+{
+  "name":"Apache Local Community ",
+   "desc":"Local chapter based in indore for Apache enthusiasts. We conduct awareness sessions and community engagement activities targetted towards open source and Apache software foundation.",
+   "image":"ALC.png",
+   "socialMedia":{
+     "instagram":"",
+     "linkedin":"https://www.linkedin.com/company/alcindorechapter/",
+     "twitter":"",
+     "github":"",
+     "youtube": ""
+   },
+   "links": false,
+   "website":"https://cwiki.apache.org/confluence/plugins/servlet/mobile?contentId=123899315#content/view/123899296"
+},
+{
+  "name":"I AM STARTUP COMMUNITY ",
+   "desc":"We are startup community central indias biggest community helping young startups in their business growth.",
+   "image":"startupcommunity.jpg",
+   "socialMedia":{
+     "instagram":"https://www.instagram.com/Iamstartup_india/",
+     "linkedin":"",
+     "twitter":"",
+     "github":"",
+     "youtube": ""
+   },
+   "links": false, 
+   "website":"www.iamstartup.in"
+},
+{
+  "name":"OS Community ",
+   "desc":"We aim to create a platform where students can share notes and study materials with each other. We have a wealth of resources available, including job opportunities and internships. Our community is supported by mentors and product based companies staff members who can help our students with thier work, provide referrals based on their performance, hold events, and much more.",
+   "image":"os-community.png",
+   "socialMedia":{
+     "instagram":"",
+     "linkedin":"https://www.linkedin.com/company/os-community/",
+     "twitter":"",
+     "github":"",
+     "youtube": ""
+   },
+   "links": false,
+   "website":""
+},
+{
+  "name":"ng-India",
+   "desc":"India's Largest Angular Community ",
+   "image":"ng-India.jpeg",
+   "socialMedia":{
+     "instagram":"",
+     "linkedin":"https://www.linkedin.com/company/geek97/?viewAsMember=true",
+     "twitter":"https://twitter.com/geeknineseven",
+     "github":"",
+     "youtube": ""
+   },
+   "links": false,
+   "website":"https://www.ng-ind.com/"
+},
+{
+  "name":"Startup India",
+   "desc":"The one of India's best communities of investors, founders and startup ecosystem enablers. Get free access to a large network of incredible folks. Let's build a better India, together.",
+   "image":"startup-india.png",
+   "socialMedia":{
+     "instagram":"https://www.instagram.com/ellenoxindia/",
+     "linkedin":"https://www.linkedin.com/company/indian-startup/",
+     "twitter":"",
+     "github":"",
+     "youtube": ""
+   },
+   "links": false,
+   "website":""
+}
 ]

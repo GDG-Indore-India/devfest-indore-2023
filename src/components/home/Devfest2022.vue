@@ -1,7 +1,7 @@
 <template>
   <v-container fluid class="mx-md-1 mx-0 expect-card">
-    <v-row>
-      <v-col md="3" cols="12" class="text-center">
+    <v-row justify="center">
+      <v-col md="5" cols="12" class="text-center">
         <div class="pa-md-10 pa-5 list-details-card">
           <p class="google-font" style="font-size: 25px;font-weight: 600;">Call for <span class="text-primary">Speakers</span></p>
           <div>
@@ -14,7 +14,7 @@
         </div>
       </v-col>
       <!-- call for sponsors -->
-      <v-col md="3" cols="12" class="text-center">
+      <v-col md="5" cols="12" class="text-center">
         <div class="pa-md-10 pa-5 list-details-card">
           <p class="google-font" style="font-size: 25px;font-weight: 600;">Call for <span class="text-primary">Sponsors</span></p>
           <div>
@@ -28,7 +28,7 @@
         </div>
       </v-col>
       <!-- call for volunteers -->
-      <v-col md="3" cols="12" class="text-center">
+      <!-- <v-col md="3" cols="12" class="text-center">
         <div class="pa-md-10 pa-5 list-details-card">
           <p class="google-font" style="font-size: 25px;font-weight: 600;">Call for <span class="text-primary">Volunteers</span></p>
           <div>
@@ -40,9 +40,9 @@
           </p>
           <v-btn color="primary" depressed href="https://bit.ly/devfest-volunteers23" target="_blank" rounded disabled>Submit Now</v-btn>
         </div>
-      </v-col>
+      </v-col> -->
        <!-- call for community partners -->
-       <v-col md="3" cols="12" class="text-center">
+       <!-- <v-col md="3" cols="12" class="text-center">
         <div class="pa-md-10 pa-5 list-details-card">
         <p class="google-font" style="font-size: 25px;font-weight: 600;">Call for <span class="text-primary">Partners</span></p>
           <div>
@@ -52,9 +52,9 @@
             As a Community Partner: Boost your community's influence,Collaborate on event promotion,Reach a diverse tech-savvy audience,Connect and share ideas,Shape the future of tech in Indore.
             <br/>
           </p>
-          <v-btn color="primary" depressed href="https://bit.ly/devfest-partners23" target="_blank" rounded>Submit Now</v-btn>
+          <v-btn color="primary" depressed href="https://bit.ly/devfest-partners23" target="_blank" rounded disabled>Submit Now</v-btn>
         </div>
-      </v-col>
+      </v-col> -->
       <!-- CALL FOR EXHIBITORS -->
        <!-- <v-col md="12" cols="12" class="text-center">
         <div style="background: white; border-radius: 15px" class="pa-md-10 pa-5 grey lighten-4 ">

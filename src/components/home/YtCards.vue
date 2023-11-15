@@ -1,6 +1,6 @@
 <template>
     <v-col class="section">
-        <h2>Explore Previous Devfest Livestreams</h2>
+        <h2 class="google-font">Explore Previous Devfest Livestreams</h2>
         <v-row class="main">
         <YtCard
         class="card"

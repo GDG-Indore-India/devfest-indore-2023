@@ -4,15 +4,15 @@
     <v-card-content >
       <v-row>
         <v-col class="custom-content">
-          <div class="custom-title">{{ videoTitle }}</div>
-          <div class="custom-description">{{ videoDescription }}</div>
+          <div class="custom-title google-font">{{ videoTitle }}</div>
+          <div class="custom-description google-font">{{ videoDescription }}</div>
         </v-col>
       </v-row>
       <v-row>
         <a :href="videoUrl" target="_blank" class="custom-watch-now">
           <div class="btn">
             <img src="../../../public/play-button.png" alt="play button" class="iconimg"/>
-            <span class="watch">Watch Now</span>
+            <span class="watch google-font">Watch Now</span>
           </div>
         </a>
       </v-row>
