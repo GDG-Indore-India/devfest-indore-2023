@@ -1,9 +1,8 @@
 <template>
-  <v-container fluid>
+  <v-container fluid class="margin">
     <v-row align="center" justify="center">
       <v-col cols="12" md="10">
         <p class="gdg-heading mb-0">Speakers</p>
-        <p class="google-font">Our speakers are influential women & allies who have been associated with communities within their organisations, cities, country and beyond.</p>
 
         <v-container fluid class="px-1">
           <v-row justify="center" class="fill-height">
@@ -58,5 +57,9 @@ export default {
   }
   .shadows:hover {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  }
+  .margin {
+    margin-top: 20vh;
+    margin-bottom: 2rem;
   }
 </style>
