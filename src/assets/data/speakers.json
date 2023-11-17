@@ -1,179 +1,162 @@
 [
   {
     "id": "101",
-    "name": "Bhavik Makwana",
+    "name": "Romin Irani",
     "company": {
-      "designation": "Sodtware Engineer",
-      "name": "Multipl.xyz | GDE for Flutter, Dart"
+      "designation": "Developer Advocate",
+      "name": "Google Cloud"
     },
-    "image": "bhavik-makwana.jpg",
-    "bio": "Bhavik is working at multipl.xyz as a software engineer, a GDE for Flutter and Dart, Google certified associate android developer and an Open-source contributor. He is one of the early Flutter adopters and loves to share knowledge through blog posts, public speaking, and open source contributions.",
+    "image": "romin-irani.png",
+    "bio": "Romin works as a Developer Advocate at Google. He has over 25+ years of experience in the software industry and lives in Mumbai, India.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/ibhavikmakwana/",
-      "twitter": "https://twitter.com/ibhavikmakwana/"
+      "linkedin": "https://www.linkedin.com/in/iromin/",
+      "twitter": "https://twitter.com/iRomin"
     },
     "sessionId": [1001],
-    "domain": "Mobile"
+    "track": "Cloud"
   },
   {
     "id": "102",
-    "name": "Dhananjay Kumar",
+    "name": "Anurag Agrawal",
     "company": {
-      "designation": "Founder",
-      "name": "geek97 | Creator of ng-India"
+      "designation": "Principal architect",
+      "name": "Wizehive India Pvt. Ltd."
     },
-    "image": "dhananjay-kumar.png",
-    "bio": "Dhananjay Kumar is the founder of geek97 and creator of India's Largest Angular Conference, ng-India. He is a published author, 12 times winner of Microsoft Most Valuable Professional, and a Google Developer Expert in Angular.",
+    "image": "anurag-agrawal.jpeg",
+    "bio": "An entrepreneur and a technology leader, with a proven track record of new technology introduction and digital transformation projects. Passionate about exploring new domains, new challenges and building teams and software to solve real world problems.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/dhananjaykumar07/",
-      "twitter": "https://twitter.com/debug_mode/"
+      "linkedin": "https://www.linkedin.com/in/anuragagrwal/",
+      "twitter": ""
     },
     "sessionId": [1002],
-    "domain": "AI / ML"
+    "track": "Cloud"
   },
   {
     "id": "103",
-    "name": "Pawan Kumar",
+    "name": "Devashish Nyati",
     "company": {
-      "designation": "Head of Engineering, Developer Advocate, GDE",
-      "name": "Frontier, Polygon"
+      "designation": "CTO",
+      "name": "Swastika Investmart Ltd"
     },
-    "image": "pawan-kumar.jpg",
-    "bio": "Currently working at Frontier as Head of Engineering and Developer Advocate at Polygon. Google Developer Expert for Flutter & Firebase. An active open-source contributor with over 7 years of experience working with startups as a founder, employee, consultant, and advisor. I also run a tech YouTube channel known as Codepur. Also a regular speaker and contributed to many events and workshops.",
+    "image": "devashish-nyati.jpg",
+    "bio": "Hello, I’m Devashish Nyati, a passionate software engineer and tech entrepreneur with a thirst for innovation and a love for technology. My journey has been marked by remarkable experiences, and I am excited to share a glimpse of it with you.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/imthepk/",
-      "twitter": "https://twitter.com/imthepk/"
+      "linkedin": "https://www.linkedin.com/in/devashishnyati",
+      "twitter": ""
     },
     "sessionId": [1003],
-    "domain": "Mobile"
+    "track": "WEB"
   },
   {
     "id": "104",
-    "name": "Sayak Paul",
+    "name": "Himanshu Ramchandani",
     "company": {
-      "designation": "Developer Advocate Engineer, GDE",
-      "name": "Hugging Face"
+      "designation": "AI-Advisor & Data Strategy Consultant",
+      "name": "HemansAI"
     },
-    "image": "sayak-paul.jpg",
-    "bio": "Sayak Paul is a Developer Advocate at Hugging Face focusing on democratizing understandable ML tooling. Previously at Carted, an e-commerce startup, he designed the ML infrastructure from data acquisition to model deployment. Off the work, he likes to be a Netflix Nerd.",
+    "image": "himanshu-ramchandani.jpg",
+    "bio": "Helping businesses Build AI products • Helping Industry Leaders 10x their AI expertise • Documenting the process.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/sayak-paul/",
-      "twitter": "https://twitter.com/RisingSayak/"
+      "linkedin": "https://www.linkedin.com/in/hemansnation/",
+      "twitter": "https://twitter.com/hemansnation"
     },
     "sessionId": [1004],
-    "domain": "AI / ML"
+    "track": "ML"
   },
   {
     "id": "105",
-    "name": "Sneh Pandya",
+    "name": "Nirav Kothari",
     "company": {
-      "designation": "Senior Product Manager at Blingg Labs",
-      "name": "Blingg Labs"
+      "designation": "Senior Technical Architect",
+      "name": "Quantiphi Analytics"
     },
-    "image": "sneh-pandya.png",
-    "bio": "Senior Product Manager, Book Author, Community Leader, Mentor and Podcaster.Sneh is also a Developer Community Leader at Google Developers Group Baroda and a co-founder of the NinjaTalks podcast, which brings together experiences from the world's leaders, changemakers, and innovators to make knowledge accessible to all.",
+    "image": "nirav-kothari.jpg",
+    "bio": "Working as Solution Architect having 19+ years of experience in the areas of Data Engineering, data science, IoT, RPA, Integration tools etc.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/snehpandya18/",
-      "twitter": "https://twitter.com/snehpandya18/"
+      "linkedin": "https://www.linkedin.com/in/iniravkothari",
+      "twitter": "https://twitter.com/iNiravKothari"
     },
     "sessionId": [1005],
-    "domain": "Entrepreneurship, Leadership & Product Management"
+    "track": "Cloud"
   },
   {
     "id": "106",
-    "name": "Vivek Yadav",
+    "name": "Sharmistha Chatterjee",
     "company": {
-      "designation": "Mobile Team Lead",
-      "name": "ZestMoney"
+      "designation": "Head of Advanced Analytics Chapter Area",
+      "name": "Commonwealth Bank of Australia"
     },
-    "image": "vivek-yadav.png",
-    "bio": "Hi, I am Vivek Yadav. I am Google Developer Expert for Flutter and Dart. I am Mobile Team Lead at ZestMoney. I have more than 5 years of experience with mobile development and related tech. I am a community organizer of Flutter India, Flutter Mumbai, and the PROCoach community.",
+    "image": "sharmistha-chatterjee.jpg",
+    "bio": "Sharmistha Chatterjee is an evangelist and seasoned professional in ML and cloud applications. She is working as the Head of Advanced Analytics Systems and Platforms Chapter Area in Chief Data and Analytics Office at the Commonwealth Bank of Australia, where she has been instrumental in setting up the practise from scratch. She currently leads the practise, building scalable ML and decisioning platforms.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vivek-yadav-665823129/",
-      "twitter": "https://twitter.com/viveky259259/"
+      "linkedin": "https://www.linkedin.com/in/sharmistha-chatterjee-7a186310/",
+      "twitter": "https://twitter.com/sharmichat82"
     },
     "sessionId": [1006],
-    "domain": "Mobile"
+    "track": "Cloud"
   },
   {
     "id": "107",
-    "name": "Ayush Shekhar",
+    "name": "Karan Mittal",
     "company": {
-      "designation": "Engineering Manager - Mobile",
-      "name": "FrontRow"
+      "designation": "Sr. Data Scientist",
+      "name": "FREELANCER"
     },
-    "image": "ayush-shekhar.png",
-    "bio": "Ayush is an early adopter of Flutter, a mobile team lead, a community contributor, and a writer. He can go on and on about startups, products, and the amazing impact that stories and good storytellers have on people.",
+    "image": "karan-mittal.jpg",
+    "bio": "I am passionate about building solutions with Data Science and Technology. With the amount of data available, more and more solutions are needed to handle and churn effective value from it. Data Science makes those smart solutions possible, which we were only able to imagine a couple of years ago.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/ayushshekhar/",
-      "twitter": "https://twitter.com/ayushshekhar17/"
+      "linkedin": "https://www.linkedin.com/in/karansmittal/",
+      "twitter": "https://twitter.com/KaranSMittal"
     },
     "sessionId": [1007],
-    "domain": "Mobile"
+    "track": "ML"
   },
   {
     "id": "108",
-    "name": "Bhavna Thacker",
+    "name": "Sunil Kumar",
     "company": {
-      "designation": "GDE | Sr.Android Engineer",
-      "name": "FroMEGA - the privacy company"
+      "designation": "Customer Engineer - AI/ML Specialist",
+      "name": "Google Cloud"
     },
-    "image": "bhavna-thacker.png",
-    "bio": "Bhavna is a Google Developer Expert for Android and Senior Software Engineer at MEGA.She is also a WTM member and Final Pass Editor @raywenderlich. She likes to share her learnings via YouTube channel - LearnAndroid. When she is not at work, you can find her in the kitchen listening to music and experimenting new dishes.",
+    "image": "sunil-kumar-jang-bahadur.jpg",
+    "bio": "I love to teach machines and make them more humanized. I design and develop technical solutions using Generative AI, LLMs, Deep Learning and Robotics for various industrial sectors, primarily focusing on Natural Language Understanding, Computer vision & Conversational AI.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/bhavna-thacker-64956985/",
-      "twitter": "https://twitter.com/bhavnathacker14/"
+      "linkedin": "https://www.linkedin.com/in/sunilkumar88",
+      "twitter": ""
     },
     "sessionId": [1008],
-    "domain": "Mobile"
+    "track": "ML"
   },
   {
     "id": "109",
-    "name": "Ayushi Gupta",
+    "name": "Murari Ramuka",
     "company": {
-      "designation": "Senior Android Engineer",
-      "name": "Zalando"
+      "designation": "Gen AI Expert",
+      "name": "Google"
     },
-    "image": "ayushi-gupta.jpg",
-    "bio": "I am currently working as Senior Android Engineer with Zalando in Berlin (Germany).You can find me coding a whole new world to solve any snag in this ever-changing fast-paced life. I am Women Tech Ambassador for Android and Firebase and spoke in various conferences like Droidcon Italy, Singapore and India.Excited to learn and meet enthusiastic folks out there.",
+    "image": "murari-ramuka.jpg",
+    "bio": "Murari has extensively worked on Traditional and Modern data platforms having deep experience in Data Management, Data Architecture, Data Engineering, Data Science, Data Governance etc. In his past experiences at Microsoft, KPMG and HSBC, he led cloud data strategy/ implementation for multiple enterprise customers.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/ayushi-gupta-a37368125/",
-      "twitter": "https://twitter.com/DroidyAyu/"
-    },
-    "sessionId": [1012],
-    "domain": "Mobile"
-  },
-  {
-    "id": "110",
-    "name": "Kushagra Nagar",
-    "company": {
-      "designation": "Senior Game Developer",
-      "name": "NO BORDERS Corporation"
-    },
-    "image": "kushagra-nagar.jpeg",
-    "bio": "Ever since I first used a computer, I fell in love with it and how a thing made of metal and silicon can perform such complex tasks. From there my journey started as I wrote my first script at the age of 10, moving on to making mods and hacks for games, challenging myself to only use Linux for a year, making custom ROMs for Android devices, using Arduino to make robots and IoT devices, making my own cryptography software using Java and MySQL, coding my first game in Unity, making chatbot for Whatsapp using Python and creating my own micro-businesses. I am a person who likes challenges and loves to tackle the problems and find solutions.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/kushagranagar25/",
+      "linkedin": "https://www.linkedin.com/in/murari-ramuka-98a440a/",
       "twitter": ""
     },
     "sessionId": [1009],
-    "domain": "Mobile"
+    "track": "ML"
   },
   {
-    "id": "111",
-    "name": "Mradul Kanugo",
+    "id": "110",
+    "name": "Adeen Shukla",
     "company": {
-      "designation": "AI-ML Lead",
-      "name": "Softude"
+      "designation": "CTO",
+      "name": "Metafic"
     },
-    "image": "mradul-kanugo.jpg",
-    "bio": "Mradul has 6+ years of expeirence in the Software Industry. He is currently leading the AI-ML team at Softude (By Systematix Infotech) India",
+    "image": "adeen-shukla.jpeg",
+    "bio": "With a background in web and mobile app development, Adeen started in tech communities, quickly becoming known for his expertise and active involvement.",
     "social": {
-      "linkedin": "",
-      "instagram": "https://www.instagram.com/mradulkanugo/",
+      "linkedin": "https://www.linkedin.com/in/adeen-s/",
       "twitter": ""
     },
-    "sessionId": [1013],
-    "domain": "AI / ML"
+    "sessionId": [1010],
+    "track": "WEB"
   }
 ]
