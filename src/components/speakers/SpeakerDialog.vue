@@ -38,6 +38,12 @@
           <p class="mt-1 mb-0 google-font mt-0" style="font-size: 80%">
             {{ speakerData.company.name }}
           </p>
+          <v-chip
+      class="ma-2"
+      color="primary"
+    >
+      {{ speakerData.track }}
+    </v-chip>
         </div>
         <!-- Socail Card -->
         <div class="height">
