@@ -182,4 +182,38 @@
   .flipped .figure {
     transform: rotateX(180deg);
   }
+
+  @media (max-width: 600px) {
+    .figure {
+      width: 40px;
+      height: 40px;
+      font-size: 1em;
+      line-height: 40px;
+    }
+
+    .count-title {
+      font-size: 1em;
+    }
+
+    .bloc-time {
+      margin: 0 10px;
+    }
+  }
+
+  @media (max-width: 450px) {
+    .figure {
+      width: 30px;
+      height: 30px;
+      font-size: 0.8em;
+      line-height: 30px;
+    }
+
+    .count-title {
+      font-size: 0.8em;
+    }
+
+    .bloc-time {
+      margin: 0 5px;
+    }
+  }
   </style>
