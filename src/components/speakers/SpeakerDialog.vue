@@ -11,9 +11,9 @@
           cursor: pointer;
           background: white;
           border-radius: 16px;
-          
+          width: fit-content;
         "
-        class="text-center py-4 ma-0 fill-height"
+        class="text-center py-12 px-10 ma-0 fill-height"
       >
         <!-- <v-badge icon="mdi-account-group-outline" overlap bordered offset-y="25" offset-x="28" v-if="speakerData.type.includes('Networking')">
           <v-avatar size="130">
@@ -24,21 +24,23 @@
             ></v-img>
           </v-avatar>
         </v-badge> -->
-        <v-avatar size="110">
-            <v-img
-              :src="getImgUrl(speakerData.image)"
-              :lazy-src="getImgUrl(speakerData.image)"
-              :alt="speakerData.name"
-            ></v-img>
-          </v-avatar>
-        <p class="mt-3 mb-0 google-font mb-0" style="font-size: 110%">
-          {{ speakerData.name }}
-        </p>
-        <p class="mt-1 mb-0 google-font mt-0" style="font-size: 80%">
-          {{ speakerData.company.name }}
-        </p>
+        <div class="heightabove">
+          <v-avatar size="110">
+              <v-img
+                :src="getImgUrl(speakerData.image)"
+                :lazy-src="getImgUrl(speakerData.image)"
+                :alt="speakerData.name"
+              ></v-img>
+            </v-avatar>
+          <p class="mt-3 mb-0 google-font mb-0" style="font-size: 110%">
+            {{ speakerData.name }}
+          </p>
+          <p class="mt-1 mb-0 google-font mt-0" style="font-size: 80%">
+            {{ speakerData.company.name }}
+          </p>
+        </div>
         <!-- Socail Card -->
-        <div>
+        <div class="height">
           <v-btn
             fab
             icon
@@ -143,14 +145,14 @@
                 :socialInfo="speakerData.social"
               />
 
-              <p
+              <!-- <p
                 class="my-0 google-font mt-10"
                 v-if="speakerData.sessionId.length > 0"
                 style="font-size: 120%"
               >
                 <span v-if="speakerData.sessionId.length == 1">Session</span>
                 <span v-else>Sessions</span>
-              </p>
+              </p> -->
 
               <SpeakerSessionsCard
                 :small="true"
@@ -164,9 +166,9 @@
 
       <!-- <v-divider></v-divider> -->
 
-      <v-card-actions class="white">
+      <v-card-actions class="white mb-4 mr-4">
         <v-spacer></v-spacer>
-        <v-btn aria-label="close" class="px-10" text @click="dialog = false"
+        <v-btn aria-label="close" class="px-10 py-4 rounded-xl font-weight-bold" style="background-color: #4CAF50 ; color: white;" text @click="dialog = false"
           >Close</v-btn
         >
       </v-card-actions>
@@ -190,3 +192,19 @@ export default {
   methods: {},
 };
 </script>
+
+<style>
+  .height {
+    height: 20% !important;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .heightabove {
+    height: 80% !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+</style>
