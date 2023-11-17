@@ -158,5 +158,53 @@
     },
     "sessionId": [1010],
     "track": "WEB"
+  },
+  {
+    "id": "111",
+    "name": "Arjun Vijayvargiya",
+    "company": {
+      "designation": "Senior Software Engineer",
+      "name": "Google"
+    },
+    "image": "arjun-vijayvargiya.jpg",
+    "bio": "Software engineer @ Google. Passionate for Coding, programming, travelling, exploring different places, culture and food",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/arjun-vijayvargiya-05327192/",
+      "twitter": ""
+    },
+    "sessionId": [1011],
+    "track": "Cloud"
+  },
+  {
+    "id": "112",
+    "name": "Kamal Deo Prasad",
+    "company": {
+      "designation": "CPO",
+      "name": "Recro"
+    },
+    "image": "kamal-deo-prasad.jpeg",
+    "bio": "I have always been passionate about the products which add value to human lives. I started my career as an engineer and lead it towards entrepreneurship.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/kamal-prasad/",
+      "twitter": ""
+    },
+    "sessionId": [1012],
+    "track": "WEB"
+  },
+  {
+    "id": "113",
+    "name": "Pawan Kumar",
+    "company": {
+      "designation": "GDE Flutter, Firebase, Dart & WebTech",
+      "name": "Codepur"
+    },
+    "image": "pawan-kumar.jpg",
+    "bio": "Empowering People | Codepur | App Developer | 130K+ Youtube ▶️ | 60K+ Linkedin | 39K+ Twitter | 10K+ Github 👨🏻‍💻 | Google Developer Expert Flutter & Firebase 🚀",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/imthepk/",
+      "twitter": "https://twitter.com/imthepk"
+    },
+    "sessionId": [1013],
+    "track": "WEB"
   }
 ]
