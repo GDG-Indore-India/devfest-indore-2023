@@ -97,16 +97,16 @@
   },
   {
     "id": "107",
-    "name": "Karan Mittal",
+    "name": "Kartik Derasari",
     "company": {
-      "designation": "Sr. Data Scientist",
-      "name": "FREELANCER"
+      "designation": "Lead Solutions Engineer & Google Developer Expert for Google Cloud",
+      "name": "Persistent"
     },
-    "image": "karan-mittal.jpg",
-    "bio": "I am passionate about building solutions with Data Science and Technology. With the amount of data available, more and more solutions are needed to handle and churn effective value from it. Data Science makes those smart solutions possible, which we were only able to imagine a couple of years ago.",
+    "image": "kartik-derasari.png",
+    "bio": "Kartik is a Technical Consultant by profession & an advocate for technology by passion. He has been recognized as a Google Developer Expert for Google Cloud. Being a 6X Google Cloud Certified Professional, he contributes to App-Dev & Analytics projects as a Full-Stack Engineer. He runs the Google Developers Group for Cloud professionals and he's been also recognized as a Google Cloud Champion Innovator for Serverless App Development. He has delivered over 50 technical sessions and has hosted more than 65 developer-focused events & conferences. He has also been a Google DSC Lead and an ML Facilitator of Google AI's Explore ML Program.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/karansmittal/",
-      "twitter": "https://twitter.com/KaranSMittal"
+      "linkedin": "https://www.linkedin.com/in/kartikderasari",
+      "twitter": "https://twitthttps://twitter.com/kartik_derasari"
     },
     "sessionId": [1007],
     "track": "ML"
@@ -205,6 +205,22 @@
       "twitter": "https://twitter.com/imthepk"
     },
     "sessionId": [1013],
+    "track": "ML"
+  },
+  {
+    "id": "115",
+    "name": "Saurabh Rajpal",
+    "company": {
+      "designation": "APAC Tech Lead, Web Ecosystem Consultant",
+      "name": "Google"
+    },
+    "image": "saurabh-rajpal.jpg",
+    "bio": "Working as a Sr. Web Ecosystem Consultant @ Google with a mission to make web better for the ecosystem. Loves to talk about web performance, PWA, project FUGU (aka web capabilities) and anything that matters to Chrome users!",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/imsaurabhrajpal/",
+      "twitter": "https://twitter.com/imsaurabhrajpal"
+    },
+    "sessionId": [1015],
     "track": "WEB"
   }
 ]
