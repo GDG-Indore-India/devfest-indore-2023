@@ -403,5 +403,20 @@
 			"website": "https://www.mustafaazad.tech/",
 			"github": "https://github.com/mustafaazad03"
 		}
-	}
+	},
+  {
+    "name": "Akshat Patel",
+    "community": {
+      "name": "GDG Indore",
+      "designation": "Core Team Member GDG Indore || GDSC Lead'21"
+    },
+    "image": "akshat.png",
+    "bio": "I am Akshat Patel, Former GDSC Lead and Core Member of GDG Indore. I love to connect with new people and explore new things. I also love to travel to different places. As a developer, I am making some creative things and I love to share my knowledge with the community.",
+    "social": {
+      "twitter": "https://twitter.com/akshat5129",
+      "linkedin": "https://www.linkedin.com/in/akshat5129",
+      "website": "https://akshatpatel.me/",
+      "github": "https://github.com/Akshat5129"
+    }
+  }
   ]

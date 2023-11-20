@@ -16,22 +16,6 @@
     "track": "Cloud"
   },
   {
-    "id": "102",
-    "name": "Anurag Agrawal",
-    "company": {
-      "designation": "Principal architect",
-      "name": "Wizehive India Pvt. Ltd."
-    },
-    "image": "anurag-agrawal.jpeg",
-    "bio": "An entrepreneur and a technology leader, with a proven track record of new technology introduction and digital transformation projects. Passionate about exploring new domains, new challenges and building teams and software to solve real world problems.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/anuragagrwal/",
-      "twitter": ""
-    },
-    "sessionId": [1002],
-    "track": "Cloud"
-  },
-  {
     "id": "103",
     "name": "Devashish Nyati",
     "company": {

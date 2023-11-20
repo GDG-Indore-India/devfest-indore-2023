@@ -7,13 +7,13 @@
         <v-container fluid class="px-1">
           <v-row justify="center" class="fill-height">
             <v-col
-              md="3"
-              lg="2"
+              md="4"
+              lg="3"
               xl="2"
-              sm="4"
+              sm="2"
               cols="6"
               style="max-width: none !important;"
-              class="shadows mx-4 my-6 "
+              class="shadows"
               v-for="(item, index) in SpeakersData"
               :key="index"
             >

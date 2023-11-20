@@ -41,11 +41,11 @@ const routes = [
     name: 'Speakers',
     component: () => import(/* webpackChunkName: "speakers" */ '../views/Speakers.vue')
   },
-  // {
-  //   path: '/speakers/:id',
-  //   name: 'SpeakerPage',
-  //   component: () => import(/* webpackChunkName: "speaker-page" */ '../views/SpeakerPage.vue')
-  // },
+  {
+    path: '/speakers/:id',
+    name: 'SpeakerPage',
+    component: () => import(/* webpackChunkName: "speaker-page" */ '../views/SpeakerPage.vue')
+  },
   {
     path: "/team",
     name: "Team",

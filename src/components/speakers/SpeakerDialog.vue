@@ -11,9 +11,8 @@
           cursor: pointer;
           background: white;
           border-radius: 16px;
-          width: fit-content;
         "
-        class="text-center py-12 px-10 ma-0 fill-height"
+        class="text-center ma-0 fill-height"
       >
         <!-- <v-badge icon="mdi-account-group-outline" overlap bordered offset-y="25" offset-x="28" v-if="speakerData.type.includes('Networking')">
           <v-avatar size="130">
@@ -203,7 +202,7 @@ export default {
   .height {
     height: 20% !important;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
   }
   .heightabove {

@@ -39,9 +39,11 @@
           <Ticketing/>
           <v-divider></v-divider>
           <WhatToExpect />
+          <v-divider></v-divider>
+          <CommunityLounge/>
           <!-- <Ticketing class="my-10 py-10"/> -->
           <v-divider></v-divider>
-          <Devfest2022/>
+          <!-- <Devfest2022/> -->
           <!-- <AboutDevfest class="my-10"/>  -->
           <v-divider></v-divider>
           <Partners />
@@ -62,12 +64,12 @@
 import Hero from '../components/home/Hero.vue'
 import SocialInfo from '../components/home/SocialInfo.vue';
 import titleMixin from '@/mixins/titleMixin';
-import Devfest2022 from '../components/home/Devfest2022.vue';
 import WhatToExpect from '../components/home/WhatToExpect.vue';
 import Partners from '../components/common/Partners.vue';
 import Ticketing from '../components/home/Ticketing.vue';
 import Timer from '../components/home/Timer.vue';
 import YtCards from '../components/home/YtCards.vue';
+import CommunityLounge from '../components/home/CommunityLounge.vue';
 
 
 export default {
@@ -76,12 +78,12 @@ export default {
   components: {
     Hero,
     SocialInfo,
-    Devfest2022,
     WhatToExpect,
     Partners,
     Ticketing,
     Timer,
-    YtCards
+    YtCards,
+    CommunityLounge
 },
   data(){
     return {

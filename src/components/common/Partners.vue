@@ -1,8 +1,8 @@
 <template>
-    <v-main class="partners-card-wrap">
+    <v-main class="border-details-block">
       <v-container fluid>
         <v-row justify="center" class="align-center">
-          <v-col md="10" lg="12" sm="10" cols="12">
+          <v-col md="10" lg="12" sm="10" cols="12" style="background-color: #f9f9f9;">
             <v-container class="mb-0 pb-0">
               <v-row>
                 <v-col md="7" cols="12">
@@ -63,7 +63,7 @@
       </v-container>
       <v-container fluid>
         <v-row class="align-center">
-          <v-col md="10" lg="12" sm="10" cols="12">
+          <v-col md="10" lg="12" sm="10" cols="12" style="background-color: #f9f9f9;">
             <v-container class="mb-0 pb-10 pt-0">
               <v-row class="justify-mb-center">
                 <v-col

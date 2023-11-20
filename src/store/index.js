@@ -27,16 +27,16 @@ export default new Vuex.Store({
       //     showDrawer: true
       //   },
       // },
-      // {
-      //   text: "Speakers",
-      //   to: "/speakers",
-      //   icon: "mdi-account-switch",
-      //   meta: {
-      //     showToolbar: true,
-      //     showBottomNav: true,
-      //     showDrawer: true
-      //   },
-      // },
+      {
+        text: "Speakers",
+        to: "/speakers",
+        icon: "mdi-account-switch",
+        meta: {
+          showToolbar: true,
+          showBottomNav: true,
+          showDrawer: true
+        },
+      },
       {
         text: "Team",
         to: "/team",
