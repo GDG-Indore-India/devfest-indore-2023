@@ -2,7 +2,7 @@
     <v-container fluid class="theme-color border-details-block" style="margin-top: 4rem;background-color: #fff !important;">
       <v-row>
         <v-col md="12" cols="12" class="text-center">
-          <p class="gdg-heading mb-0 google-font" style="font-weight: 600;">Introducting Our <span class="green-text">Community</span> & <span class="yellow-text">Expert</span> Lounge</p>
+          <p class="gdg-heading mb-0 google-font" style="font-weight: 600;">Introducing Our <span class="green-text">Community</span> & <span class="yellow-text">Expert</span> Lounge</p>
           <!-- <div class="mt-2 text-center">
               <v-btn rounded depressed large color="#ea4335" id="eventbrite-widget-modal-trigger-451603737937" dark style="border: 1px solid #ea4335;">Book Now!</v-btn>
           </div> -->
