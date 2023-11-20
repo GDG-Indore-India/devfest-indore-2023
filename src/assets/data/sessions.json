@@ -2,13 +2,13 @@
   {
     "id": "1001",
     "slide": "",
-    "title": "Flutter: Computer Vision with ML Kit",
-    "description": "Are you want to implement face detection, text recognition, image labeling, and more in your Flutter application? This is now possible with the ML Kit Vision plugin, powered by Firebase! In this talk, I will show you how to get started with adding face detection to your Flutter app with just a few lines of code.",
-    "track": "Mobile",
+    "title": "Duet AI : Your assistant in Google Cloud",
+    "description": "Duet AI is set to change the way you work with Google Cloud. It is an available assistant to a variety of roles : Developer, Operator, Data Analyst and more in Google Cloud. It is a new work to work with Google Cloud and is meant to address multiple tasks ranging from learning, onboarding, best practices, application development, analyzing errors and more.",
+    "track": "Cloud",
     "link": "",
     "time":"",
-    "format": "Day 2",
-    "date": "December 4, 2022",
+    "format": "Day 1",
+    "date": "November 21, 2023",
     "timeDuration": "40",
     "speakers": [
       101
@@ -17,13 +17,13 @@
   {
     "id": "1002",
     "slide": "",
-    "title": "You do not know about JavaScript Objects",
-    "description": "Perhaps you do not know enough about JavaScript objects or I do not know enough about JavaScript objects. Let us settle this debate in this talk. To start with, we will first settle debate on whether JavaScript is an Object Oriented Language or prototype based language. Since, we do not have class (yes in ECMA 6, there is a keyword class syntax introduced but that is not a real class anyway) then how objects are created? Answer of all above questions lie in understanding of following concepts, • Different ways of JavaScript object creation • prototypes and prototype chain • this keyword• __proto__",
-    "track": "Web",
+    "title": "Designing modern web applications for cloud.",
+    "description": "This session gives an overview of current cloud based technologies with the perspective of how you can use them in particular scenarios. The considerations to make when structuring your application. Takes the listeners through a case study and touch on various aspects of decision making when architecting a cloud based web application.",
+    "track": "Cloud",
     "link": "",
     "time":"",
-    "format": "Day 2",
-    "date": "December 4, 2022",
+    "format": "Day 1",
+    "date": "November 21, 2023",
     "timeDuration": "40",
     "speakers": [
       102
@@ -32,13 +32,13 @@
   {
     "id": "1003",
     "slide": "",
-    "title": "Flutter in the Web3 space",
-    "description": "Blockchain technology and the crypto space in general are one of the major trends in the world right now. The number of increasing buzzwords such as NFTs, ETFs, DApps, and DeFi are undeniable markers to this assertion. In this session you will understand how we can jump into the web3 space on mobile. We will learn what all you need to create a dApp using Flutter.",
-    "track": "Mobile",
+    "title": "System Design of a Stock Broking Application",
+    "description": "This talk will be on low and high level system design of a scalable stock broking application. I will be talking about how different microservices interact and how orders are placed on exchange.",
+    "track": "Web",
     "link": "",
     "time":"",
-    "format": "Day 2",
-    "date": "December 4, 2022",
+    "format": "Day 1",
+    "date": "November 21, 2023",
     "timeDuration": "40",
     "speakers": [
       103
@@ -47,13 +47,13 @@
   {
     "id": "1004",
     "slide": "",
-    "title": "Improving as an ML Practitioner",
-    "description": "So, improving as an ML practitioner can be particularly difficult since there are multiple factors at play: theory, new innovations, productionalization, implementation, etc. How to prioritize one over the other? How to do our best to not get lost in the name of making progress? In this talk, I will share some learnings from my experience of being in the field, working on several aspects. By the end of the talk, the audience will hopefully have some takeaways for improving in their ML journeys.",
-    "track": "AI / ML",
+    "title": "Start your Data & Analytics journey with BigQuery",
+    "description": "The talk will take the audience through some usecases of why analytics is important, what are the prerequisites to build it, how do you build a data storage platform, how do you manage your data and then finally details about types of analytics and what tools are available in Google Cloud to build Analytics",
+    "track": "Cloud",
     "link": "",
     "time":"",
-    "format": "Day 2",
-    "date": "December 4, 2022",
+    "format": "Day 1",
+    "date": "November 21, 2023",
     "timeDuration": "40",
     "speakers": [
       104
@@ -64,11 +64,11 @@
     "slide": "",
     "title": "Transitioning into Product Management",
     "description": "With the right mindset, Product Management and Leadership techniques can be applied to achieve product-led growth. Sneh aims to share actionable insights from the sphere of Product Management. He excels in strategizing products from inception and Go-to-Market for Indian subcontinent and has worked for products that have reached 1M+ users so far. The session covers below areas: 1. Introduction and actionable insights to transition into Product Management,2. Life of a Product Manager,3. Techniques to make your product a success,4. Tips and resources from experience",
-    "track": "Entrepreneurship, Leadership & Product Management",
+    "track": "Cloud",
     "link": "",
     "time":"",
-    "format": "Day 2",
-    "date": "December 4, 2022",
+    "format": "Day 1",
+    "date": "November 21, 2023",
     "timeDuration": "40",
     "speakers": [
       105
@@ -77,13 +77,13 @@
   {
     "id": "1006",
     "slide": "",
-    "title": "How to migrate your existing native apps to Flutter?",
-    "description": "There are lots of companies converting/migrating their existing native apps to Flutter. They face lots of difficulties in doing the same. There is a high chance that they might invest their time and resources doing something unnecessary. I have migrated ZestMoney’s app from native to flutter from scratch with 13+ team members.",
-    "track": "Mobile",
+    "title": "Ease of Deploying Responsible AI Graph Algorithms on Google Cloud for Healthcare Industry",
+    "description": "With a growing range of frauds in the healthcare industry ranging up to 3-10% of total spending in the US, it is essential for healthcare ecosystem not only to protect sensitive healthcare records but also to minimize transactions that are anomalous. On the other hand, regulatory practices prompt us to remove bias and discriminatory recommendations, which often result in poor treatment, inaccurate diagnoses, or leading to delays in diagnosis. In this session, The talk will bring forth how Responsible AI concepts can be extended to graph algorithms using Google Cloud for the healthcare industry. The talk highlights two important pillars of Responsible AI, privacy and fairness, which helps deal with fraud and bias in the healthcare field. The talk emphasizes how the foundation pillars can be easily deployed on cloud, on a scalabe graph database that has options of management and monitoring.",
+    "track": "Cloud",
     "link": "",
     "time":"",
-    "format": "Day 2",
-    "date": "December 4, 2022",
+    "format": "Day 1",
+    "date": "November 21, 2023",
     "timeDuration": "40",
     "speakers": [
       106
@@ -92,13 +92,13 @@
   {
     "id": "1007",
     "slide": "",
-    "title": "Server driven UI in Flutter: A Remote Widgets Experiment",
-    "description": "App updates can be a nightmare! Here's an experiment that can potentially help in developing server-driven UI using remote widgets. In this fun, quirky session, we will try to create a basic setup to change UI layouts remotely and then go over some not-so-basic things that are nothing short of magic.",
-    "track": "Mobile",
+    "title": "Building advanced Gen-AI solutions using Google Cloud!",
+    "description": "In this session, you’ll embark on a journey into the exciting world of Generative AI and discover how Google Cloud’s GenAI portfolio can empower you to build intelligent solutions with Firebase and Google Cloud. We would be also looking at Google's state-of-the-art Generative AI offerings and learn how to architect a powerful RAG (Retrieval-Augmented Generation) solution on Google Cloud, from concept to deployment. The highlight of this session are the real-world applications and industry use-cases of Generative AI in diverse verticals. We'll also look at how healthcare, finance, e-commerce, and other industries are leveraging this technology to revolutionize their operations.",
+    "track": "ML",
     "link": "",
     "time":"",
     "format": "Day 1",
-    "date": "December 3, 2022",
+    "date": "November 21, 2023",
     "timeDuration": "30",
     "speakers": [
       107
@@ -107,13 +107,13 @@
   {
     "id": "1008",
     "slide": "",
-    "title": "Architecting your Compose UI",
-    "description": "As Android apps grow in size, it's important to define an architecture that allows the app to scale, increases the app's robustness, and makes the app easier to test. Google's recommended app architecture consists of UI, Domain and Data Layers and UI is the one that makes the first impression on the user. In this talk, you'll learn: - About the UI layer's role in app architecture- How to implement the unidirectional data flow pattern in Compose- How to implement events and state holders- How to work with ViewModels in Compose",
-    "track": "Mobile",
+    "title": "Overview Generative AI on Vertex AI",
+    "description": "This session cover an overview of the Generative AI workflow, available models and features on Vertex AI, and how Vertex AI supports all the aspects of MLOps for any AI workflow.",
+    "track": "ML",
     "link": "",
     "time":"",
     "format": "Day 1",
-    "date": "December 3, 2022",
+    "date": "November 21, 2023",
     "timeDuration": "30",
     "speakers": [
       108
@@ -122,103 +122,103 @@
   {
     "id": "1009",
     "slide": "",
-    "title": "[Webllisto] Problem solving in the age of metaverse",
-    "description": "A deep dive into the problem solving and ways to approach them in the age of gaming.",
-    "track": "Game Development",
+    "title": "Demystifying Generative AI: Unlocking the Power of Creative Intelligence",
+    "description": "Generative AI is rapidly transforming the world around us, enabling the creation of entirely new forms of content, from captivating stories and stunning images to groundbreaking scientific discoveries. This session will unravel the mysteries of generative AI, providing a comprehensive overview of its capabilities, applications, and potential impact.",
+    "track": "ML",
     "link": "",
     "time":"",
     "format": "Day 1",
-    "date": "December 3, 2022",
-    "timeDuration": "40",
-    "speakers": [
-      110
-    ]
-  },
-  {
-    "id": "1010",
-    "slide": "",
-    "title": "[Acropolis] Super Lightening Talk",
-    "description": "",
-    "track": "",
-    "link": "",
-    "time":"",
-    "format": "Day 1",
-    "date": "December 3, 2022",
-    "timeDuration": "10",
-    "speakers": [
-      
-    ]
-  },
-  {
-    "id": "1011",
-    "slide": "",
-    "title": "Break",
-    "description": "",
-    "track": "",
-    "link": "",
-    "time":"",
-    "format": "Day 1",
-    "date": "December 3, 2022",
-    "timeDuration": "30",
-    "speakers": [
-      
-    ]
-  },
-  {
-    "id": "1012",
-    "slide": "",
-    "title": "Firebase and Beyond",
-    "description": "In this agile growing mobile industry, you can easily find many apps solving one user problem, but winner is the one with seamless user experience. If you want to build an app which targets large number of users daily with 1000’s of features running in all different corners of the world and in such scenario launching a new feature to all of the app users is scary, as you can't be sure how well the feature will be received by users and that’s where Remote Config offers you dynamic control to app features by gating them with percentage rollout and slowly expose users to new features. We have complete set of in app defaults, to face any config fetch issues and user receives the best without much app updates. To know about the choices of our users, we get interesting analytics results through Firebase A/B testing with no efforts on client end. Even during live streaming of matches or any content we have the hold of every feature of the app and we can route every api calls based on traffic received. Even created, a small tool to override the firebase config for a device which helped our Developers, QA and Product team a lot. We don’t need to create separate APKs with specific features on and off. Not only this, to simplify collaborative workflows, we have Slack alerts in near real time about any config changes pushed by any devs. So let's just check out how much we can go beyond with Firebase to scale our apps.",
-    "track": "Mobile + Firebase",
-    "link": "",
-    "time":"",
-    "format": "Day 1",
-    "date": "December 3, 2022",
+    "date": "November 21, 2023",
     "timeDuration": "40",
     "speakers": [
       109
     ]
   },
   {
-    "id": "1013",
+    "id": "1010",
     "slide": "",
-    "title": "[Softude] Why it takes a village to develop ML solution?",
-    "description": "ML Solutions are often looked as just ML algorithms. In reality, many more systems are required so that ML Algorithms can be leveraged. The talk aims to provide a view to the ecosystem of the ML solution.",
-    "track": "AI / ML",
+    "title": "Supercharging web apps with GPT Magic on Firebase!",
+    "description": "Unlock the power of seamless intelligence! Join us in this dynamic session as we dive into the art of integrating a GPT (Generative Pre-trained Transformer) into your web app using the magic of Firebase. Discover how this dynamic duo can transform your user experience, adding a touch of brilliance and responsiveness to your application. From engaging chatbots to personalized content, learn the ins and outs of leveraging GPT's capabilities effortlessly within the Firebase ecosystem. Elevate your web app to new heights and captivate your audience with the perfect blend of innovation and ease. Don't miss out on this journey to redefine interactivity and intelligence in the digital realm!",
+    "track": "Web",
     "link": "",
     "time":"",
     "format": "Day 1",
-    "date": "December 3, 2022",
-    "timeDuration": "40",
+    "date": "November 21, 2023",
+    "timeDuration": "10",
+    "speakers": [
+      110
+    ]
+  },
+  {
+    "id": "1011",
+    "slide": "",
+    "title": "Securing web applications in Google Cloud with external identity providers using SAML integration",
+    "description": "Web applications or backend which can include serverless, GKE backend etc. can be secured with SAML authentication flow using GCP tools like Google Identity aware proxy and Google cloud Identity platform. The session will discuss the complete steps and live demo of securing the application",
+    "track": "Cloud",
+    "link": "",
+    "time":"",
+    "format": "Day 1",
+    "date": "November 21, 2023",
+    "timeDuration": "30",
     "speakers": [
       111
     ]
   },
   {
-    "id": "1014",
+    "id": "1012",
     "slide": "",
-    "title": "Networking",
-    "description": "",
-    "track": "Networking",
+    "title": "Launching a Startup",
+    "description": "What are the things that have to be taken care of when we plan to launch our start up. What can help us to build a sustainable business model and go from lean to large scale.",
+    "track": "Web",
     "link": "",
     "time":"",
     "format": "Day 1",
-    "date": "December 3, 2022",
+    "date": "November 21, 2023",
+    "timeDuration": "40",
+    "speakers": [
+      112
+    ]
+  },
+  {
+    "id": "1013",
+    "slide": "",
+    "title": "Firebase for Startups: Scaling Your App from Zero to Hero",
+    "description": "Starting from scratch and scaling up a mobile or web application can be challenging for startups. Firebase, a comprehensive development platform, offers a wide range of tools and services that can make this journey smoother. This talk will guide startup founders and developers through the process of using Firebase to build a feature-rich app, attract users, and scale up without breaking the bank. We'll explore Firebase's suite of tools, best practices, and real-world examples to help your startup go from zero to hero.",
+    "track": "ML",
+    "link": "",
+    "time":"",
+    "format": "Day 1",
+    "date": "November 21, 2023",
+    "timeDuration": "40",
+    "speakers": [
+      113
+    ]
+  },
+  {
+    "id": "1014",
+    "slide": "",
+    "title": "Building advanced Gen-AI solutions using Google Cloud!",
+    "description": "In this session, you’ll embark on a journey into the exciting world of Generative AI and discover how Google Cloud’s GenAI portfolio can empower you to build intelligent solutions with Firebase and Google Cloud. We would be also looking at Google's state-of-the-art Generative AI offerings and learn how to architect a powerful RAG (Retrieval-Augmented Generation) solution on Google Cloud, from concept to deployment. The highlight of this session are the real-world applications and industry use-cases of Generative AI in diverse verticals. We'll also look at how healthcare, finance, e-commerce, and other industries are leveraging this technology to revolutionize their operations.",
+    "track": "ML",
+    "link": "",
+    "time":"",
+    "format": "Day 1",
+    "date": "November 21, 2023",
     "timeDuration": "30",
     "speakers": [
-      
+      114
     ]
   },
   {
     "id": "1015",
     "slide": "",
-    "title": "[IIST] Super Lightening Talk",
-    "description": "",
-    "track": "",
+    "title": "Web beyond browsers",
+    "description": "Web is omnipresent, in ways more than we all probably contemplate. Join for a fun filled AMA style session where we learn about the possibilities with the oldest, most sustainable and most loved platform available in the developer ecosystem till date!",
+    "track": "Web",
     "link": "",
     "time":"",
-    "format": "Day 2",
-    "date": "December 4, 2022",
+    "format": "Day 1",
+    "date": "November 21, 2023",
     "timeDuration": "10",
     "speakers": [
       
@@ -232,8 +232,8 @@
     "track": "Networking",
     "link": "",
     "time":"",
-    "format": "Day 2",
-    "date": "December 4, 2022",
+    "format": "Day 1",
+    "date": "November 21, 2023",
     "timeDuration": "40",
     "speakers": [
       
@@ -247,8 +247,8 @@
     "track": "Networking",
     "link": "",
     "time":"",
-    "format": "Day 2",
-    "date": "December 4, 2022",
+    "format": "Day 1",
+    "date": "November 21, 2023",
     "timeDuration": "40",
     "speakers": [
       
@@ -263,7 +263,7 @@
     "link": "",
     "time":"",
     "format": "Day 1",
-    "date": "December 3, 2022",
+    "date": "November 21, 2023",
     "timeDuration": "150",
     "speakers": [
       
@@ -277,8 +277,8 @@
     "track": "",
     "link": "",
     "time":"",
-    "format": "Day 2",
-    "date": "December 4, 2022",
+    "format": "Day 1",
+    "date": "November 21, 2023",
     "timeDuration": "150",
     "speakers": [
       
@@ -292,8 +292,8 @@
     "track": "",
     "link": "",
     "time":"",
-    "format": "Day 2",
-    "date": "December 4, 2022",
+    "format": "Day 1",
+    "date": "November 21, 2023",
     "timeDuration": "20",
     "speakers": [
       
@@ -308,7 +308,7 @@
     "link": "",
     "time":"",
     "format": "Day 1",
-    "date": "December 3, 2022",
+    "date": "November 21, 2023",
     "timeDuration": "20",
     "speakers": [
       

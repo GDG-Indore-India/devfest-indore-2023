@@ -17,8 +17,7 @@
               v-for="(item, index) in SpeakersData"
               :key="index"
             >
-              <!-- <SpeakerCard :speakerData="item" :sessionDetails="SessionDetails" /> -->
-              <SpeakerCard :speakerData="item" />
+              <SpeakerCard :speakerData="item" :sessionDetails="SessionDetails" />
             </v-col>
           </v-row>
         </v-container>
@@ -29,7 +28,7 @@
 
 <script>
 import SpeakersData from "@/assets/data/speakers.json";
-// import SessionDetails from "@/assets/data/sessions.json";
+import SessionDetails from "@/assets/data/sessions.json";
 import SpeakerCard from '@/components/speakers/SpeakerDialog.vue'
 export default {
   name: 'SpeakersView',
@@ -41,9 +40,9 @@ export default {
   }),
   mounted() {
     this.SpeakersData = this.sortByName(SpeakersData);
-    // this.SessionDetails = SessionDetails.sort((a, b) => {
-    //   return a.id > b.id ? 1 : -1;
-    // });
+    this.SessionDetails = SessionDetails.sort((a, b) => {
+      return a.id > b.id ? 1 : -1;
+    });
   },
   created(){
     document.title = "Speakers | Devfest Indore 2023"
