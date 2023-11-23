@@ -177,13 +177,13 @@
           </v-container>
         </v-col>
       </v-row> -->
-         <!-- <v-row>
-        <v-col md="10" lg="12" sm="10" cols="12" class="px-1">
-          <div><p class="mt-4 google-font pl-10"  style="text-align: center"><b>Media Partner:</b></p></div>
-        </v-col>
+      <v-row class="justify-mb-center">
         <v-col md="10" lg="12" sm="10" cols="12">
           <v-container class="mb-0 pb-0">
-            <v-row justify="center">
+            <v-row class="justify-mb-center">
+              <v-col md="10" lg="12" sm="10" cols="12" class="px-1">
+                <div><p class="mt-4 google-font"><b>Media Partner:</b></p></div>
+              </v-col>
               <v-col
                 md="3"
                 lg="3"
@@ -199,7 +199,30 @@
             </v-row>
           </v-container>
         </v-col>
-      </v-row> -->
+      </v-row>
+      <v-row class="justify-mb-center">
+        <v-col md="10" lg="12" sm="10" cols="12">
+          <v-container class="mb-0 pb-0">
+            <v-row class="justify-mb-center">
+              <v-col md="10" lg="12" sm="10" cols="12" class="px-1">
+                <div><p class="mt-4 google-font"><b>Photography Partner:</b></p></div>
+              </v-col>
+              <v-col
+                md="3"
+                lg="3"
+                xl="2"
+                sm="4"
+                cols="12"
+                class="px-1"
+                v-for="(item, index) in photographyData"
+                :key="index"
+              >
+                <Partners :data="item" :partnerDetails="photographyData" />
+              </v-col>
+            </v-row>
+          </v-container>
+        </v-col>
+      </v-row>
     </v-container>
   </v-main>
 </template>
@@ -211,6 +234,7 @@ import venueData from "@/assets/data/venuePartners.json";
 import diversityData from "@/assets/data/diversityData.json";
 import merchandiseData from "@/assets/data/merchandiseData.json";
 import mediaData from "@/assets/data/mediaPartners.json";
+import photographyData from "@/assets/data/photographyPartners.json";
 export default {
   data: () => ({
     CommunityData: [],
@@ -220,7 +244,8 @@ export default {
     venueData:[],
     diversityData: [],
     merchandiseData: [],
-    mediaData: []
+    mediaData: [],
+    photographyData: [],
   }),
   components: {
     Partners: () => import("@/components/common/PartnersDetails"),
@@ -233,6 +258,7 @@ export default {
     this.diversityData = this.sortByName(diversityData);
     this.merchandiseData = this.sortByName(merchandiseData);
     this.mediaData = this.sortByName(mediaData);
+    this.photographyData = this.sortByName(photographyData);
     // console.log(this.CommunityData);
   },
 };
