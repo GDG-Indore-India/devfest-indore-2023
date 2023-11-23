@@ -210,15 +210,17 @@
 	{
 		"id": "1017",
 		"slide": "",
-		"title": "Reframming Your Narrative",
-		"description": "",
-		"track": "Networking",
+		"title": "Building Products that Scale - A Guide",
+		"description": "Coding is not that difficult; however building Products out of is. And building Product that can Scale is a entirely different ball game. In such high-stakes situation, decisions taken early-on form the foundation and can come back to bite you later.",
+		"track": "ML",
 		"link": "",
 		"time": "",
 		"format": "Day 1",
 		"date": "November 26, 2023",
 		"timeDuration": "40",
-		"speakers": []
+		"speakers": [
+			117
+		]
 	},
 	{
 		"id": "1018",

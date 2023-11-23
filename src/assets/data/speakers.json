@@ -222,5 +222,21 @@
 		},
 		"sessionId": [1016],
 		"track": "Cloud"
+	},
+	{
+		"id": "117",
+		"name": "Zubeen Tolani",
+		"company": {
+			"designation": "CEO",
+			"name": "Aimed Labs"
+		},
+		"image": "zubeen-tolani.jpg",
+		"bio": "Zubeen Tolani is a 3x Entrepreneur, with experience in a wide range of technologies. He is currently building Aimed Labs, India's first Pro-code software development company. His super-charged team & in-house AI tools fuel efficient product development for SMBs, Fintech, Healthcare, & Gaming Industry.",
+		"social": {
+			"linkedin": "https://www.linkedin.com/in/zeekhuge/",
+			"twitter": "https://twitter.com/zeekhuge"
+		},
+		"sessionId": [1017],
+		"track": "ML"
 	}
 ]
