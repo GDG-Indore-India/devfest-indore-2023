@@ -166,5 +166,19 @@
    },
    "links": false,
    "website":""
+},
+{
+  "name":"qubase",
+   "desc":"Qubase is a community of developers, designers, and entrepreneurs.",
+   "image":"communitypartner.jpg",
+   "socialMedia":{
+     "instagram":"",
+     "linkedin":"",
+     "twitter":"",
+     "github":"",
+     "youtube": ""
+   },
+   "links": false,
+   "website":""
 }
 ]

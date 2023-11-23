@@ -1,210 +1,242 @@
 [
-  {
-    "id": "101",
-    "name": "Romin Irani",
-    "company": {
-      "designation": "Developer Advocate",
-      "name": "Google Cloud"
-    },
-    "image": "romin-irani.png",
-    "bio": "Romin works as a Developer Advocate at Google. He has over 25+ years of experience in the software industry and lives in Mumbai, India.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/iromin/",
-      "twitter": "https://twitter.com/iRomin"
-    },
-    "sessionId": [1001],
-    "track": "Cloud"
-  },
-  {
-    "id": "103",
-    "name": "Devashish Nyati",
-    "company": {
-      "designation": "CTO",
-      "name": "Swastika Investmart Ltd"
-    },
-    "image": "devashish-nyati.jpg",
-    "bio": "Hello, I’m Devashish Nyati, a passionate software engineer and tech entrepreneur with a thirst for innovation and a love for technology. My journey has been marked by remarkable experiences, and I am excited to share a glimpse of it with you.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/devashishnyati",
-      "twitter": ""
-    },
-    "sessionId": [1003],
-    "track": "WEB"
-  },
-  {
-    "id": "104",
-    "name": "Himanshu Ramchandani",
-    "company": {
-      "designation": "AI-Advisor & Data Strategy Consultant",
-      "name": "HemansAI"
-    },
-    "image": "himanshu-ramchandani.jpg",
-    "bio": "Helping businesses Build AI products • Helping Industry Leaders 10x their AI expertise • Documenting the process.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/hemansnation/",
-      "twitter": "https://twitter.com/hemansnation"
-    },
-    "sessionId": [1004],
-    "track": "ML"
-  },
-  {
-    "id": "105",
-    "name": "Nirav Kothari",
-    "company": {
-      "designation": "Senior Technical Architect",
-      "name": "Quantiphi Analytics"
-    },
-    "image": "nirav-kothari.jpg",
-    "bio": "Working as Solution Architect having 19+ years of experience in the areas of Data Engineering, data science, IoT, RPA, Integration tools etc.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/iniravkothari",
-      "twitter": "https://twitter.com/iNiravKothari"
-    },
-    "sessionId": [1005],
-    "track": "Cloud"
-  },
-  {
-    "id": "106",
-    "name": "Sharmistha Chatterjee",
-    "company": {
-      "designation": "Head of Advanced Analytics Chapter Area",
-      "name": "Commonwealth Bank of Australia"
-    },
-    "image": "sharmistha-chatterjee.jpg",
-    "bio": "Sharmistha Chatterjee is an evangelist and seasoned professional in ML and cloud applications. She is working as the Head of Advanced Analytics Systems and Platforms Chapter Area in Chief Data and Analytics Office at the Commonwealth Bank of Australia, where she has been instrumental in setting up the practise from scratch. She currently leads the practise, building scalable ML and decisioning platforms.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/sharmistha-chatterjee-7a186310/",
-      "twitter": "https://twitter.com/sharmichat82"
-    },
-    "sessionId": [1006],
-    "track": "Cloud"
-  },
-  {
-    "id": "107",
-    "name": "Kartik Derasari",
-    "company": {
-      "designation": "Lead Solutions Engineer & Google Developer Expert for Google Cloud",
-      "name": "Persistent"
-    },
-    "image": "kartik-derasari.png",
-    "bio": "Kartik is a Technical Consultant by profession & an advocate for technology by passion. He has been recognized as a Google Developer Expert for Google Cloud. Being a 6X Google Cloud Certified Professional, he contributes to App-Dev & Analytics projects as a Full-Stack Engineer. He runs the Google Developers Group for Cloud professionals and he's been also recognized as a Google Cloud Champion Innovator for Serverless App Development. He has delivered over 50 technical sessions and has hosted more than 65 developer-focused events & conferences. He has also been a Google DSC Lead and an ML Facilitator of Google AI's Explore ML Program.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/kartikderasari",
-      "twitter": "https://twitthttps://twitter.com/kartik_derasari"
-    },
-    "sessionId": [1007],
-    "track": "ML"
-  },
-  {
-    "id": "108",
-    "name": "Sunil Kumar",
-    "company": {
-      "designation": "Customer Engineer - AI/ML Specialist",
-      "name": "Google Cloud"
-    },
-    "image": "sunil-kumar-jang-bahadur.jpg",
-    "bio": "I love to teach machines and make them more humanized. I design and develop technical solutions using Generative AI, LLMs, Deep Learning and Robotics for various industrial sectors, primarily focusing on Natural Language Understanding, Computer vision & Conversational AI.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/sunilkumar88",
-      "twitter": ""
-    },
-    "sessionId": [1008],
-    "track": "ML"
-  },
-  {
-    "id": "109",
-    "name": "Murari Ramuka",
-    "company": {
-      "designation": "Gen AI Expert",
-      "name": "Google"
-    },
-    "image": "murari-ramuka.jpg",
-    "bio": "Murari has extensively worked on Traditional and Modern data platforms having deep experience in Data Management, Data Architecture, Data Engineering, Data Science, Data Governance etc. In his past experiences at Microsoft, KPMG and HSBC, he led cloud data strategy/ implementation for multiple enterprise customers.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/murari-ramuka-98a440a/",
-      "twitter": ""
-    },
-    "sessionId": [1009],
-    "track": "ML"
-  },
-  {
-    "id": "110",
-    "name": "Adeen Shukla",
-    "company": {
-      "designation": "CTO",
-      "name": "Metafic"
-    },
-    "image": "adeen-shukla.jpeg",
-    "bio": "With a background in web and mobile app development, Adeen started in tech communities, quickly becoming known for his expertise and active involvement.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/adeen-s/",
-      "twitter": ""
-    },
-    "sessionId": [1010],
-    "track": "WEB"
-  },
-  {
-    "id": "111",
-    "name": "Arjun Vijayvargiya",
-    "company": {
-      "designation": "Senior Software Engineer",
-      "name": "Google"
-    },
-    "image": "arjun-vijayvargiya.jpg",
-    "bio": "Software engineer @ Google. Passionate for Coding, programming, travelling, exploring different places, culture and food",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/arjun-vijayvargiya-05327192/",
-      "twitter": ""
-    },
-    "sessionId": [1011],
-    "track": "Cloud"
-  },
-  {
-    "id": "112",
-    "name": "Kamal Deo Prasad",
-    "company": {
-      "designation": "CPO",
-      "name": "Recro"
-    },
-    "image": "kamal-deo-prasad.jpeg",
-    "bio": "I have always been passionate about the products which add value to human lives. I started my career as an engineer and lead it towards entrepreneurship.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/kamal-prasad/",
-      "twitter": ""
-    },
-    "sessionId": [1012],
-    "track": "WEB"
-  },
-  {
-    "id": "113",
-    "name": "Pawan Kumar",
-    "company": {
-      "designation": "GDE Flutter, Firebase, Dart & WebTech",
-      "name": "Codepur"
-    },
-    "image": "pawan-kumar.jpg",
-    "bio": "Empowering People | Codepur | App Developer | 130K+ Youtube ▶️ | 60K+ Linkedin | 39K+ Twitter | 10K+ Github 👨🏻‍💻 | Google Developer Expert Flutter & Firebase 🚀",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/imthepk/",
-      "twitter": "https://twitter.com/imthepk"
-    },
-    "sessionId": [1013],
-    "track": "ML"
-  },
-  {
-    "id": "115",
-    "name": "Saurabh Rajpal",
-    "company": {
-      "designation": "APAC Tech Lead, Web Ecosystem Consultant",
-      "name": "Google"
-    },
-    "image": "saurabh-rajpal.jpg",
-    "bio": "Working as a Sr. Web Ecosystem Consultant @ Google with a mission to make web better for the ecosystem. Loves to talk about web performance, PWA, project FUGU (aka web capabilities) and anything that matters to Chrome users!",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/imsaurabhrajpal/",
-      "twitter": "https://twitter.com/imsaurabhrajpal"
-    },
-    "sessionId": [1015],
-    "track": "WEB"
-  }
+	{
+		"id": "101",
+		"name": "Romin Irani",
+		"company": {
+			"designation": "Developer Advocate",
+			"name": "Google Cloud"
+		},
+		"image": "romin-irani.png",
+		"bio": "Romin works as a Developer Advocate at Google. He has over 25+ years of experience in the software industry and lives in Mumbai, India.",
+		"social": {
+			"linkedin": "https://www.linkedin.com/in/iromin/",
+			"twitter": "https://twitter.com/iRomin"
+		},
+		"sessionId": [1001],
+		"track": "Cloud"
+	},
+	{
+		"id": "103",
+		"name": "Devashish Nyati",
+		"company": {
+			"designation": "CTO",
+			"name": "Swastika Investmart Ltd"
+		},
+		"image": "devashish-nyati.jpg",
+		"bio": "Hello, I’m Devashish Nyati, a passionate software engineer and tech entrepreneur with a thirst for innovation and a love for technology. My journey has been marked by remarkable experiences, and I am excited to share a glimpse of it with you.",
+		"social": {
+			"linkedin": "https://www.linkedin.com/in/devashishnyati",
+			"twitter": ""
+		},
+		"sessionId": [1003],
+		"track": "WEB"
+	},
+	{
+		"id": "104",
+		"name": "Himanshu Ramchandani",
+		"company": {
+			"designation": "AI-Advisor & Data Strategy Consultant",
+			"name": "HemansAI"
+		},
+		"image": "himanshu-ramchandani.jpg",
+		"bio": "Helping businesses Build AI products • Helping Industry Leaders 10x their AI expertise • Documenting the process.",
+		"social": {
+			"linkedin": "https://www.linkedin.com/in/hemansnation/",
+			"twitter": "https://twitter.com/hemansnation"
+		},
+		"sessionId": [1004],
+		"track": "ML"
+	},
+	{
+		"id": "105",
+		"name": "Nirav Kothari",
+		"company": {
+			"designation": "Senior Technical Architect",
+			"name": "Quantiphi Analytics"
+		},
+		"image": "nirav-kothari.jpg",
+		"bio": "Working as Solution Architect having 19+ years of experience in the areas of Data Engineering, data science, IoT, RPA, Integration tools etc.",
+		"social": {
+			"linkedin": "https://www.linkedin.com/in/iniravkothari",
+			"twitter": "https://twitter.com/iNiravKothari"
+		},
+		"sessionId": [1005],
+		"track": "Cloud"
+	},
+	{
+		"id": "106",
+		"name": "Sharmistha Chatterjee",
+		"company": {
+			"designation": "Head of Advanced Analytics Chapter Area",
+			"name": "Commonwealth Bank of Australia"
+		},
+		"image": "sharmistha-chatterjee.jpg",
+		"bio": "Sharmistha Chatterjee is an evangelist and seasoned professional in ML and cloud applications. She is working as the Head of Advanced Analytics Systems and Platforms Chapter Area in Chief Data and Analytics Office at the Commonwealth Bank of Australia, where she has been instrumental in setting up the practise from scratch. She currently leads the practise, building scalable ML and decisioning platforms.",
+		"social": {
+			"linkedin": "https://www.linkedin.com/in/sharmistha-chatterjee-7a186310/",
+			"twitter": "https://twitter.com/sharmichat82"
+		},
+		"sessionId": [1006],
+		"track": "Cloud"
+	},
+	{
+		"id": "107",
+		"name": "Kartik Derasari",
+		"company": {
+			"designation": "Lead Solutions Engineer & Google Developer Expert for Google Cloud",
+			"name": "Persistent"
+		},
+		"image": "kartik-derasari.png",
+		"bio": "Kartik is a Technical Consultant by profession & an advocate for technology by passion. He has been recognized as a Google Developer Expert for Google Cloud. Being a 6X Google Cloud Certified Professional, he contributes to App-Dev & Analytics projects as a Full-Stack Engineer. He runs the Google Developers Group for Cloud professionals and he's been also recognized as a Google Cloud Champion Innovator for Serverless App Development. He has delivered over 50 technical sessions and has hosted more than 65 developer-focused events & conferences. He has also been a Google DSC Lead and an ML Facilitator of Google AI's Explore ML Program.",
+		"social": {
+			"linkedin": "https://www.linkedin.com/in/kartikderasari",
+			"twitter": "https://twitthttps://twitter.com/kartik_derasari"
+		},
+		"sessionId": [1007],
+		"track": "ML"
+	},
+	{
+		"id": "108",
+		"name": "Sunil Kumar",
+		"company": {
+			"designation": "Customer Engineer - AI/ML Specialist",
+			"name": "Google Cloud"
+		},
+		"image": "sunil-kumar-jang-bahadur.jpg",
+		"bio": "I love to teach machines and make them more humanized. I design and develop technical solutions using Generative AI, LLMs, Deep Learning and Robotics for various industrial sectors, primarily focusing on Natural Language Understanding, Computer vision & Conversational AI.",
+		"social": {
+			"linkedin": "https://www.linkedin.com/in/sunilkumar88",
+			"twitter": ""
+		},
+		"sessionId": [1008],
+		"track": "ML"
+	},
+	{
+		"id": "109",
+		"name": "Murari Ramuka",
+		"company": {
+			"designation": "Gen AI Expert",
+			"name": "Google"
+		},
+		"image": "murari-ramuka.jpg",
+		"bio": "Murari has extensively worked on Traditional and Modern data platforms having deep experience in Data Management, Data Architecture, Data Engineering, Data Science, Data Governance etc. In his past experiences at Microsoft, KPMG and HSBC, he led cloud data strategy/ implementation for multiple enterprise customers.",
+		"social": {
+			"linkedin": "https://www.linkedin.com/in/murari-ramuka-98a440a/",
+			"twitter": ""
+		},
+		"sessionId": [1009],
+		"track": "ML"
+	},
+	{
+		"id": "110",
+		"name": "Adeen Shukla",
+		"company": {
+			"designation": "CTO",
+			"name": "Metafic"
+		},
+		"image": "adeen-shukla.jpeg",
+		"bio": "With a background in web and mobile app development, Adeen started in tech communities, quickly becoming known for his expertise and active involvement.",
+		"social": {
+			"linkedin": "https://www.linkedin.com/in/adeen-s/",
+			"twitter": ""
+		},
+		"sessionId": [1010],
+		"track": "WEB"
+	},
+	{
+		"id": "111",
+		"name": "Arjun Vijayvargiya",
+		"company": {
+			"designation": "Senior Software Engineer",
+			"name": "Google"
+		},
+		"image": "arjun-vijayvargiya.jpg",
+		"bio": "Software engineer @ Google. Passionate for Coding, programming, travelling, exploring different places, culture and food",
+		"social": {
+			"linkedin": "https://www.linkedin.com/in/arjun-vijayvargiya-05327192/",
+			"twitter": ""
+		},
+		"sessionId": [1011],
+		"track": "Cloud"
+	},
+	{
+		"id": "112",
+		"name": "Kamal Deo Prasad",
+		"company": {
+			"designation": "CPO",
+			"name": "Recro"
+		},
+		"image": "kamal-deo-prasad.jpeg",
+		"bio": "I have always been passionate about the products which add value to human lives. I started my career as an engineer and lead it towards entrepreneurship.",
+		"social": {
+			"linkedin": "https://www.linkedin.com/in/kamal-prasad/",
+			"twitter": ""
+		},
+		"sessionId": [1012],
+		"track": "WEB"
+	},
+	{
+		"id": "113",
+		"name": "Pawan Kumar",
+		"company": {
+			"designation": "GDE Flutter, Firebase, Dart & WebTech",
+			"name": "Codepur"
+		},
+		"image": "pawan-kumar.jpg",
+		"bio": "Empowering People | Codepur | App Developer | 130K+ Youtube ▶️ | 60K+ Linkedin | 39K+ Twitter | 10K+ Github 👨🏻‍💻 | Google Developer Expert Flutter & Firebase 🚀",
+		"social": {
+			"linkedin": "https://www.linkedin.com/in/imthepk/",
+			"twitter": "https://twitter.com/imthepk"
+		},
+		"sessionId": [1013],
+		"track": "ML"
+	},
+	{
+		"id": "115",
+		"name": "Saurabh Rajpal",
+		"company": {
+			"designation": "APAC Tech Lead, Web Ecosystem Consultant",
+			"name": "Google"
+		},
+		"image": "saurabh-rajpal.jpg",
+		"bio": "Working as a Sr. Web Ecosystem Consultant @ Google with a mission to make web better for the ecosystem. Loves to talk about web performance, PWA, project FUGU (aka web capabilities) and anything that matters to Chrome users!",
+		"social": {
+			"linkedin": "https://www.linkedin.com/in/imsaurabhrajpal/",
+			"twitter": "https://twitter.com/imsaurabhrajpal"
+		},
+		"sessionId": [1015],
+		"track": "WEB"
+	},
+	{
+		"id": "116",
+		"name": "Karan Mittal",
+		"company": {
+			"designation": "Sr. Data Scientist",
+			"name": "FREELANCER"
+		},
+		"image": "karan-mittal.jpg",
+		"bio": "I am passionate about building solutions with Data Science and Technology. With the amount of data available, more and more solutions are needed to handle and churn effective value from it. Data Science makes those smart solutions possible, which we were only able to imagine a couple of years ago.",
+		"social": {
+			"linkedin": "https://www.linkedin.com/in/karansmittal/",
+			"twitter": "https://twitter.com/KaranSMittal"
+		},
+		"sessionId": [1016],
+		"track": "Cloud"
+	},
+	{
+		"id": "117",
+		"name": "Zubeen Tolani",
+		"company": {
+			"designation": "CEO",
+			"name": "Aimed Labs"
+		},
+		"image": "zubeen-tolani.jpg",
+		"bio": "Zubeen Tolani is a 3x Entrepreneur, with experience in a wide range of technologies. He is currently building Aimed Labs, India's first Pro-code software development company. His super-charged team & in-house AI tools fuel efficient product development for SMBs, Fintech, Healthcare, & Gaming Industry.",
+		"social": {
+			"linkedin": "https://www.linkedin.com/in/zeekhuge/",
+			"twitter": "https://twitter.com/zeekhuge"
+		},
+		"sessionId": [1017],
+		"track": "ML"
+	}
 ]
