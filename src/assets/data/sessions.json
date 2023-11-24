@@ -273,5 +273,20 @@
 		"date": "November 26, 2023",
 		"timeDuration": "20",
 		"speakers": []
-	}
+	},
+  {
+    "id": "1022",
+    "slide": "",
+    "title": "Keynote",
+    "description": "",
+    "track": "",
+    "link": "",
+    "time":"",
+    "format": "Day 1",
+    "date": "November 26, 2023",
+    "timeDuration": "30",
+    "speakers": [
+      101
+    ]
+  }
 ]

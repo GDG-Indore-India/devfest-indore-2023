@@ -8,8 +8,9 @@
 
           <v-toolbar flat class="px-0" style="border-radius:15px">
             <v-tabs v-model="model" color="black" slider-color="black">
-              <v-tab href="#day1">Day 1</v-tab>
-              <v-tab href="#day2">Day 2</v-tab>
+              <v-tab href="#web">Web</v-tab>
+              <v-tab href="#cloud">Cloud</v-tab>
+              <v-tab href="#ml">Machine Learning</v-tab>
             </v-tabs>
           </v-toolbar>
 
@@ -17,17 +18,17 @@
             <v-row justify="center" align="center" style="border-radius:15px">
               <v-col>
                 <v-tabs-items v-model="model">
-                  <v-tab-item value="day1">
+                  <v-tab-item value="web">
                     <!-- <p class="h1-heading">Day 1 Schdule</p>
                             <p class="h1-subheading">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore provident maiores et pariatur illum quis enim nam labore deserunt voluptate! Amet hic voluptate ad? Sed, eius laudantium. Quo, voluptate inventore!</p> -->
                     <ScheduleDetails :data="ScheduleData[0]" />
                   </v-tab-item>
-                  <v-tab-item value="day2">
+                  <v-tab-item value="cloud">
                     <!-- <p class="h1-heading">Day 2 Schdule</p>
                             <p class="h1-subheading">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore provident maiores et pariatur illum quis enim nam labore deserunt voluptate! Amet hic voluptate ad? Sed, eius laudantium. Quo, voluptate inventore!</p> -->
                     <ScheduleDetails :data="ScheduleData[1]" />
                   </v-tab-item>
-                  <v-tab-item value="day3">
+                  <v-tab-item value="ml">
                     <ScheduleDetails :data="ScheduleData[2]" />
                   </v-tab-item>
                 </v-tabs-items>
@@ -53,7 +54,7 @@ export default {
     ScheduleDetails,
   },
   mounted() {
-    let tabs = ["day1", "day2", "day3"];
+    let tabs = ["web", "cloud", "ml"];
     if (Object.keys(this.$route.query) == "tab") {
       if (tabs.indexOf(this.$route.query["tab"]) != -1) {
         this.model = this.$route.query["tab"];
