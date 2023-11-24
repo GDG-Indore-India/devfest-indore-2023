@@ -47,7 +47,7 @@ import ScheduleDetails from "@/components/schedule/ScheduleDetails";
 export default {
   name: "ScheduleView",
   data: () => ({
-    model: "day1",
+    model: "web",
     ScheduleData: [],
   }),
   components: {

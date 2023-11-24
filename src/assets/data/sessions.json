@@ -192,7 +192,7 @@
 		"format": "Day 1",
 		"date": "November 26, 2023",
 		"timeDuration": "10",
-		"speakers": []
+		"speakers": [115]
 	},
 	{
 		"id": "1016",
@@ -212,7 +212,7 @@
 		"slide": "",
 		"title": "Building Products that Scale - A Guide",
 		"description": "Coding is not that difficult; however building Products out of is. And building Product that can Scale is a entirely different ball game. In such high-stakes situation, decisions taken early-on form the foundation and can come back to bite you later.",
-		"track": "ML",
+		"track": "Web",
 		"link": "",
 		"time": "",
 		"format": "Day 1",
@@ -287,6 +287,21 @@
     "timeDuration": "30",
     "speakers": [
       101
+    ]
+  },
+  {
+    "id": "1023",
+    "slide": "",
+    "title": "Lunch Break",
+    "description": "",
+    "track": "",
+    "link": "",
+    "time":"",
+    "format": "Day 1",
+    "date": "November 26, 2023",
+    "timeDuration": "40",
+    "speakers": [
+      
     ]
   }
 ]

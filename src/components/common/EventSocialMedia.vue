@@ -12,7 +12,7 @@
     <v-btn
       aria-label="social media btn"
       class="mt-0 mx-0 mr-2 pa-10 social-btn"
-      href="https://www.linkedin.com/company/gdg-indore/"
+      href="https://www.youtube.com/c/GDGIndore/"
       target="_blank"
     >
       <v-icon color="#000" style="font-size: 3rem;">mdi-linkedin</v-icon>
