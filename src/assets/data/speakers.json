@@ -16,7 +16,7 @@
 		"track": "Cloud"
 	},
 	{
-		"id": "103",
+		"id": "102",
 		"name": "Devashish Nyati",
 		"company": {
 			"designation": "CTO",
@@ -28,11 +28,11 @@
 			"linkedin": "https://www.linkedin.com/in/devashishnyati",
 			"twitter": ""
 		},
-		"sessionId": [1003],
+		"sessionId": [1002],
 		"track": "WEB"
 	},
 	{
-		"id": "104",
+		"id": "103",
 		"name": "Himanshu Ramchandani",
 		"company": {
 			"designation": "AI-Advisor & Data Strategy Consultant",
@@ -44,11 +44,11 @@
 			"linkedin": "https://www.linkedin.com/in/hemansnation/",
 			"twitter": "https://twitter.com/hemansnation"
 		},
-		"sessionId": [1004],
+		"sessionId": [1003],
 		"track": "ML"
 	},
 	{
-		"id": "105",
+		"id": "104",
 		"name": "Nirav Kothari",
 		"company": {
 			"designation": "Senior Technical Architect",
@@ -60,11 +60,11 @@
 			"linkedin": "https://www.linkedin.com/in/iniravkothari",
 			"twitter": "https://twitter.com/iNiravKothari"
 		},
-		"sessionId": [1005],
+		"sessionId": [1004],
 		"track": "Cloud"
 	},
 	{
-		"id": "106",
+		"id": "105",
 		"name": "Sharmistha Chatterjee",
 		"company": {
 			"designation": "Head of Advanced Analytics Chapter Area",
@@ -76,11 +76,11 @@
 			"linkedin": "https://www.linkedin.com/in/sharmistha-chatterjee-7a186310/",
 			"twitter": "https://twitter.com/sharmichat82"
 		},
-		"sessionId": [1006],
+		"sessionId": [1005],
 		"track": "Cloud"
 	},
 	{
-		"id": "107",
+		"id": "106",
 		"name": "Kartik Derasari",
 		"company": {
 			"designation": "Lead Solutions Engineer & Google Developer Expert for Google Cloud",
@@ -92,11 +92,11 @@
 			"linkedin": "https://www.linkedin.com/in/kartikderasari",
 			"twitter": "https://twitthttps://twitter.com/kartik_derasari"
 		},
-		"sessionId": [1007],
+		"sessionId": [1006],
 		"track": "ML"
 	},
 	{
-		"id": "108",
+		"id": "107",
 		"name": "Sunil Kumar",
 		"company": {
 			"designation": "Customer Engineer - AI/ML Specialist",
@@ -108,11 +108,11 @@
 			"linkedin": "https://www.linkedin.com/in/sunilkumar88",
 			"twitter": ""
 		},
-		"sessionId": [1008],
+		"sessionId": [1007],
 		"track": "ML"
 	},
 	{
-		"id": "109",
+		"id": "108",
 		"name": "Murari Ramuka",
 		"company": {
 			"designation": "Gen AI Expert",
@@ -124,11 +124,11 @@
 			"linkedin": "https://www.linkedin.com/in/murari-ramuka-98a440a/",
 			"twitter": ""
 		},
-		"sessionId": [1009],
+		"sessionId": [1008],
 		"track": "ML"
 	},
 	{
-		"id": "110",
+		"id": "109",
 		"name": "Adeen Shukla",
 		"company": {
 			"designation": "CTO",
@@ -140,11 +140,11 @@
 			"linkedin": "https://www.linkedin.com/in/adeen-s/",
 			"twitter": ""
 		},
-		"sessionId": [1010],
+		"sessionId": [1009],
 		"track": "WEB"
 	},
 	{
-		"id": "111",
+		"id": "110",
 		"name": "Arjun Vijayvargiya",
 		"company": {
 			"designation": "Senior Software Engineer",
@@ -156,11 +156,11 @@
 			"linkedin": "https://www.linkedin.com/in/arjun-vijayvargiya-05327192/",
 			"twitter": ""
 		},
-		"sessionId": [1011],
+		"sessionId": [1010],
 		"track": "Cloud"
 	},
 	{
-		"id": "112",
+		"id": "111",
 		"name": "Kamal Deo Prasad",
 		"company": {
 			"designation": "CPO",
@@ -172,11 +172,11 @@
 			"linkedin": "https://www.linkedin.com/in/kamal-prasad/",
 			"twitter": ""
 		},
-		"sessionId": [1012],
+		"sessionId": [1011],
 		"track": "WEB"
 	},
 	{
-		"id": "113",
+		"id": "112",
 		"name": "Pawan Kumar",
 		"company": {
 			"designation": "GDE Flutter, Firebase, Dart & WebTech",
@@ -188,11 +188,11 @@
 			"linkedin": "https://www.linkedin.com/in/imthepk/",
 			"twitter": "https://twitter.com/imthepk"
 		},
-		"sessionId": [1013],
+		"sessionId": [1012],
 		"track": "ML"
 	},
 	{
-		"id": "115",
+		"id": "113",
 		"name": "Saurabh Rajpal",
 		"company": {
 			"designation": "APAC Tech Lead, Web Ecosystem Consultant",
@@ -204,11 +204,11 @@
 			"linkedin": "https://www.linkedin.com/in/imsaurabhrajpal/",
 			"twitter": "https://twitter.com/imsaurabhrajpal"
 		},
-		"sessionId": [1015],
+		"sessionId": [1013],
 		"track": "WEB"
 	},
 	{
-		"id": "116",
+		"id": "114",
 		"name": "Karan Mittal",
 		"company": {
 			"designation": "Sr. Data Scientist",
@@ -220,11 +220,11 @@
 			"linkedin": "https://www.linkedin.com/in/karansmittal/",
 			"twitter": "https://twitter.com/KaranSMittal"
 		},
-		"sessionId": [1016],
+		"sessionId": [1014],
 		"track": "Cloud"
 	},
 	{
-		"id": "117",
+		"id": "115",
 		"name": "Zubeen Tolani",
 		"company": {
 			"designation": "CEO",
@@ -236,7 +236,7 @@
 			"linkedin": "https://www.linkedin.com/in/zeekhuge/",
 			"twitter": "https://twitter.com/zeekhuge"
 		},
-		"sessionId": [1017],
-		"track": "Web"
+		"sessionId": [1015],
+		"track": "WEB"
 	}
 ]

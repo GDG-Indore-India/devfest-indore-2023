@@ -15,9 +15,9 @@
 	{
 		"id": "1002",
 		"slide": "",
-		"title": "Designing modern web applications for cloud.",
-		"description": "This session gives an overview of current cloud based technologies with the perspective of how you can use them in particular scenarios. The considerations to make when structuring your application. Takes the listeners through a case study and touch on various aspects of decision making when architecting a cloud based web application.",
-		"track": "Cloud",
+		"title": "Bringing Silicone Valley to Indore",
+		"description": "In this session, I'll talk about my experiences, starting from my undergraduate studies in India to pursuing a Master’s degree at San Jose State University in the USA. Having had the privilege of working with tech giants like Google and Oracle, I will share insights into the groundbreaking projects, teamwork dynamics, and the transformative power of technology that I've witnessed.",
+		"track": "WEB",
 		"link": "",
 		"time": "",
 		"format": "Day 1",
@@ -28,9 +28,9 @@
 	{
 		"id": "1003",
 		"slide": "",
-		"title": "System Design of a Stock Broking Application",
-		"description": "This talk will be on low and high level system design of a scalable stock broking application. I will be talking about how different microservices interact and how orders are placed on exchange.",
-		"track": "Web",
+		"title": "How can YOU become an AI Master?",
+		"description": "Understanding Data Science - AI market and Finding your way to become an expert in it.",
+		"track": "ML",
 		"link": "",
 		"time": "",
 		"format": "Day 1",
@@ -54,8 +54,8 @@
 	{
 		"id": "1005",
 		"slide": "",
-		"title": "Transitioning into Product Management",
-		"description": "With the right mindset, Product Management and Leadership techniques can be applied to achieve product-led growth. Sneh aims to share actionable insights from the sphere of Product Management. He excels in strategizing products from inception and Go-to-Market for Indian subcontinent and has worked for products that have reached 1M+ users so far. The session covers below areas: 1. Introduction and actionable insights to transition into Product Management,2. Life of a Product Manager,3. Techniques to make your product a success,4. Tips and resources from experience",
+		"title": "Ease of Deploying Responsible AI Graph Algorithms on Google Cloud for Healthcare Industry",
+		"description": "With a growing range of frauds in the healthcare industry ranging up to 3-10% of total spending in the US, it is essential for healthcare ecosystem not only to protect sensitive healthcare records but also to minimize transactions that are anomalous. On the other hand, regulatory practices prompt us to remove bias and discriminatory recommendations, which often result in poor treatment, inaccurate diagnoses, or leading to delays in diagnosis. In this session, The talk will bring forth how Responsible AI concepts can be extended to graph algorithms using Google Cloud for the healthcare industry. The talk highlights two important pillars of Responsible AI, privacy and fairness, which helps deal with fraud and bias in the healthcare field. The talk emphasizes how the foundation pillars can be easily deployed on cloud, on a scalabe graph database that has options of management and monitoring.",
 		"track": "Cloud",
 		"link": "",
 		"time": "",
@@ -67,9 +67,9 @@
 	{
 		"id": "1006",
 		"slide": "",
-		"title": "Ease of Deploying Responsible AI Graph Algorithms on Google Cloud for Healthcare Industry",
-		"description": "With a growing range of frauds in the healthcare industry ranging up to 3-10% of total spending in the US, it is essential for healthcare ecosystem not only to protect sensitive healthcare records but also to minimize transactions that are anomalous. On the other hand, regulatory practices prompt us to remove bias and discriminatory recommendations, which often result in poor treatment, inaccurate diagnoses, or leading to delays in diagnosis. In this session, The talk will bring forth how Responsible AI concepts can be extended to graph algorithms using Google Cloud for the healthcare industry. The talk highlights two important pillars of Responsible AI, privacy and fairness, which helps deal with fraud and bias in the healthcare field. The talk emphasizes how the foundation pillars can be easily deployed on cloud, on a scalabe graph database that has options of management and monitoring.",
-		"track": "Cloud",
+		"title": "Building advanced Gen-AI solutions using Google Cloud!",
+		"description": "In this session, you’ll embark on a journey into the exciting world of Generative AI and discover how Google Cloud’s GenAI portfolio can empower you to build intelligent solutions with Firebase and Google Cloud. We would be also looking at Google's state-of-the-art Generative AI offerings and learn how to architect a powerful RAG (Retrieval-Augmented Generation) solution on Google Cloud, from concept to deployment. The highlight of this session are the real-world applications and industry use-cases of Generative AI in diverse verticals. We'll also look at how healthcare, finance, e-commerce, and other industries are leveraging this technology to revolutionize their operations.",
+		"track": "ML",
 		"link": "",
 		"time": "",
 		"format": "Day 1",
@@ -80,8 +80,8 @@
 	{
 		"id": "1007",
 		"slide": "",
-		"title": "Building advanced Gen-AI solutions using Google Cloud!",
-		"description": "In this session, you’ll embark on a journey into the exciting world of Generative AI and discover how Google Cloud’s GenAI portfolio can empower you to build intelligent solutions with Firebase and Google Cloud. We would be also looking at Google's state-of-the-art Generative AI offerings and learn how to architect a powerful RAG (Retrieval-Augmented Generation) solution on Google Cloud, from concept to deployment. The highlight of this session are the real-world applications and industry use-cases of Generative AI in diverse verticals. We'll also look at how healthcare, finance, e-commerce, and other industries are leveraging this technology to revolutionize their operations.",
+		"title": "Overview Generative AI on Vertex AI",
+		"description": "This session cover an overview of the Generative AI workflow, available models and features on Vertex AI, and how Vertex AI supports all the aspects of MLOps for any AI workflow.",
 		"track": "ML",
 		"link": "",
 		"time": "",
@@ -93,8 +93,8 @@
 	{
 		"id": "1008",
 		"slide": "",
-		"title": "Overview Generative AI on Vertex AI",
-		"description": "This session cover an overview of the Generative AI workflow, available models and features on Vertex AI, and how Vertex AI supports all the aspects of MLOps for any AI workflow.",
+		"title": "Demystifying Generative AI: Unlocking the Power of Creative Intelligence",
+		"description": "Generative AI is rapidly transforming the world around us, enabling the creation of entirely new forms of content, from captivating stories and stunning images to groundbreaking scientific discoveries. This session will unravel the mysteries of generative AI, providing a comprehensive overview of its capabilities, applications, and potential impact.",
 		"track": "ML",
 		"link": "",
 		"time": "",
@@ -106,9 +106,9 @@
 	{
 		"id": "1009",
 		"slide": "",
-		"title": "Demystifying Generative AI: Unlocking the Power of Creative Intelligence",
-		"description": "Generative AI is rapidly transforming the world around us, enabling the creation of entirely new forms of content, from captivating stories and stunning images to groundbreaking scientific discoveries. This session will unravel the mysteries of generative AI, providing a comprehensive overview of its capabilities, applications, and potential impact.",
-		"track": "ML",
+		"title": "Supercharging web apps with GPT Magic on Firebase!",
+		"description": "Unlock the power of seamless intelligence! Join us in this dynamic session as we dive into the art of integrating a GPT (Generative Pre-trained Transformer) into your web app using the magic of Firebase. Discover how this dynamic duo can transform your user experience, adding a touch of brilliance and responsiveness to your application. From engaging chatbots to personalized content, learn the ins and outs of leveraging GPT's capabilities effortlessly within the Firebase ecosystem. Elevate your web app to new heights and captivate your audience with the perfect blend of innovation and ease. Don't miss out on this journey to redefine interactivity and intelligence in the digital realm!",
+		"track": "Web",
 		"link": "",
 		"time": "",
 		"format": "Day 1",
@@ -119,9 +119,9 @@
 	{
 		"id": "1010",
 		"slide": "",
-		"title": "Supercharging web apps with GPT Magic on Firebase!",
-		"description": "Unlock the power of seamless intelligence! Join us in this dynamic session as we dive into the art of integrating a GPT (Generative Pre-trained Transformer) into your web app using the magic of Firebase. Discover how this dynamic duo can transform your user experience, adding a touch of brilliance and responsiveness to your application. From engaging chatbots to personalized content, learn the ins and outs of leveraging GPT's capabilities effortlessly within the Firebase ecosystem. Elevate your web app to new heights and captivate your audience with the perfect blend of innovation and ease. Don't miss out on this journey to redefine interactivity and intelligence in the digital realm!",
-		"track": "Web",
+		"title": "Securing web applications in Google Cloud with external identity providers using SAML integration",
+		"description": "Web applications or backend which can include serverless, GKE backend etc. can be secured with SAML authentication flow using GCP tools like Google Identity aware proxy and Google cloud Identity platform. The session will discuss the complete steps and live demo of securing the application.",
+		"track": "Cloud",
 		"link": "",
 		"time": "",
 		"format": "Day 1",
@@ -132,9 +132,9 @@
 	{
 		"id": "1011",
 		"slide": "",
-		"title": "Securing web applications in Google Cloud with external identity providers using SAML integration",
-		"description": "Web applications or backend which can include serverless, GKE backend etc. can be secured with SAML authentication flow using GCP tools like Google Identity aware proxy and Google cloud Identity platform. The session will discuss the complete steps and live demo of securing the application",
-		"track": "Cloud",
+		"title": "Launching a Startup",
+		"description": "What are the things that have to be taken care of when we plan to launch our start up. What can help us to build a sustainable business model and go from lean to large scale.",
+		"track": "Web",
 		"link": "",
 		"time": "",
 		"format": "Day 1",
@@ -145,9 +145,9 @@
 	{
 		"id": "1012",
 		"slide": "",
-		"title": "Launching a Startup",
-		"description": "What are the things that have to be taken care of when we plan to launch our start up. What can help us to build a sustainable business model and go from lean to large scale.",
-		"track": "Web",
+		"title": "Firebase for Startups: Scaling Your App from Zero to Hero",
+		"description": "Starting from scratch and scaling up a mobile or web application can be challenging for startups. Firebase, a comprehensive development platform, offers a wide range of tools and services that can make this journey smoother. This talk will guide startup founders and developers through the process of using Firebase to build a feature-rich app, attract users, and scale up without breaking the bank. We'll explore Firebase's suite of tools, best practices, and real-world examples to help your startup go from zero to hero.",
+		"track": "ML",
 		"link": "",
 		"time": "",
 		"format": "Day 1",
@@ -158,9 +158,9 @@
 	{
 		"id": "1013",
 		"slide": "",
-		"title": "Firebase for Startups: Scaling Your App from Zero to Hero",
-		"description": "Starting from scratch and scaling up a mobile or web application can be challenging for startups. Firebase, a comprehensive development platform, offers a wide range of tools and services that can make this journey smoother. This talk will guide startup founders and developers through the process of using Firebase to build a feature-rich app, attract users, and scale up without breaking the bank. We'll explore Firebase's suite of tools, best practices, and real-world examples to help your startup go from zero to hero.",
-		"track": "ML",
+		"title": "Web beyond browsers",
+		"description": "Web is omnipresent, in ways more than we all probably contemplate. Join for a fun filled AMA style session where we learn about the possibilities with the oldest, most sustainable and most loved platform available in the developer ecosystem till date!",
+		"track": "Web",
 		"link": "",
 		"time": "",
 		"format": "Day 1",
@@ -171,9 +171,9 @@
 	{
 		"id": "1014",
 		"slide": "",
-		"title": "Building advanced Gen-AI solutions using Google Cloud!",
-		"description": "In this session, you’ll embark on a journey into the exciting world of Generative AI and discover how Google Cloud’s GenAI portfolio can empower you to build intelligent solutions with Firebase and Google Cloud. We would be also looking at Google's state-of-the-art Generative AI offerings and learn how to architect a powerful RAG (Retrieval-Augmented Generation) solution on Google Cloud, from concept to deployment. The highlight of this session are the real-world applications and industry use-cases of Generative AI in diverse verticals. We'll also look at how healthcare, finance, e-commerce, and other industries are leveraging this technology to revolutionize their operations.",
-		"track": "ML",
+		"title": "Generative AI for Video Analytics with Vertex AI",
+		"description": "Learn how to analyze the views of Inluencers in youtube on any company or product using Google's Gen AI capabilities. With the advent of LLMs tapping insights from a wide range of sources such as balance sheets, views on social media platforms, influencers opinions have become all the more easier. Social media influencers especially in the Tech & Finance world are increasingly seen as key proponents of an organization or its competitors' products & policies.",
+		"track": "Cloud",
 		"link": "",
 		"time": "",
 		"format": "Day 1",
@@ -184,8 +184,8 @@
 	{
 		"id": "1015",
 		"slide": "",
-		"title": "Web beyond browsers",
-		"description": "Web is omnipresent, in ways more than we all probably contemplate. Join for a fun filled AMA style session where we learn about the possibilities with the oldest, most sustainable and most loved platform available in the developer ecosystem till date!",
+		"title": "Building Products that Scale - A Guide",
+		"description": "Coding is not that difficult; however building Products out of is. And building Product that can Scale is a entirely different ball game. In such high-stakes situation, decisions taken early-on form the foundation and can come back to bite you later.",
 		"track": "Web",
 		"link": "",
 		"time": "",
@@ -197,9 +197,9 @@
 	{
 		"id": "1016",
 		"slide": "",
-		"title": "Generative AI for Video Analytics with Vertex AI",
-		"description": "Learn how to analyze the views of Inluencers in youtube on any company or product using Google's Gen AI capabilities. With the advent of LLMs tapping insights from a wide range of sources such as balance sheets, views on social media platforms, influencers opinions have become all the more easier. Social media influencers especially in the Tech & Finance world are increasingly seen as key proponents of an organization or its competitors' products & policies.",
-		"track": "Cloud",
+		"title": "Building Products that Scale - A Guide",
+		"description": "Coding is not that difficult; however building Products out of is. And building Product that can Scale is a entirely different ball game. In such high-stakes situation, decisions taken early-on form the foundation and can come back to bite you later.",
+		"track": "ML",
 		"link": "",
 		"time": "",
 		"format": "Day 1",
@@ -212,15 +212,13 @@
 		"slide": "",
 		"title": "Building Products that Scale - A Guide",
 		"description": "Coding is not that difficult; however building Products out of is. And building Product that can Scale is a entirely different ball game. In such high-stakes situation, decisions taken early-on form the foundation and can come back to bite you later.",
-		"track": "Web",
+		"track": "ML",
 		"link": "",
 		"time": "",
 		"format": "Day 1",
 		"date": "November 26, 2023",
 		"timeDuration": "40",
-		"speakers": [
-			117
-		]
+		"speakers": [117]
 	},
 	{
 		"id": "1018",
@@ -274,34 +272,17 @@
 		"timeDuration": "20",
 		"speakers": []
 	},
-  {
-    "id": "1022",
-    "slide": "",
-    "title": "Keynote",
-    "description": "",
-    "track": "",
-    "link": "",
-    "time":"",
-    "format": "Day 1",
-    "date": "November 26, 2023",
-    "timeDuration": "30",
-    "speakers": [
-      101
-    ]
-  },
-  {
-    "id": "1023",
-    "slide": "",
-    "title": "Lunch Break",
-    "description": "",
-    "track": "",
-    "link": "",
-    "time":"",
-    "format": "Day 1",
-    "date": "November 26, 2023",
-    "timeDuration": "40",
-    "speakers": [
-      
-    ]
-  }
+	{
+		"id": "1023",
+		"slide": "",
+		"title": "Break",
+		"description": "",
+		"track": "",
+		"link": "",
+		"time": "",
+		"format": "Day 1",
+		"date": "November 26, 2023",
+		"timeDuration": "20",
+		"speakers": []
+	}
 ]
