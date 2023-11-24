@@ -17,26 +17,26 @@ export default new Vuex.Store({
           showDrawer: true
         },
       },
-      // {
-      //   text: "Schedule",
-      //   to: "/schedule",
-      //   icon: "mdi-format-float-left",
-      //   meta: {  
-      //     showToolbar: true,
-      //     showBottomNav: true,
-      //     showDrawer: true
-      //   },
-      // },
-      // {
-      //   text: "Speakers",
-      //   to: "/speakers",
-      //   icon: "mdi-account-switch",
-      //   meta: {
-      //     showToolbar: true,
-      //     showBottomNav: true,
-      //     showDrawer: true
-      //   },
-      // },
+      {
+        text: "Schedule",
+        to: "/schedule",
+        icon: "mdi-format-float-left",
+        meta: {  
+          showToolbar: true,
+          showBottomNav: true,
+          showDrawer: true
+        },
+      },
+      {
+        text: "Speakers",
+        to: "/speakers",
+        icon: "mdi-account-switch",
+        meta: {
+          showToolbar: true,
+          showBottomNav: true,
+          showDrawer: true
+        },
+      },
       {
         text: "Team",
         to: "/team",

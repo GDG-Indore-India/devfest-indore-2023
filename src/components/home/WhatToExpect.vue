@@ -1,5 +1,5 @@
 <template>
-  <v-container fluid class="expect-details-card">
+  <v-container fluid class="expect-details-card" style="background-color: rgb(249 249 249)  !important;">
     <v-row>
       <v-col md="12" cols="12" class="text-center">
         <p class="gdg-heading mb-0 google-font expect-heading-text" style="font-weight: 600;padding-top: 16px;">What You Can Expect this year at <span class="text-primary">DevFest Indore 2023</span></p>

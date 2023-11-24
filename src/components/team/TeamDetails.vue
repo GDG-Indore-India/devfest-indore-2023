@@ -9,7 +9,7 @@
           background: white;
           border-radius: 15px;
         "
-        class="text-center py-5 ma-1 fill-height"
+        class="text-center py-5 ma-1 fill-height team-card-details"
       >
         <v-avatar size="100">
           <!-- :src="require('@/assets/img/team/' + item.image)" :lazy-src="require('@/assets/img/team/' + item.image)" -->
@@ -90,5 +90,8 @@ export default {
 .img-wrapper {
   object-fit: cover !important;
   object-position: center !important;
+}
+.team-card-details {
+  height: 260px !important;
 }
 </style>

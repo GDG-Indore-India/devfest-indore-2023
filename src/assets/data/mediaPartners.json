@@ -11,21 +11,7 @@
          "youtube": "https://www.youtube.com/indoretalk"
        },
        "links": false,
-       "website":""
-    },
-    {
-        "name":"Sadhna News",
-        "desc":"",
-        "image":"sadhna-news.png",    
-        "socialMedia":{
-           "instagram":"https://instagram.com/sadhnanewsofficial",
-         "linkedin":"",
-         "twitter":"",
-         "github":"",
-         "youtube": ""
-       },
-       "links": false,
-       "website":""
+       "website":"https://indoretalk.com/"
     }
     ]
     
