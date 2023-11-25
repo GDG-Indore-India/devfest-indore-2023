@@ -418,5 +418,20 @@
       "website": "https://akshatpatel.me/",
       "github": "https://github.com/Akshat5129"
     }
+  },
+  {
+    "name": "Akshay Malviya",
+    "community": {
+      "name": "Capgemini",
+      "designation": "Senior Software Engineer at Volvo Group IT via Capgemini Engineering Nordics"
+    },
+    "image": "akshay.png",
+    "bio": "Software Engineer with a demonstrated history of working in the information technology and services industry. Former Community Organizer for GDG Cloud Indore, an independent developer community from Google Developers. Skilled in Data Science, Python, Databases, and ERP. Strong engineering professional with a Bachelor’s Degree focused in Computer Science Engineering.",
+    "social": {
+      "twitter": "https://twitter.com/imakshaymalviya",
+      "linkedin": "https://www.linkedin.com/in/akshaymalviya/",
+      "website": "",
+      "github": ""
+    }
   }
   ]

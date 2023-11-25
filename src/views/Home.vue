@@ -34,9 +34,11 @@
           </v-col> -->
         </v-row>
         <v-row>
-          <Timer />
+          <!-- <Timer /> -->
+          <YTLiveStreams />
+
         </v-row>
-          <Ticketing/>
+          <!-- <Ticketing/> -->
           <v-divider></v-divider>
           <WhatToExpect />
           <v-divider></v-divider>
@@ -66,10 +68,9 @@ import SocialInfo from '../components/home/SocialInfo.vue';
 import titleMixin from '@/mixins/titleMixin';
 import WhatToExpect from '../components/home/WhatToExpect.vue';
 import Partners from '../components/common/Partners.vue';
-import Ticketing from '../components/home/Ticketing.vue';
-import Timer from '../components/home/Timer.vue';
 import YtCards from '../components/home/YtCards.vue';
 import CommunityLounge from '../components/home/CommunityLounge.vue';
+import YTLiveStreams from '../components/home/YTLiveStream.vue';
 
 
 export default {
@@ -80,10 +81,9 @@ export default {
     SocialInfo,
     WhatToExpect,
     Partners,
-    Ticketing,
-    Timer,
     YtCards,
-    CommunityLounge
+    CommunityLounge,
+    YTLiveStreams
 },
   data(){
     return {

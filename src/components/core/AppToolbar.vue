@@ -37,11 +37,11 @@
           v-for="(link, i) in links.filter((obj) => obj.meta.showToolbar)" :key="i" :to="link.to"
           @click="onClick($event, link)" style="text-transform: capitalize; font-size: 100%">{{ link.text }}</v-tab>
       </v-tabs>
-      <v-btn rounded depressed target="_blank" class="mx-3 hidden-sm-and-down" color="green" dark
+      <!-- <v-btn rounded depressed target="_blank" class="mx-3 hidden-sm-and-down" color="green" dark
         href="https://gdg.community.dev/e/mmfhrz/">
         <v-icon left>mdi-account-circle-outline</v-icon>
         Book Tickets
-      </v-btn>
+      </v-btn> -->
       <!-- <v-btn rounded depressed class="mx-3 hidden-sm-and-down" color="#ea4335" dark href="https://bit.ly/devfest22indore" target="_blank">
       <a target="_blank" style="color: #fff; text-decoration: none;"><v-icon left>mdi-email-outline</v-icon>Invite Only Form</a>
     </v-btn> -->

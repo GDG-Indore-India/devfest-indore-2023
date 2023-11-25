@@ -1,5 +1,5 @@
 <template>
-  <v-main class="my-0">
+  <v-main class="my-0 mt-10"> 
     <v-container fluid>
       <v-row align="center" justify="center">
         <v-col cols="12" md="10">

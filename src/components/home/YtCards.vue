@@ -1,6 +1,6 @@
 <template>
     <v-container>
-      <h2 class="google-font">Explore Previous Devfest Livestreams</h2>
+      <h2 class="google-font" style="text-align: center; width: 100%;">Explore Previous Devfest Livestreams</h2>
       <v-row>
         <v-col
         v-for="(video, index) in videoData"
